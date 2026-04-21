@@ -1,0 +1,1501 @@
+name,variant,condition,city,year,km_driven,fuel,transmission,owner,mileage,engine,max_power,seats,Original_Price,Price
+Hyundai Venue,S (Mid),Fair,Metro (High Demand),2021,46070.87,Petrol,Manual,Third Owner,18.0,998,118,5,1165111.74,515819.12
+Volkswagen Virtus,Comfortline (Mid),Fair,Tier 2 (Medium),2015,48496.47,CNG,Manual,Second Owner,18.0,1498,148,5,1543531.94,482283.21
+Kia Carens,HTE (Base),Good,Rural (Low),2012,40662.21,CNG,Automatic,First Owner,16.0,1497,113,7,1363757.13,437017.62
+Kia Sonet,GTX (Top),Good,Metro (High Demand),2018,135108.51,Diesel,Manual,First Owner,18.0,998,118,5,1252853.34,521076.11
+Hyundai Verna,S (Mid),Poor,Metro (High Demand),2015,139160.03,CNG,Automatic,First Owner,19.0,1497,113,5,1382466.01,433478.83
+Tata Altroz,XE (Base),Fair,Tier 2 (Medium),2017,93478.91,Diesel,Manual,Third Owner,19.0,1199,84,5,935086.67,290915.88
+Hyundai Verna,S (Mid),Fair,Tier 2 (Medium),2024,60988.54,Diesel,Automatic,Third Owner,19.0,1497,113,5,1586419.46,838081.76
+Kia Sonet,GTX (Top),Good,Tier 2 (Medium),2021,107450.54,Petrol,Manual,First Owner,18.0,998,118,5,1228671.52,694310.2
+Maruti Suzuki Brezza,LXI (Base),Fair,Tier 2 (Medium),2013,78737.5,Petrol,Manual,First Owner,19.0,1462,103,5,949606.31,314409.41
+Hyundai Grand i10,SX (Top),Fair,Rural (Low),2014,12705.37,Diesel,Automatic,First Owner,20.0,1197,82,5,987482.06,325555.62
+Maruti Suzuki Swift,ZXI (Top),Good,Tier 2 (Medium),2025,102309.02,Petrol,Manual,First Owner,21.0,1197,82,5,711572.03,622976.42
+Maruti Suzuki Ertiga,VXI (Mid),Excellent,Metro (High Demand),2023,85924.26,Petrol,Automatic,First Owner,20.0,1462,103,7,1272835.09,1096654.7
+Maruti Suzuki Swift,VXI (Mid),Good,Rural (Low),2023,71191.67,Diesel,Automatic,First Owner,21.0,1197,82,5,1005344.11,880865.74
+Honda Elevate,VX (Top),Good,Tier 2 (Medium),2012,52802.69,Petrol,Manual,Second Owner,15.0,1498,119,5,1449452.31,446128.59
+Tata Altroz,XE (Base),Fair,Metro (High Demand),2021,27088.59,CNG,Manual,First Owner,19.0,1199,84,5,805895.68,435288.11
+Maruti Suzuki Baleno,LXI (Base),Good,Tier 2 (Medium),2024,5185.86,CNG,Automatic,Second Owner,22.0,1197,88,5,918084.32,718193.27
+Tata Safari,XM (Mid),Excellent,Rural (Low),2016,58819.57,Petrol,Automatic,Third Owner,14.0,1956,167,7,2252632.91,686137.97
+Mahindra XUV300,Base,Fair,Rural (Low),2016,97336.21,CNG,Manual,First Owner,17.0,1197,108,5,1229458.76,383100.38
+Maruti Suzuki Swift,LXI (Base),Good,Rural (Low),2022,59243.53,Diesel,Manual,Second Owner,21.0,1197,82,5,739798.46,451307.8
+Mahindra Bolero,Base,Fair,Metro (High Demand),2016,120025.71,CNG,Automatic,First Owner,16.0,1493,75,7,1139383.44,365987.87
+Hyundai Grand i10,S (Mid),Good,Metro (High Demand),2016,132514.67,Petrol,Automatic,Third Owner,20.0,1197,82,5,854579.39,285086.2
+Maruti Suzuki Alto,ZXI (Top),Excellent,Metro (High Demand),2019,25338.04,Petrol,Automatic,First Owner,22.0,796,47,5,641319.78,468350.4
+Hyundai i20,S (Mid),Good,Tier 2 (Medium),2018,16973.04,CNG,Manual,First Owner,20.0,1197,82,5,846742.74,398580.28
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2022,99610.76,Diesel,Manual,Third Owner,16.0,1497,113,7,1369815.3,691936.86
+Tata Altroz,XM (Mid),Excellent,Metro (High Demand),2019,120445.66,Diesel,Manual,Third Owner,19.0,1199,84,5,1047597.27,399547.74
+Kia Sonet,HTE (Base),Fair,Tier 2 (Medium),2025,80319.28,Diesel,Automatic,Second Owner,18.0,998,118,5,1342625.89,821946.36
+Tata Nexon,XZ (Top),Fair,Tier 2 (Medium),2025,142544.12,Diesel,Automatic,Second Owner,17.0,1199,118,5,1433547.27,852631.4
+Maruti Suzuki Brezza,LXI (Base),Good,Metro (High Demand),2015,74679.75,Diesel,Manual,Third Owner,19.0,1462,103,5,1070748.15,333113.73
+Maruti Suzuki Swift,VXI (Mid),Excellent,Metro (High Demand),2021,51846.58,Petrol,Automatic,Third Owner,21.0,1197,82,5,833174.9,507492.69
+Honda Amaze,E (Base),Good,Metro (High Demand),2014,140182.38,Petrol,Manual,Second Owner,18.0,1199,88,5,906956.07,301005.6
+Kia Seltos,HTE (Base),Good,Rural (Low),2023,22109.69,Petrol,Automatic,Second Owner,16.0,1497,113,5,1767931.75,1107899.01
+Toyota Innova,V (Top),Good,Rural (Low),2014,133799.45,CNG,Manual,First Owner,11.0,2393,148,7,2646307.59,820034.86
+Kia Sonet,HTK (Mid),Good,Tier 2 (Medium),2018,70777.02,Diesel,Manual,First Owner,18.0,998,118,5,1253680.52,641824.96
+Mahindra XUV300,Mid,Good,Tier 2 (Medium),2024,18323.84,Petrol,Manual,First Owner,17.0,1197,108,5,1217645.31,1071875.81
+Maruti Suzuki Ertiga,LXI (Base),Good,Tier 2 (Medium),2020,73612.53,Diesel,Automatic,Second Owner,20.0,1462,103,7,1359869.37,586732.44
+Kia Sonet,GTX (Top),Excellent,Metro (High Demand),2014,94482.23,Petrol,Manual,First Owner,18.0,998,118,5,1151566.61,453979.42
+Tata Safari,XM (Mid),Excellent,Metro (High Demand),2024,147139.31,CNG,Manual,First Owner,14.0,1956,167,7,2087842.14,1793249.42
+Volkswagen Vento,Highline (Top),Excellent,Tier 2 (Medium),2018,23441.11,CNG,Automatic,First Owner,17.0,999,108,5,1355796.6,864148.57
+Kia Carens,HTK (Mid),Excellent,Metro (High Demand),2024,70571.47,Diesel,Automatic,Second Owner,16.0,1497,113,7,1573772.82,1274526.36
+Maruti Suzuki Brezza,LXI (Base),Good,Metro (High Demand),2022,142976.93,CNG,Automatic,Third Owner,19.0,1462,103,5,1098834.73,447373.17
+Honda City,VX (Top),Good,Tier 2 (Medium),2014,74785.44,Petrol,Manual,Second Owner,17.0,1498,119,5,1566642.91,487201.14
+Tata Nexon,XM (Mid),Good,Metro (High Demand),2017,50491.67,Diesel,Manual,First Owner,17.0,1199,118,5,1311394.15,584395.11
+Mahindra XUV300,Base,Fair,Tier 2 (Medium),2021,86864.13,CNG,Automatic,First Owner,17.0,1197,108,5,1272055.56,648129.64
+Mahindra Scorpio,Top,Poor,Metro (High Demand),2020,141207.73,Petrol,Manual,First Owner,15.0,2184,130,7,1832773.83,813564.93
+Kia Sonet,HTK (Mid),Poor,Metro (High Demand),2011,34309.23,CNG,Automatic,Second Owner,18.0,998,118,5,1258325.2,399744.61
+Hyundai Creta,SX (Top),Good,Tier 2 (Medium),2022,10322.96,CNG,Automatic,Second Owner,16.0,1497,113,5,1752158.58,1245645.54
+Honda Elevate,S (Mid),Good,Tier 2 (Medium),2025,56542.11,CNG,Automatic,First Owner,15.0,1498,119,5,1591848.58,1420599.44
+Kia Seltos,HTK (Mid),Good,Rural (Low),2023,133365.56,Diesel,Manual,First Owner,16.0,1497,113,5,1832545.46,1119087.54
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2023,31454.61,CNG,Automatic,First Owner,11.0,2393,148,7,2853720.89,2546209.1
+Volkswagen Polo,Comfortline (Mid),Excellent,Metro (High Demand),2019,710504.6685410965,CNG,Automatic,First Owner,18.0,999,108,5,1001505.18,503217.78
+Honda City,E (Base),Good,Metro (High Demand),2023,114717.81,CNG,Manual,Second Owner,17.0,1498,119,5,1425343.4,780900.36
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2019,30805.66,Petrol,Automatic,Second Owner,18.0,1199,88,5,1053627.31,503406.48
+Kia Seltos,HTK (Mid),Good,Tier 2 (Medium),2011,40142.13,Diesel,Manual,Fourth & Above Owner,16.0,1497,113,5,1830584.47,567859.59
+Honda Amaze,E (Base),Good,Rural (Low),2020,30994.79,Diesel,Manual,Third Owner,18.0,1199,88,5,939417.83,418682.08
+Hyundai Grand i10,S (Mid),Poor,Rural (Low),2025,121286.62,CNG,Manual,First Owner,20.0,1197,82,5,800936.95,456885.79
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2023,114389.28,Diesel,Manual,First Owner,18.0,1462,103,5,1245111.57,763662.12
+Mahindra Bolero,Top,Good,Metro (High Demand),2014,67631.31,CNG,Automatic,First Owner,16.0,1493,75,7,1184790.05,387205.36
+Kia Seltos,HTE (Base),Good,Rural (Low),2013,69756.29,CNG,Automatic,Fourth & Above Owner,16.0,1497,113,5,1855742.94,582491.31
+Toyota Glanza,G (Base),Fair,Rural (Low),2015,69611.59,Diesel,Manual,First Owner,22.0,1197,88,5,977105.15,310557.94
+Kia Seltos,HTK (Mid),Poor,Tier 2 (Medium),2011,132035.82,Diesel,Automatic,First Owner,16.0,1497,113,5,1939264.65,606187.65
+Mahindra XUV700,Top,Excellent,Metro (High Demand),2014,75289.56,Diesel,Manual,Second Owner,13.0,2198,182,7,2329115.81,820123.76
+Hyundai i20,E (Base),Good,Metro (High Demand),2019,137631.84,Petrol,Automatic,First Owner,20.0,1197,82,5,1012189.77,461456.73
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2014,138920.08,CNG,Automatic,First Owner,16.0,1497,113,7,1455396.77,462653.74
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2011,146601.69,Diesel,Automatic,First Owner,11.0,2393,148,7,2781541.54,851296.12
+Tata Tiago,XZ (Top),Good,Tier 2 (Medium),2013,124047.18,Diesel,Automatic,Third Owner,20.0,1199,84,5,1025189.93,333593.41
+Maruti Suzuki Ertiga,ZXI (Top),Good,Metro (High Demand),2014,111980.69,Diesel,Automatic,Third Owner,20.0,1462,103,7,1322359.51,423928.88
+Mahindra Bolero,Base,Good,Metro (High Demand),2015,46308.23,Petrol,Manual,First Owner,16.0,1493,75,7,971664.98,343781.41
+Volkswagen Virtus,Comfortline (Mid),Fair,Tier 2 (Medium),2014,90328.26,Diesel,Manual,Fourth & Above Owner,18.0,1498,148,5,1642690.11,517685.26
+Honda Elevate,E (Base),Good,Tier 2 (Medium),2012,59900.43,CNG,Manual,First Owner,15.0,1498,119,5,1365040.57,436242.79
+Tata Safari,XE (Base),Good,Tier 2 (Medium),2019,22336.91,CNG,Manual,Third Owner,14.0,1956,167,7,2045413.61,833137.09
+Kia Sonet,HTE (Base),Good,Rural (Low),2021,93854.54,Petrol,Automatic,First Owner,18.0,998,118,5,1232989.86,688057.08
+Toyota Fortuner,V (Top),Fair,Rural (Low),2021,12663.72,CNG,Automatic,First Owner,10.0,2755,201,7,3780275.43,2486891.73
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2014,130756.87,Petrol,Automatic,First Owner,11.0,2393,148,7,2801011.23,855698.93
+Honda Elevate,S (Mid),Good,Metro (High Demand),2013,114700.8,Diesel,Manual,First Owner,15.0,1498,119,5,1572946.25,496640.39
+Honda Elevate,S (Mid),Excellent,Rural (Low),2013,476051.340875481,CNG,Automatic,Second Owner,15.0,1498,119,5,1552376.72,481729.16
+Honda Amaze,VX (Top),Good,Tier 2 (Medium),2016,59423.94,Petrol,Manual,First Owner,18.0,1199,88,5,1017025.11,413232.81
+Tata Safari,XZ (Top),Good,Tier 2 (Medium),2024,74950.54,CNG,Manual,Second Owner,14.0,1956,167,7,2171294.71,1603386.34
+Kia Carens,GTX (Top),Fair,Metro (High Demand),2022,62061.13,CNG,Manual,First Owner,16.0,1497,113,7,1400099.17,969919.14
+Honda Amaze,S (Mid),Good,Metro (High Demand),2024,73381.77,Petrol,Automatic,Third Owner,18.0,1199,88,5,994996.06,670780.02
+Tata Nexon,XZ (Top),Good,Metro (High Demand),2023,108870.11,Diesel,Manual,First Owner,17.0,1199,118,5,1407199.57,1029801.63
+Hyundai Verna,SX (Top),Excellent,Metro (High Demand),2025,49053.78,Diesel,Automatic,First Owner,19.0,1497,113,5,1581038.16,1403712.4
+Kia Sonet,GTX (Top),Excellent,Tier 2 (Medium),2016,112729.32,CNG,Manual,Second Owner,18.0,998,118,5,1207156.31,376093.15
+Toyota Fortuner,G (Base),Good,Tier 2 (Medium),2013,115613.7,CNG,Manual,Second Owner,10.0,2755,201,7,3542377.28,1088120.67
+Kia Seltos,HTK (Mid),Good,Rural (Low),2018,123283.49,Diesel,Manual,First Owner,16.0,1497,113,5,1809956.58,688942.27
+Volkswagen Polo,Comfortline (Mid),Fair,Rural (Low),2015,68062.1,CNG,Manual,First Owner,18.0,999,108,5,851874.75,266120.94
+Mahindra XUV700,Mid,Excellent,Metro (High Demand),2013,96010.04,Petrol,Automatic,First Owner,13.0,2198,182,7,2276631.38,844791.51
+Toyota Innova,G (Base),Excellent,Metro (High Demand),2024,16615.78,CNG,Automatic,First Owner,11.0,2393,148,7,2666120.46,2373599.74
+Kia Seltos,GTX (Top),Fair,Tier 2 (Medium),2017,81481.37,Petrol,Automatic,First Owner,16.0,1497,113,5,1952063.89,697776.72
+Hyundai i20,E (Base),Fair,Metro (High Demand),2015,110060.2,Petrol,Automatic,First Owner,20.0,1197,82,5,1038291.76,329847.15
+Mahindra Bolero,Mid,Fair,Metro (High Demand),2023,78424.5,Petrol,Automatic,First Owner,16.0,1493,75,7,1175642.06,846051.72
+Kia Seltos,GTX (Top),Excellent,Metro (High Demand),2023,53355.62,CNG,Automatic,Third Owner,16.0,1497,113,5,1939511.07,1283128.41
+Volkswagen Taigun,Comfortline (Mid),Good,Metro (High Demand),2011,87706.46,Petrol,Automatic,First Owner,16.0,1498,148,5,1698235.23,532085.93
+Volkswagen Polo,Comfortline (Mid),Fair,Rural (Low),2021,30535.05,CNG,Automatic,First Owner,18.0,999,108,5,1072073.6,613664.44
+Volkswagen Polo,Trendline (Base),Poor,Tier 2 (Medium),2021,81502.54,CNG,Manual,First Owner,18.0,999,108,5,911362.49,367517.92
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2015,33317.15,Petrol,Manual,Second Owner,18.0,1498,148,5,1548279.53,490500.63
+Tata Safari,XM (Mid),Poor,Metro (High Demand),2014,148038.68,Petrol,Automatic,First Owner,14.0,1956,167,7,2180556.35,678158.72
+Hyundai Grand i10,E (Base),Fair,Rural (Low),2013,131562.52,Petrol,Manual,First Owner,20.0,1197,82,5,737557.55,245237.27
+Kia Sonet,HTK (Mid),Good,Rural (Low),2017,24115.5,Petrol,Automatic,Second Owner,18.0,998,118,5,1181210.37,426442.12
+Toyota Fortuner,G (Base),Good,Metro (High Demand),2024,54971.48,CNG,Manual,First Owner,10.0,2755,201,7,3620117.25,3230812.16
+Honda Elevate,E (Base),Excellent,Tier 2 (Medium),2011,148516.81,Diesel,Automatic,First Owner,15.0,1498,119,5,1659327.69,514732.97
+Volkswagen Virtus,Comfortline (Mid),Good,Rural (Low),2025,139054.89,CNG,Automatic,First Owner,18.0,1498,148,5,1680770.18,1257001.8
+Mahindra XUV300,Top,Good,Metro (High Demand),2016,31432.04,Petrol,Manual,Second Owner,17.0,1197,108,5,1265866.42,446010.83
+Mahindra Scorpio,Top,Good,Tier 2 (Medium),2011,113686.5,Petrol,Automatic,First Owner,15.0,2184,130,7,1856519.47,577797.24
+Honda Amaze,E (Base),Fair,Metro (High Demand),2024,30478.39,Diesel,Automatic,First Owner,18.0,1199,88,5,1145167.16,958129.63
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2014,438374.6653910385,Petrol,Automatic,Second Owner,16.0,1497,113,7,1327672.84,418619.67
+Maruti Suzuki Baleno,LXI (Base),Good,Tier 2 (Medium),2017,330102.03964664927,Petrol,Manual,First Owner,22.0,1197,88,5,807262.81,305032.49
+Mahindra Scorpio,Base,Good,Metro (High Demand),2012,64786.66,Diesel,Manual,Third Owner,15.0,2184,130,7,1704442.59,527650.75
+Tata Tiago,XM (Mid),Fair,Rural (Low),2016,31432.17,Diesel,Manual,First Owner,20.0,1199,84,5,887387.46,304002.85
+Tata Tiago,XE (Base),Excellent,Metro (High Demand),2020,6265.96,Diesel,Automatic,First Owner,20.0,1199,84,5,884833.93,656567.57
+Maruti Suzuki Brezza,ZXI (Top),Good,Tier 2 (Medium),2021,5955.95,CNG,Manual,First Owner,19.0,1462,103,5,1050440.58,758148.7
+Tata Safari,XZ (Top),Fair,Tier 2 (Medium),2013,96893.65,Diesel,Automatic,First Owner,14.0,1956,167,7,2400148.22,743390.63
+Honda Elevate,S (Mid),Excellent,Tier 2 (Medium),2024,67026.98,Petrol,Automatic,First Owner,15.0,1498,119,5,1536896.45,1372269.48
+Kia Seltos,HTK (Mid),Good,Metro (High Demand),2020,91647.23,Petrol,Manual,First Owner,16.0,1497,113,5,1760545.42,1044111.91
+Honda City,VX (Top),Poor,Tier 2 (Medium),2021,11668.44,CNG,Manual,First Owner,17.0,1498,119,5,1639343.69,808197.56
+Hyundai Creta,SX (Top),Fair,Tier 2 (Medium),2022,48690.94,Diesel,Manual,Second Owner,16.0,1497,113,5,1785206.81,1120185.05
+Mahindra XUV700,Top,Good,Rural (Low),2014,124753.42,Diesel,Automatic,First Owner,13.0,2198,182,7,2396204.56,2130103.01
+Honda Amaze,VX (Top),Good,Rural (Low),2023,32138.86,CNG,Automatic,Third Owner,18.0,1199,88,5,1041175.91,648282.36
+Mahindra XUV300,Base,Good,Metro (High Demand),2020,35545.53,Diesel,Automatic,First Owner,17.0,1197,108,5,1397049.42,887238.51
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2022,117092.47,CNG,Manual,First Owner,18.0,1498,148,5,1609967.11,984439.97
+Mahindra Thar,Mid,Fair,Tier 2 (Medium),2025,61832.13,Petrol,Manual,First Owner,15.0,1997,150,4,1665512.89,1344752.56
+Mahindra XUV700,Top,Good,Tier 2 (Medium),2015,145355.43,CNG,Manual,First Owner,13.0,2198,182,7,2195816.08,722456.82
+Toyota Glanza,V (Top),Good,Tier 2 (Medium),2022,58469.44,CNG,Automatic,First Owner,22.0,1197,88,5,1138278.23,790514.24
+Hyundai Grand i10,SX (Top),Good,Tier 2 (Medium),2012,138713.01,Diesel,Manual,Third Owner,20.0,1197,82,5,906428.92,299878.85
+Toyota Innova,G (Base),Excellent,Metro (High Demand),2011,93561.52,Petrol,Manual,First Owner,11.0,2393,148,7,2595053.62,807990.69
+Honda Amaze,S (Mid),Fair,Metro (High Demand),2019,70544.21,Diesel,Automatic,Fourth & Above Owner,18.0,1199,88,5,1206081.1,376127.07
+Hyundai Verna,SX (Top),Fair,Metro (High Demand),2022,43400.25,CNG,Automatic,First Owner,19.0,1497,113,5,1421133.77,1044598.45
+Honda Elevate,VX (Top),Good,Rural (Low),2016,619232.5362568663,CNG,Manual,First Owner,15.0,1498,119,5,1540003.7,503973.75
+Volkswagen Polo,Highline (Top),Good,Tier 2 (Medium),2016,736175.2717595121,CNG,Automatic,First Owner,18.0,999,108,5,1034367.03,328017.9
+Mahindra XUV700,Top,Poor,Tier 2 (Medium),2014,140739.86,CNG,Automatic,Second Owner,13.0,2198,182,7,2309886.14,718856.46
+Kia Carens,GTX (Top),Excellent,Tier 2 (Medium),2020,23669.74,CNG,Automatic,First Owner,16.0,1497,113,7,1518510.18,988206.46
+Maruti Suzuki Brezza,LXI (Base),Excellent,Metro (High Demand),2018,39622.66,Petrol,Manual,Third Owner,19.0,1462,103,5,961886.91,362671.36
+Volkswagen Virtus,Comfortline (Mid),Excellent,Metro (High Demand),2011,123113.45,Diesel,Automatic,First Owner,18.0,1498,148,5,1894659.49,596616.83
+Maruti Suzuki Ertiga,VXI (Mid),Good,Tier 2 (Medium),2020,87371.62,Diesel,Manual,First Owner,20.0,1462,103,7,1228508.13,699091.42
+Volkswagen Polo,Comfortline (Mid),Excellent,Tier 2 (Medium),2018,126959.66,Diesel,Automatic,Second Owner,18.0,999,108,5,1154851.88,390522.27
+Volkswagen Polo,Trendline (Base),Good,Tier 2 (Medium),2021,70790.55,Petrol,Manual,First Owner,18.0,999,108,5,933315.04,512359.55
+Volkswagen Vento,Trendline (Base),Good,Tier 2 (Medium),2023,92321.29,Diesel,Automatic,First Owner,17.0,999,108,5,1402691.21,1036695.2
+Maruti Suzuki Brezza,ZXI (Top),Fair,Tier 2 (Medium),2023,130519.75,Diesel,Manual,First Owner,19.0,1462,103,5,1186356.05,662924.56
+Kia Carens,HTE (Base),Fair,Tier 2 (Medium),2013,78927.94,CNG,Automatic,Third Owner,16.0,1497,113,7,1385915.08,437520.78
+Mahindra XUV300,Base,Good,Tier 2 (Medium),2020,94081.89,CNG,Manual,Fourth & Above Owner,17.0,1197,108,5,1139439.42,342527.51
+Volkswagen Virtus,Comfortline (Mid),Good,Metro (High Demand),2025,19554.9,CNG,Manual,Third Owner,18.0,1498,148,5,1588119.58,1294429.22
+Honda City,S (Mid),Fair,Tier 2 (Medium),2013,119116.24,Petrol,Automatic,First Owner,17.0,1498,119,5,1602251.07,491450.79
+Maruti Suzuki Ertiga,VXI (Mid),Poor,Metro (High Demand),2015,71955.64,Petrol,Automatic,Second Owner,20.0,1462,103,7,1238151.98,390938.4
+Maruti Suzuki Ertiga,LXI (Base),Fair,Metro (High Demand),2025,72263.39,CNG,Manual,Fourth & Above Owner,20.0,1462,103,7,1107020.82,534132.84
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2018,144069.24,Diesel,Automatic,First Owner,18.0,1462,103,5,1353667.69,457228.02
+Tata Tiago,XE (Base),Good,Metro (High Demand),2015,40863.28,CNG,Automatic,First Owner,20.0,1199,84,5,740508.86,281564.04
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2017,11625.05,Diesel,Automatic,First Owner,18.0,1462,103,5,1348090.62,616744.16
+Maruti Suzuki Baleno,LXI (Base),Fair,Tier 2 (Medium),2024,100766.54,CNG,Manual,Fourth & Above Owner,22.0,1197,88,5,769525.44,272472.7
+Maruti Suzuki Swift,VXI (Mid),Good,Tier 2 (Medium),2020,46964.96,Petrol,Automatic,First Owner,21.0,1197,82,5,790655.13,529493.34
+Honda City,VX (Top),Good,Tier 2 (Medium),2016,138552.93,Diesel,Manual,First Owner,17.0,1498,119,5,1662720.87,554863.28
+Tata Harrier,XE (Base),Poor,Metro (High Demand),2021,101018.53,Diesel,Automatic,Fourth & Above Owner,16.0,1956,167,5,2040263.14,626588.9
+Toyota Innova,V (Top),Poor,Rural (Low),2014,30485.14,CNG,Manual,Fourth & Above Owner,11.0,2393,148,7,2725653.13,831804.89
+Tata Altroz,XE (Base),Good,Tier 2 (Medium),2022,121152.51,Petrol,Automatic,Fourth & Above Owner,19.0,1199,84,5,986008.13,370847.07
+Maruti Suzuki Swift,LXI (Base),Good,Metro (High Demand),2014,149624.37,Diesel,Automatic,First Owner,21.0,1197,82,5,844090.82,260258.97
+Maruti Suzuki Alto,LXI (Base),Excellent,Metro (High Demand),2017,11271.26,CNG,Manual,First Owner,22.0,796,47,5,369629.21,200035.11
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2020,106570.37,Diesel,Automatic,Second Owner,18.0,1462,103,5,1221020.17,521329.92
+Volkswagen Polo,Trendline (Base),Fair,Metro (High Demand),2022,104317.67,Diesel,Manual,Second Owner,18.0,999,108,5,960329.66,389037.48
+Mahindra Scorpio,Base,Excellent,Tier 2 (Medium),2019,59670.65,CNG,Automatic,Second Owner,15.0,2184,130,7,1869119.85,961136.94
+Mahindra Bolero,Base,Good,Metro (High Demand),2025,80880.31,CNG,Manual,First Owner,16.0,1493,75,7,1054056.86,925296.37
+Volkswagen Vento,Comfortline (Mid),Good,Metro (High Demand),2018,34557.56,Diesel,Manual,Second Owner,17.0,999,108,5,1266705.61,563879.59
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2012,108501.65,Diesel,Automatic,First Owner,16.0,1497,113,7,1420342.01,438282.35
+Hyundai Venue,S (Mid),Fair,Rural (Low),2025,70098.69,Diesel,Manual,First Owner,18.0,998,118,5,1275402.38,987618.94
+Tata Tiago,XZ (Top),Fair,Rural (Low),2015,14261.06,Diesel,Manual,First Owner,20.0,1199,84,5,825231.19,269983.48
+Tata Altroz,XZ (Top),Excellent,Metro (High Demand),2022,89447.38,Diesel,Manual,Second Owner,19.0,1199,84,5,1090872.54,735791.3
+Volkswagen Taigun,Comfortline (Mid),Fair,Tier 2 (Medium),2020,40612.1,Diesel,Manual,First Owner,16.0,1498,148,5,1594383.11,792266.03
+Toyota Innova,G (Base),Excellent,Tier 2 (Medium),2012,29720.18,Diesel,Automatic,Second Owner,11.0,2393,148,7,2770990.18,850620.07
+Mahindra XUV700,Base,Fair,Rural (Low),2022,70407.73,CNG,Automatic,First Owner,13.0,2198,182,7,2125555.16,1329797.15
+Hyundai Verna,SX (Top),Poor,Tier 2 (Medium),2020,80783.87,Diesel,Automatic,Third Owner,19.0,1497,113,5,1581059.11,504229.42
+Tata Harrier,XE (Base),Poor,Metro (High Demand),2017,74805.66,Petrol,Automatic,First Owner,16.0,1956,167,5,1983993.59,618481.47
+Kia Seltos,HTK (Mid),Fair,Metro (High Demand),2012,130974.77,Diesel,Automatic,Third Owner,16.0,1497,113,5,1993312.83,619822.76
+Volkswagen Vento,Comfortline (Mid),Excellent,Tier 2 (Medium),2015,141242.92,CNG,Manual,First Owner,17.0,999,108,5,1161040.73,411282.11
+Mahindra XUV300,Mid,Good,Tier 2 (Medium),2014,7229.47,Petrol,Manual,Second Owner,17.0,1197,108,5,1284963.1,405814.91
+Hyundai Verna,E (Base),Good,Tier 2 (Medium),2021,112001.5,CNG,Manual,First Owner,19.0,1497,113,5,1335842.67,666668.93
+Tata Altroz,XZ (Top),Excellent,Tier 2 (Medium),2021,18167.21,Diesel,Automatic,Third Owner,19.0,1199,84,5,1196081.6,662739.34
+Maruti Suzuki Dzire,ZXI (Top),Good,Metro (High Demand),2013,90643.63,Diesel,Automatic,First Owner,23.0,1197,88,5,1040191.05,331468.63
+Volkswagen Taigun,Comfortline (Mid),Good,Tier 2 (Medium),2020,138314.57,Petrol,Manual,First Owner,16.0,1498,148,5,1543922.26,702808.08
+Honda Amaze,VX (Top),Poor,Tier 2 (Medium),2017,61065.52,Petrol,Automatic,Second Owner,18.0,1199,88,5,1131282.07,363163.95
+Volkswagen Polo,Comfortline (Mid),Good,Metro (High Demand),2016,117863.05,Diesel,Manual,First Owner,18.0,999,108,5,971337.61,354808.98
+Toyota Urban Cruiser,V (Top),Fair,Rural (Low),2015,48076.24,CNG,Manual,First Owner,18.0,1462,103,5,1199775.28,383611.32
+Kia Carens,HTK (Mid),Fair,Tier 2 (Medium),2017,34523.88,Petrol,Automatic,Second Owner,16.0,1497,113,7,1436032.04,456369.65
+Volkswagen Polo,Trendline (Base),Fair,Metro (High Demand),2016,108219.04,CNG,Automatic,First Owner,18.0,999,108,5,999337.64,322981.71
+Maruti Suzuki Brezza,LXI (Base),Fair,Metro (High Demand),2013,130544.83,Diesel,Manual,First Owner,19.0,1462,103,5,1031805.33,327029.09
+Tata Harrier,XE (Base),Good,Rural (Low),2014,81121.38,Diesel,Manual,First Owner,16.0,1956,167,5,1920075.9,603792.74
+Toyota Glanza,G (Base),Excellent,Tier 2 (Medium),2022,13058.46,Petrol,Manual,Second Owner,22.0,1197,88,5,812972.54,523063.11
+Toyota Urban Cruiser,V (Top),Fair,Metro (High Demand),2012,65401.43,CNG,Automatic,First Owner,18.0,1462,103,5,1319921.69,425950.3
+Kia Seltos,HTK (Mid),Good,Rural (Low),2024,105780.91,Diesel,Automatic,First Owner,16.0,1497,113,5,1951963.8,1298024.14
+Hyundai i20,E (Base),Good,Metro (High Demand),2016,40192.64,CNG,Manual,Fourth & Above Owner,20.0,1197,82,5,825750.83,263377.02
+Hyundai i20,S (Mid),Good,Tier 2 (Medium),2013,55650.31,Diesel,Automatic,First Owner,20.0,1197,82,5,1191455.42,363497.28
+Volkswagen Virtus,Highline (Top),Fair,Tier 2 (Medium),2021,138905.78,CNG,Automatic,Third Owner,18.0,1498,148,5,1840031.07,621836.44
+Maruti Suzuki Alto,LXI (Base),Fair,Rural (Low),2016,35011.47,CNG,Manual,First Owner,22.0,796,47,5,357294.47,305418.37
+Volkswagen Taigun,Comfortline (Mid),Excellent,Metro (High Demand),2018,125913.77,Petrol,Automatic,First Owner,16.0,1498,148,5,1658132.02,752469.59
+Honda Elevate,VX (Top),Good,Tier 2 (Medium),2025,88989.18,Diesel,Automatic,Second Owner,15.0,1498,119,5,1695771.74,1401633.0
+Volkswagen Virtus,Comfortline (Mid),Excellent,Tier 2 (Medium),2014,147359.78,CNG,Automatic,First Owner,18.0,1498,148,5,1670201.64,529766.33
+Volkswagen Polo,Highline (Top),Good,Rural (Low),2011,104747.4,Diesel,Automatic,Second Owner,18.0,999,108,5,1144279.59,372054.09
+Volkswagen Polo,Comfortline (Mid),Good,Tier 2 (Medium),2024,138741.9,CNG,Automatic,Second Owner,18.0,999,108,5,974903.35,592818.39
+Toyota Innova,V (Top),Good,Metro (High Demand),2012,93470.21,Petrol,Manual,Second Owner,11.0,2393,148,7,2626454.18,817611.55
+Maruti Suzuki Swift,ZXI (Top),Good,Tier 2 (Medium),2018,81236.75,CNG,Automatic,First Owner,21.0,1197,82,5,859175.43,417368.8
+Mahindra XUV700,Top,Fair,Tier 2 (Medium),2024,117136.96,CNG,Manual,Second Owner,13.0,2198,182,7,2108734.34,1281833.54
+Hyundai Venue,S (Mid),Good,Tier 2 (Medium),2015,133948.8,CNG,Manual,Third Owner,18.0,998,118,5,1076782.84,336392.3
+Mahindra XUV300,Base,Good,Tier 2 (Medium),2024,131830.05,Diesel,Manual,Second Owner,17.0,1197,108,5,1335387.5,749309.49
+Honda City,E (Base),Poor,Rural (Low),2018,143296.22,CNG,Manual,Fourth & Above Owner,17.0,1498,119,5,1489158.13,468915.22
+Toyota Glanza,V (Top),Excellent,Metro (High Demand),2013,45176.59,CNG,Automatic,Second Owner,22.0,1197,88,5,1163414.45,360024.47
+Toyota Urban Cruiser,V (Top),Fair,Metro (High Demand),2023,92940.12,Diesel,Automatic,First Owner,18.0,1462,103,5,1453711.42,1054148.81
+Tata Harrier,XM (Mid),Good,Metro (High Demand),2018,90122.92,Diesel,Automatic,First Owner,16.0,1956,167,5,2095556.02,1021242.97
+Honda Elevate,E (Base),Good,Metro (High Demand),2021,36652.2,Diesel,Automatic,Third Owner,15.0,1498,119,5,1537793.65,807344.03
+Mahindra XUV700,Top,Good,Metro (High Demand),2013,139263.64,CNG,Manual,First Owner,13.0,2198,182,7,2165310.21,666940.92
+Hyundai i20,E (Base),Good,Metro (High Demand),2022,124906.27,Petrol,Automatic,First Owner,20.0,1197,82,5,1009359.15,628168.74
+Tata Altroz,XE (Base),Poor,Metro (High Demand),2017,377243.91945638735,Diesel,Automatic,First Owner,19.0,1199,84,5,1024266.61,345241.15
+Maruti Suzuki Dzire,VXI (Mid),Poor,Metro (High Demand),2014,53387.6,Diesel,Automatic,Third Owner,23.0,1197,88,5,1088865.77,337072.53
+Toyota Glanza,G (Base),Good,Rural (Low),2022,10657.9,Petrol,Manual,First Owner,22.0,1197,88,5,827387.16,560188.08
+Toyota Fortuner,G (Base),Fair,Metro (High Demand),2019,102993.79,Diesel,Manual,First Owner,10.0,2755,201,7,3635075.0,1518837.16
+Tata Nexon,XZ (Top),Good,Rural (Low),2020,82973.94,Diesel,Automatic,Second Owner,17.0,1199,118,5,1461239.3,648801.23
+Toyota Fortuner,G (Base),Fair,Metro (High Demand),2016,107701.7,CNG,Manual,Third Owner,10.0,2755,201,7,3566987.06,2771167.69
+Hyundai Verna,S (Mid),Good,Rural (Low),2019,46216.95,CNG,Manual,Second Owner,19.0,1497,113,5,1374947.52,580779.14
+Volkswagen Vento,Comfortline (Mid),Fair,Rural (Low),2019,45818.49,CNG,Manual,First Owner,17.0,999,108,5,1224133.29,557176.38
+Tata Nexon,XM (Mid),Good,Rural (Low),2025,101869.28,Petrol,Automatic,Third Owner,17.0,1199,118,5,1354817.43,777525.26
+Kia Seltos,HTE (Base),Excellent,Tier 2 (Medium),2013,75449.94,CNG,Automatic,Second Owner,16.0,1497,113,5,1799527.94,568143.06
+Toyota Urban Cruiser,G (Base),Fair,Tier 2 (Medium),2016,15612.22,Petrol,Manual,First Owner,18.0,1462,103,5,1038317.69,335781.87
+Kia Carens,GTX (Top),Fair,Tier 2 (Medium),2012,54116.4,CNG,Manual,Second Owner,16.0,1497,113,7,1414983.4,443445.54
+Hyundai Creta,S (Mid),Good,Tier 2 (Medium),2018,123468.11,Petrol,Manual,Second Owner,16.0,1497,113,5,1553830.15,579138.07
+Toyota Fortuner,G (Base),Excellent,Metro (High Demand),2024,91695.99,CNG,Automatic,First Owner,10.0,2755,201,7,3634210.86,3255057.55
+Volkswagen Virtus,Trendline (Base),Good,Rural (Low),2015,14124.82,Diesel,Automatic,First Owner,18.0,1498,148,5,1767901.52,600844.13
+Maruti Suzuki Alto,ZXI (Top),Good,Tier 2 (Medium),2020,52281.69,Diesel,Automatic,Third Owner,22.0,796,47,5,687883.21,304250.47
+Kia Seltos,HTE (Base),Fair,Metro (High Demand),2014,27199.88,Petrol,Manual,First Owner,16.0,1497,113,5,1732861.14,538170.71
+Maruti Suzuki Ertiga,ZXI (Top),Poor,Tier 2 (Medium),2017,63382.55,CNG,Manual,First Owner,20.0,1462,103,7,1158997.87,352939.78
+Maruti Suzuki Alto,LXI (Base),Good,Tier 2 (Medium),2014,37027.73,Petrol,Automatic,First Owner,22.0,796,47,5,536165.16,186666.68
+Honda City,VX (Top),Good,Tier 2 (Medium),2020,83215.51,CNG,Automatic,Second Owner,17.0,1498,119,5,1623785.14,806266.02
+Toyota Glanza,G (Base),Excellent,Metro (High Demand),2023,52643.21,CNG,Manual,Second Owner,22.0,1197,88,5,850852.2,584497.23
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2011,111371.43,Diesel,Automatic,Third Owner,22.0,1197,88,5,1128778.09,360999.82
+Kia Sonet,HTK (Mid),Excellent,Tier 2 (Medium),2014,26333.2,Diesel,Manual,First Owner,18.0,998,118,5,1190497.88,459072.33
+Kia Sonet,HTE (Base),Fair,Rural (Low),2012,96572.24,CNG,Automatic,First Owner,18.0,998,118,5,1227528.81,388612.48
+Kia Sonet,GTX (Top),Excellent,Metro (High Demand),2016,6756.31,Petrol,Automatic,First Owner,18.0,998,118,5,1325118.33,637319.13
+Tata Altroz,XE (Base),Good,Rural (Low),2018,60334.61,CNG,Manual,Third Owner,19.0,1199,84,5,872908.98,279220.89
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2013,84113.53,CNG,Automatic,Second Owner,11.0,2393,148,7,2801161.3,854875.93
+Honda Elevate,S (Mid),Good,Metro (High Demand),2025,129232.83,CNG,Manual,Third Owner,15.0,1498,119,5,1382756.65,839589.5
+Volkswagen Taigun,Comfortline (Mid),Good,Tier 2 (Medium),2024,65910.51,CNG,Manual,First Owner,16.0,1498,148,5,1530436.79,1286832.54
+Hyundai i20,E (Base),Good,Tier 2 (Medium),2025,128793.25,Petrol,Manual,Second Owner,20.0,1197,82,5,890538.03,563359.4
+Maruti Suzuki Swift,LXI (Base),Poor,Metro (High Demand),2013,58473.63,Petrol,Automatic,Second Owner,21.0,1197,82,5,767862.71,241969.54
+Hyundai Verna,S (Mid),Fair,Tier 2 (Medium),2018,61496.74,Petrol,Manual,First Owner,19.0,1497,113,5,1338066.48,564178.39
+Hyundai Grand i10,E (Base),Poor,Tier 2 (Medium),2024,24210.33,Diesel,Automatic,Second Owner,20.0,1197,82,5,945411.64,494048.46
+Toyota Innova,V (Top),Good,Metro (High Demand),2018,89316.4,Diesel,Manual,Second Owner,11.0,2393,148,7,2746929.11,1319622.57
+Kia Carens,HTK (Mid),Good,Rural (Low),2017,494267.34622968774,CNG,Automatic,First Owner,16.0,1497,113,7,1413595.92,620205.78
+Tata Safari,XE (Base),Good,Rural (Low),2023,109759.28,Petrol,Automatic,Third Owner,14.0,1956,167,7,2141653.42,960927.13
+Tata Nexon,XM (Mid),Good,Rural (Low),2013,145137.37,Petrol,Automatic,Second Owner,17.0,1199,118,5,1370012.61,438787.1
+Mahindra Scorpio,Top,Excellent,Metro (High Demand),2023,64484.97,CNG,Automatic,First Owner,15.0,2184,130,7,1847556.34,1650571.64
+Hyundai Creta,E (Base),Poor,Metro (High Demand),2019,94961.06,Diesel,Automatic,First Owner,16.0,1497,113,5,1775091.04,1584881.82
+Tata Safari,XM (Mid),Excellent,Metro (High Demand),2018,76592.38,CNG,Manual,First Owner,14.0,1956,167,7,2110038.3,1049284.75
+Toyota Glanza,V (Top),Poor,Tier 2 (Medium),2013,32021.68,Petrol,Manual,First Owner,22.0,1197,88,5,1019718.22,334774.37
+Toyota Glanza,V (Top),Excellent,Metro (High Demand),2021,43071.51,Petrol,Manual,First Owner,22.0,1197,88,5,905482.41,765812.0
+Hyundai Venue,SX (Top),Excellent,Tier 2 (Medium),2024,75215.93,CNG,Automatic,First Owner,18.0,998,118,5,1325658.06,1164884.92
+Hyundai Grand i10,S (Mid),Excellent,Tier 2 (Medium),2023,76561.68,Diesel,Manual,Third Owner,20.0,1197,82,5,812181.68,500716.23
+Mahindra Bolero,Mid,Good,Metro (High Demand),2019,114579.56,Diesel,Automatic,Second Owner,16.0,1493,75,7,1295444.16,500419.41
+Hyundai Verna,SX (Top),Excellent,Tier 2 (Medium),2021,33647.19,CNG,Automatic,First Owner,19.0,1497,113,5,1462162.04,1139601.73
+Mahindra Scorpio,Mid,Good,Tier 2 (Medium),2024,122348.6,CNG,Manual,Fourth & Above Owner,15.0,2184,130,7,1752312.35,858361.84
+Maruti Suzuki Baleno,LXI (Base),Good,Tier 2 (Medium),2014,12892.28,CNG,Manual,Third Owner,22.0,1197,88,5,824707.85,272961.92
+Volkswagen Vento,Comfortline (Mid),Fair,Metro (High Demand),2014,136203.34,Diesel,Automatic,First Owner,17.0,999,108,5,1412879.57,435095.82
+Mahindra XUV700,Top,Good,Metro (High Demand),2015,20558.76,Petrol,Automatic,Second Owner,13.0,2198,182,7,2289774.25,840766.74
+Toyota Fortuner,G (Base),Good,Metro (High Demand),2022,88640.49,Petrol,Manual,Second Owner,10.0,2755,201,7,3529936.29,2406861.93
+Volkswagen Vento,Highline (Top),Excellent,Metro (High Demand),2014,99447.92,Petrol,Automatic,Second Owner,17.0,999,108,5,1405466.11,443699.89
+Tata Safari,XZ (Top),Good,Tier 2 (Medium),2014,28321.92,CNG,Automatic,First Owner,14.0,1956,167,7,2339008.05,869783.74
+Mahindra XUV700,Top,Fair,Metro (High Demand),2016,51333.44,CNG,Manual,Second Owner,13.0,2198,182,7,2148796.31,700306.65
+Hyundai Grand i10,SX (Top),Good,Metro (High Demand),2016,122770.95,Diesel,Manual,First Owner,20.0,1197,82,5,881865.6,299520.55
+Mahindra Thar,Base,Fair,Tier 2 (Medium),2012,109307.76,Diesel,Automatic,First Owner,15.0,1997,150,4,1727503.19,539463.06
+Maruti Suzuki Alto,VXI (Mid),Excellent,Metro (High Demand),2013,35596.64,Petrol,Manual,Third Owner,22.0,796,47,5,471090.13,162414.75
+Volkswagen Virtus,Trendline (Base),Fair,Metro (High Demand),2019,88029.46,Diesel,Manual,Third Owner,18.0,1498,148,5,1693935.72,552570.11
+Tata Harrier,XZ (Top),Good,Metro (High Demand),2022,64497.74,Petrol,Manual,First Owner,16.0,1956,167,5,1914459.63,1415192.48
+Tata Safari,XZ (Top),Good,Metro (High Demand),2014,35060.11,CNG,Automatic,First Owner,14.0,1956,167,7,2341874.82,918599.42
+Toyota Glanza,V (Top),Good,Rural (Low),2023,125852.88,CNG,Manual,First Owner,22.0,1197,88,5,983520.05,639727.06
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2022,45678.96,Petrol,Automatic,Second Owner,18.0,1462,103,5,1209668.03,778963.81
+Volkswagen Virtus,Comfortline (Mid),Good,Metro (High Demand),2022,101809.43,Diesel,Manual,First Owner,18.0,1498,148,5,1724982.12,1074567.24
+Maruti Suzuki Dzire,ZXI (Top),Excellent,Metro (High Demand),2020,319571.19267792,Petrol,Automatic,First Owner,23.0,1197,88,5,1014715.91,763337.43
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2015,111411.95,CNG,Manual,First Owner,22.0,1197,88,5,924024.63,302140.5
+Toyota Innova,V (Top),Fair,Metro (High Demand),2012,74129.07,Petrol,Manual,Third Owner,11.0,2393,148,7,2679604.29,817039.17
+Tata Safari,XM (Mid),Good,Metro (High Demand),2019,22782.31,CNG,Automatic,First Owner,14.0,1956,167,7,2179512.4,1374244.55
+Hyundai Grand i10,SX (Top),Fair,Metro (High Demand),2012,45468.09,CNG,Automatic,Second Owner,20.0,1197,82,5,913582.59,302752.22
+Honda City,S (Mid),Good,Tier 2 (Medium),2019,35040.83,CNG,Automatic,First Owner,17.0,1498,119,5,1624992.07,961656.69
+Mahindra Scorpio,Mid,Good,Metro (High Demand),2014,147165.16,Petrol,Manual,Fourth & Above Owner,15.0,2184,130,7,1666493.97,1020273.35
+Toyota Innova,V (Top),Good,Metro (High Demand),2025,93242.94,CNG,Automatic,First Owner,11.0,2393,148,7,2825378.42,2530067.43
+Tata Harrier,XZ (Top),Fair,Tier 2 (Medium),2019,108204.3,Diesel,Automatic,First Owner,16.0,1956,167,5,2171606.92,916896.3
+Volkswagen Taigun,Comfortline (Mid),Good,Metro (High Demand),2011,33776.1,Diesel,Manual,First Owner,16.0,1498,148,5,1630648.92,512953.14
+Hyundai Creta,SX (Top),Excellent,Metro (High Demand),2014,56138.57,Diesel,Automatic,First Owner,16.0,1497,113,5,1859102.7,752886.95
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2021,21111.86,Petrol,Automatic,Third Owner,22.0,1197,88,5,1036663.72,490143.37
+Maruti Suzuki Dzire,VXI (Mid),Good,Tier 2 (Medium),2012,115637.96,CNG,Manual,Third Owner,23.0,1197,88,5,773689.39,541108.99
+Hyundai Creta,SX (Top),Good,Tier 2 (Medium),2011,75278.51,CNG,Manual,Second Owner,16.0,1497,113,5,1735685.5,542706.53
+Maruti Suzuki Alto,VXI (Mid),Excellent,Metro (High Demand),2024,78559.95,Diesel,Manual,First Owner,22.0,796,47,5,552708.74,469184.42
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2012,59365.56,CNG,Automatic,First Owner,18.0,1462,103,5,1251606.11,393720.1
+Kia Sonet,HTE (Base),Fair,Metro (High Demand),2015,107781.01,CNG,Automatic,Second Owner,18.0,998,118,5,1173698.19,376602.27
+Toyota Urban Cruiser,V (Top),Poor,Metro (High Demand),2023,68406.55,CNG,Manual,First Owner,18.0,1462,103,5,1170539.26,682528.34
+Tata Safari,XE (Base),Fair,Tier 2 (Medium),2011,104299.38,Petrol,Automatic,First Owner,14.0,1956,167,7,2203739.02,675478.01
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2022,124120.31,Petrol,Automatic,Third Owner,16.0,1497,113,5,1830011.55,772254.21
+Toyota Innova,V (Top),Good,Rural (Low),2015,37156.31,CNG,Automatic,Second Owner,11.0,2393,148,7,2826298.59,1011419.01
+Toyota Urban Cruiser,G (Base),Good,Rural (Low),2021,27799.58,CNG,Automatic,First Owner,18.0,1462,103,5,1156155.61,712494.69
+Maruti Suzuki Baleno,LXI (Base),Good,Tier 2 (Medium),2017,44544.92,CNG,Manual,Second Owner,22.0,1197,88,5,782002.24,293395.04
+Volkswagen Virtus,Trendline (Base),Fair,Metro (High Demand),2018,69562.02,Petrol,Manual,First Owner,18.0,1498,148,5,1566337.89,609940.92
+Toyota Innova,V (Top),Excellent,Rural (Low),2020,104858.46,Petrol,Manual,First Owner,11.0,2393,148,7,2693080.36,1583425.55
+Tata Tiago,XE (Base),Fair,Rural (Low),2012,36867.27,CNG,Automatic,Second Owner,20.0,1199,84,5,767320.54,246237.65
+Tata Tiago,XE (Base),Fair,Tier 2 (Medium),2019,110481.97,CNG,Automatic,Second Owner,20.0,1199,84,5,732113.86,244555.84
+Honda Amaze,S (Mid),Fair,Rural (Low),2023,127450.22,Petrol,Automatic,First Owner,18.0,1199,88,5,1018783.91,903150.74
+Mahindra Bolero,Base,Good,Tier 2 (Medium),2020,21653.2,Petrol,Automatic,Third Owner,16.0,1493,75,7,1148251.07,492576.03
+Maruti Suzuki Ertiga,ZXI (Top),Excellent,Tier 2 (Medium),2018,136643.5,Petrol,Automatic,First Owner,20.0,1462,103,7,1249359.84,548136.63
+Kia Sonet,HTK (Mid),Good,Tier 2 (Medium),2023,128277.18,CNG,Automatic,Second Owner,18.0,998,118,5,1239981.88,690224.27
+Honda Amaze,VX (Top),Excellent,Metro (High Demand),2023,54168.14,Diesel,Automatic,First Owner,18.0,1199,88,5,1198237.49,1056606.25
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2025,125174.16,Petrol,Manual,Third Owner,11.0,2393,148,7,2614265.97,1859423.86
+Mahindra Thar,Base,Good,Metro (High Demand),2020,30488.27,Petrol,Automatic,First Owner,15.0,1997,150,4,1741546.31,1047320.28
+Tata Nexon,XE (Base),Good,Tier 2 (Medium),2013,146612.95,CNG,Manual,Second Owner,17.0,1199,118,5,1184925.56,380860.12
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2016,74745.22,Petrol,Manual,First Owner,20.0,1199,84,5,652557.7,225462.1
+Kia Seltos,HTK (Mid),Fair,Metro (High Demand),2012,106084.65,Petrol,Manual,First Owner,16.0,1497,113,5,1767684.06,544892.12
+Hyundai Creta,E (Base),Poor,Metro (High Demand),2019,59922.76,Diesel,Automatic,First Owner,16.0,1497,113,5,1834332.76,715692.64
+Volkswagen Taigun,Trendline (Base),Good,Rural (Low),2022,133612.58,Diesel,Manual,First Owner,16.0,1498,148,5,1508681.79,795630.24
+Hyundai Verna,E (Base),Good,Tier 2 (Medium),2018,37855.64,Diesel,Automatic,First Owner,19.0,1497,113,5,1518040.62,708818.73
+Tata Harrier,XZ (Top),Good,Tier 2 (Medium),2014,60176.82,CNG,Automatic,Third Owner,16.0,1956,167,5,2020633.35,622518.34
+Honda Elevate,E (Base),Good,Metro (High Demand),2020,147594.29,CNG,Automatic,Second Owner,15.0,1498,119,5,1467817.65,575858.39
+Kia Sonet,HTK (Mid),Good,Tier 2 (Medium),2013,71222.96,CNG,Automatic,First Owner,18.0,998,118,5,1170207.4,355041.61
+Kia Sonet,GTX (Top),Poor,Metro (High Demand),2014,25545.19,Petrol,Manual,Second Owner,18.0,998,118,5,1212921.15,387038.75
+Hyundai Venue,SX (Top),Fair,Metro (High Demand),2021,25931.94,Diesel,Automatic,First Owner,18.0,998,118,5,1392225.58,952047.9
+Maruti Suzuki Alto,ZXI (Top),Fair,Metro (High Demand),2017,71454.3,CNG,Manual,First Owner,22.0,796,47,5,593594.14,229869.31
+Maruti Suzuki Ertiga,ZXI (Top),Good,Metro (High Demand),2018,121529.64,Petrol,Automatic,First Owner,20.0,1462,103,7,1241180.64,518362.6
+Kia Seltos,HTE (Base),Good,Metro (High Demand),2018,130584.21,CNG,Manual,Third Owner,16.0,1497,113,5,1630702.3,501325.32
+Hyundai i20,E (Base),Good,Tier 2 (Medium),2014,39722.13,Diesel,Manual,Third Owner,20.0,1197,82,5,961470.05,299561.67
+Toyota Glanza,V (Top),Fair,Tier 2 (Medium),2015,50439.75,CNG,Manual,First Owner,22.0,1197,88,5,973638.66,317890.08
+Maruti Suzuki Brezza,LXI (Base),Good,Metro (High Demand),2024,67559.72,CNG,Manual,Third Owner,19.0,1462,103,5,909207.74,587575.01
+Toyota Fortuner,G (Base),Good,Tier 2 (Medium),2024,123659.35,Petrol,Manual,Second Owner,10.0,2755,201,7,3508939.05,2204250.44
+Tata Nexon,XZ (Top),Good,Tier 2 (Medium),2021,34596.5,Diesel,Manual,First Owner,17.0,1199,118,5,1317208.94,952112.2
+Toyota Urban Cruiser,V (Top),Excellent,Tier 2 (Medium),2021,33505.82,CNG,Manual,Fourth & Above Owner,18.0,1462,103,5,1171600.49,585250.43
+Mahindra Thar,Mid,Good,Metro (High Demand),2020,37022.09,Petrol,Automatic,First Owner,15.0,1997,150,4,1672163.6,1031922.86
+Hyundai Verna,SX (Top),Excellent,Tier 2 (Medium),2017,60979.6,Petrol,Manual,Second Owner,19.0,1497,113,5,1381259.0,524485.03
+Maruti Suzuki Alto,ZXI (Top),Good,Metro (High Demand),2013,111627.37,Petrol,Manual,First Owner,22.0,796,47,5,541678.44,188324.52
+Maruti Suzuki Alto,LXI (Base),Good,Metro (High Demand),2011,74197.64,Petrol,Automatic,Third Owner,22.0,796,47,5,478182.45,167275.17
+Tata Harrier,XZ (Top),Fair,Tier 2 (Medium),2016,120777.68,Diesel,Automatic,First Owner,16.0,1956,167,5,2133394.05,667755.81
+Mahindra XUV300,Mid,Poor,Tier 2 (Medium),2011,116593.48,Petrol,Manual,First Owner,17.0,1197,108,5,1175484.38,378339.42
+Maruti Suzuki Swift,ZXI (Top),Fair,Metro (High Demand),2017,48265.27,Diesel,Automatic,Third Owner,21.0,1197,82,5,1067320.15,381242.96
+Maruti Suzuki Dzire,LXI (Base),Fair,Tier 2 (Medium),2021,94819.1,CNG,Automatic,First Owner,23.0,1197,88,5,906457.13,445482.77
+Maruti Suzuki Swift,VXI (Mid),Good,Tier 2 (Medium),2018,129351.28,Diesel,Manual,First Owner,21.0,1197,82,5,806146.7,362617.32
+Hyundai Venue,S (Mid),Fair,Tier 2 (Medium),2012,694379.974496474,Petrol,Manual,First Owner,18.0,998,118,5,1131840.3,357959.73
+Hyundai Verna,E (Base),Good,Rural (Low),2016,28031.28,CNG,Automatic,Third Owner,19.0,1497,113,5,1400450.26,442347.8
+Volkswagen Vento,Trendline (Base),Fair,Tier 2 (Medium),2015,57757.74,Diesel,Automatic,Third Owner,17.0,999,108,5,1399963.46,432606.63
+Mahindra Bolero,Base,Poor,Tier 2 (Medium),2020,135592.19,Petrol,Automatic,Fourth & Above Owner,16.0,1493,75,7,1192556.52,378179.55
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2024,120784.2,Diesel,Automatic,Second Owner,20.0,1199,84,5,881162.68,536141.56
+Volkswagen Vento,Trendline (Base),Good,Rural (Low),2017,111839.84,Diesel,Manual,Third Owner,17.0,999,108,5,1333496.05,415878.64
+Mahindra Bolero,Base,Good,Metro (High Demand),2024,103705.07,Diesel,Manual,First Owner,16.0,1493,75,7,1092025.94,809863.09
+Mahindra XUV700,Mid,Good,Metro (High Demand),2011,13985.56,CNG,Manual,Second Owner,13.0,2198,182,7,2055577.77,630317.33
+Kia Carens,HTE (Base),Fair,Rural (Low),2016,33296.3,CNG,Manual,Third Owner,16.0,1497,113,7,1310458.71,410241.78
+Mahindra Bolero,Mid,Good,Tier 2 (Medium),2019,95645.03,CNG,Automatic,Fourth & Above Owner,16.0,1493,75,7,1121559.21,342880.0
+Maruti Suzuki Swift,ZXI (Top),Fair,Tier 2 (Medium),2012,72310.74,Petrol,Automatic,First Owner,21.0,1197,82,5,931302.22,308471.85
+Kia Carens,HTK (Mid),Good,Metro (High Demand),2016,56987.58,Petrol,Automatic,First Owner,16.0,1497,113,7,1500387.4,581326.91
+Maruti Suzuki Brezza,VXI (Mid),Fair,Tier 2 (Medium),2014,91808.55,Diesel,Automatic,Second Owner,19.0,1462,103,5,1189609.78,372108.82
+Kia Carens,HTE (Base),Good,Metro (High Demand),2020,43479.68,CNG,Automatic,Second Owner,16.0,1497,113,7,1438300.56,769110.38
+Mahindra XUV300,Mid,Good,Tier 2 (Medium),2014,30081.96,Petrol,Manual,First Owner,17.0,1197,108,5,1171998.16,406868.09
+Mahindra XUV300,Mid,Good,Metro (High Demand),2014,17579.58,Diesel,Automatic,First Owner,17.0,1197,108,5,1506219.59,549739.85
+Tata Safari,XM (Mid),Excellent,Tier 2 (Medium),2011,74100.49,Diesel,Automatic,Second Owner,14.0,1956,167,7,2309048.57,721052.38
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2012,27741.64,CNG,Automatic,First Owner,11.0,2393,148,7,2655345.33,816799.12
+Volkswagen Taigun,Comfortline (Mid),Good,Tier 2 (Medium),2013,390090.34559313365,CNG,Manual,Second Owner,16.0,1498,148,5,1484509.33,470055.13
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2015,66368.75,Diesel,Manual,Third Owner,18.0,1498,148,5,1732007.35,536350.6
+Mahindra XUV700,Mid,Fair,Tier 2 (Medium),2024,62338.77,Diesel,Manual,First Owner,13.0,2198,182,7,2166802.1,1744736.28
+Hyundai Creta,E (Base),Fair,Tier 2 (Medium),2019,133686.8,CNG,Automatic,Second Owner,16.0,1497,113,5,1654337.23,521947.06
+Mahindra Scorpio,Mid,Good,Rural (Low),2024,102094.32,Petrol,Manual,First Owner,15.0,2184,130,7,1686903.04,1392872.53
+Mahindra Thar,Base,Fair,Tier 2 (Medium),2014,75984.18,Diesel,Automatic,Third Owner,15.0,1997,150,4,1833239.29,565270.06
+Honda Elevate,VX (Top),Good,Metro (High Demand),2025,93445.29,Diesel,Automatic,Second Owner,15.0,1498,119,5,1643823.12,1375559.66
+Maruti Suzuki Alto,VXI (Mid),Excellent,Metro (High Demand),2020,116313.25,Petrol,Manual,First Owner,22.0,796,47,5,450815.03,255187.44
+Mahindra XUV700,Mid,Excellent,Metro (High Demand),2025,65233.73,Diesel,Automatic,Third Owner,13.0,2198,182,7,2394375.19,2131103.2
+Kia Carens,HTE (Base),Poor,Metro (High Demand),2014,53440.02,Petrol,Manual,Second Owner,16.0,1497,113,7,1293385.54,406050.98
+Volkswagen Taigun,Trendline (Base),Fair,Tier 2 (Medium),2014,43702.35,Diesel,Automatic,First Owner,16.0,1498,148,5,1633974.04,519392.36
+Honda Elevate,E (Base),Excellent,Tier 2 (Medium),2017,82761.2,Petrol,Automatic,First Owner,15.0,1498,119,5,1496826.72,663536.99
+Maruti Suzuki Swift,ZXI (Top),Good,Tier 2 (Medium),2019,56554.17,Petrol,Manual,Third Owner,21.0,1197,82,5,748044.73,344377.68
+Kia Carens,HTE (Base),Good,Metro (High Demand),2017,27644.6,CNG,Automatic,Second Owner,16.0,1497,113,7,1454430.65,1295594.15
+Toyota Innova,G (Base),Fair,Metro (High Demand),2023,140324.64,Diesel,Manual,Second Owner,11.0,2393,148,7,2718936.91,1419660.48
+Kia Sonet,GTX (Top),Good,Metro (High Demand),2023,38800.31,Diesel,Manual,Third Owner,18.0,998,118,5,1259920.99,844925.33
+Tata Nexon,XZ (Top),Good,Tier 2 (Medium),2023,18947.12,Diesel,Automatic,Second Owner,17.0,1199,118,5,1498042.23,1147819.38
+Maruti Suzuki Ertiga,VXI (Mid),Good,Tier 2 (Medium),2019,83582.13,Diesel,Automatic,Second Owner,20.0,1462,103,7,1371345.96,577491.43
+Maruti Suzuki Ertiga,LXI (Base),Poor,Rural (Low),2021,145398.69,Petrol,Manual,First Owner,20.0,1462,103,7,1138531.92,382839.64
+Volkswagen Vento,Highline (Top),Good,Tier 2 (Medium),2015,26151.34,CNG,Manual,First Owner,17.0,999,108,5,1287173.0,503044.8
+Toyota Fortuner,V (Top),Poor,Tier 2 (Medium),2023,125689.55,CNG,Manual,Second Owner,10.0,2755,201,7,3733001.63,3338635.76
+Honda City,S (Mid),Good,Rural (Low),2019,565426.4045344406,CNG,Manual,Second Owner,17.0,1498,119,5,1453279.94,443498.7
+Mahindra Thar,Mid,Excellent,Tier 2 (Medium),2011,74246.34,CNG,Automatic,Second Owner,15.0,1997,150,4,1739879.04,550962.67
+Toyota Glanza,V (Top),Excellent,Metro (High Demand),2022,29460.34,CNG,Automatic,First Owner,22.0,1197,88,5,1107578.47,983283.95
+Volkswagen Virtus,Trendline (Base),Fair,Tier 2 (Medium),2017,138778.7,CNG,Automatic,First Owner,18.0,1498,148,5,1744999.14,548087.23
+Mahindra XUV700,Base,Good,Metro (High Demand),2012,21608.49,Diesel,Automatic,First Owner,13.0,2198,182,7,2239971.55,684684.45
+Maruti Suzuki Baleno,LXI (Base),Good,Metro (High Demand),2023,33234.15,CNG,Manual,First Owner,22.0,1197,88,5,849106.1,727771.48
+Mahindra XUV300,Mid,Good,Metro (High Demand),2013,63967.52,CNG,Manual,Second Owner,17.0,1197,108,5,1184091.7,368964.12
+Volkswagen Taigun,Trendline (Base),Fair,Tier 2 (Medium),2020,108516.11,Petrol,Manual,Second Owner,16.0,1498,148,5,1418327.2,444541.33
+Honda City,S (Mid),Good,Tier 2 (Medium),2025,77428.44,CNG,Manual,First Owner,17.0,1498,119,5,1492618.2,1328657.41
+Maruti Suzuki Swift,LXI (Base),Good,Metro (High Demand),2015,20624.47,CNG,Manual,First Owner,21.0,1197,82,5,699419.21,319710.17
+Toyota Innova,G (Base),Good,Metro (High Demand),2017,73013.15,CNG,Automatic,Third Owner,11.0,2393,148,7,2716476.82,920875.93
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2016,87479.44,Petrol,Manual,Third Owner,11.0,2393,148,7,2665944.16,932620.96
+Maruti Suzuki Swift,ZXI (Top),Good,Tier 2 (Medium),2011,45608.11,Diesel,Manual,Second Owner,21.0,1197,82,5,889007.21,277114.05
+Honda Amaze,S (Mid),Good,Metro (High Demand),2011,50035.5,CNG,Manual,Second Owner,18.0,1199,88,5,946240.46,296648.05
+Maruti Suzuki Dzire,ZXI (Top),Fair,Rural (Low),2013,121660.95,Petrol,Manual,Second Owner,23.0,1197,88,5,849464.01,267565.81
+Toyota Fortuner,V (Top),Fair,Metro (High Demand),2023,52116.59,CNG,Manual,Third Owner,10.0,2755,201,7,3661549.63,2243763.26
+Tata Tiago,XE (Base),Good,Metro (High Demand),2021,127247.52,Petrol,Manual,Second Owner,20.0,1199,84,5,690929.53,310832.47
+Maruti Suzuki Swift,VXI (Mid),Fair,Tier 2 (Medium),2012,148243.58,CNG,Manual,Second Owner,21.0,1197,82,5,761589.21,249032.85
+Tata Tiago,XM (Mid),Fair,Metro (High Demand),2015,97771.87,Diesel,Automatic,First Owner,20.0,1199,84,5,1001481.71,310664.47
+Tata Tiago,XE (Base),Poor,Rural (Low),2022,69686.76,Diesel,Automatic,First Owner,20.0,1199,84,5,959529.46,448553.82
+Mahindra Thar,Base,Fair,Metro (High Demand),2023,25923.39,Petrol,Manual,First Owner,15.0,1997,150,4,1592910.45,1196349.53
+Volkswagen Polo,Highline (Top),Fair,Metro (High Demand),2015,74151.98,Petrol,Automatic,Second Owner,18.0,999,108,5,1079263.62,343454.6
+Volkswagen Vento,Highline (Top),Excellent,Tier 2 (Medium),2023,125786.67,Diesel,Manual,First Owner,17.0,999,108,5,1331866.35,989062.27
+Maruti Suzuki Brezza,VXI (Mid),Good,Tier 2 (Medium),2011,56014.24,Diesel,Manual,First Owner,19.0,1462,103,5,1052126.39,337206.49
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2015,38096.86,Diesel,Automatic,Second Owner,18.0,1462,103,5,1336178.18,435278.43
+Maruti Suzuki Swift,ZXI (Top),Good,Rural (Low),2020,57801.05,Diesel,Automatic,Second Owner,21.0,1197,82,5,1031402.63,518399.03
+Toyota Innova,V (Top),Good,Metro (High Demand),2019,18283.99,Petrol,Manual,First Owner,11.0,2393,148,7,2631442.5,1923311.24
+Maruti Suzuki Dzire,ZXI (Top),Good,Metro (High Demand),2017,101336.9,Diesel,Manual,First Owner,23.0,1197,88,5,1035192.22,421865.8
+Tata Harrier,XM (Mid),Excellent,Tier 2 (Medium),2011,29172.39,Diesel,Automatic,First Owner,16.0,1956,167,5,2069272.22,646523.56
+Maruti Suzuki Brezza,VXI (Mid),Good,Rural (Low),2023,21965.75,CNG,Manual,Second Owner,19.0,1462,103,5,1068342.82,691856.16
+Volkswagen Taigun,Highline (Top),Poor,Tier 2 (Medium),2019,35171.48,Petrol,Automatic,Second Owner,16.0,1498,148,5,1737379.87,565306.62
+Tata Safari,XM (Mid),Fair,Tier 2 (Medium),2024,64780.31,Diesel,Automatic,Second Owner,14.0,1956,167,7,2343745.17,1388171.29
+Kia Sonet,HTE (Base),Poor,Metro (High Demand),2011,65585.28,Petrol,Manual,First Owner,18.0,998,118,5,1111326.37,346430.93
+Kia Sonet,HTE (Base),Fair,Tier 2 (Medium),2024,62362.73,Diesel,Manual,First Owner,18.0,998,118,5,1181814.56,826798.46
+Honda Amaze,E (Base),Poor,Tier 2 (Medium),2015,38353.92,Petrol,Manual,Second Owner,18.0,1199,88,5,925647.02,291046.73
+Kia Seltos,HTK (Mid),Good,Tier 2 (Medium),2023,82003.78,Diesel,Manual,First Owner,16.0,1497,113,5,1866756.3,1436715.1
+Tata Harrier,XM (Mid),Poor,Rural (Low),2024,34845.12,Diesel,Manual,Third Owner,16.0,1956,167,5,2081761.34,921871.54
+Volkswagen Polo,Highline (Top),Fair,Rural (Low),2024,142929.16,CNG,Automatic,First Owner,18.0,999,108,5,1021424.02,639437.32
+Volkswagen Taigun,Trendline (Base),Fair,Tier 2 (Medium),2025,56000.23,CNG,Manual,Second Owner,16.0,1498,148,5,1531957.81,977403.51
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2014,25009.83,CNG,Manual,First Owner,11.0,2393,148,7,2645812.73,1037225.45
+Kia Seltos,HTK (Mid),Excellent,Metro (High Demand),2016,35263.19,Diesel,Manual,Second Owner,16.0,1497,113,5,1875921.68,761019.32
+Kia Sonet,HTK (Mid),Good,Metro (High Demand),2014,104777.54,Petrol,Manual,Fourth & Above Owner,18.0,998,118,5,1136919.96,361345.89
+Maruti Suzuki Swift,ZXI (Top),Good,Metro (High Demand),2024,149823.29,Petrol,Manual,First Owner,21.0,1197,82,5,796227.03,700024.72
+Toyota Innova,G (Base),Good,Rural (Low),2015,53034.21,CNG,Automatic,Third Owner,11.0,2393,148,7,2633096.27,806553.64
+Maruti Suzuki Baleno,ZXI (Top),Good,Rural (Low),2013,58263.67,CNG,Manual,First Owner,22.0,1197,88,5,935450.57,287784.46
+Maruti Suzuki Alto,LXI (Base),Poor,Metro (High Demand),2024,23181.77,CNG,Automatic,First Owner,22.0,796,47,5,607880.97,383551.96
+Kia Seltos,GTX (Top),Good,Tier 2 (Medium),2020,14283.38,Diesel,Automatic,Second Owner,16.0,1497,113,5,2012456.85,1088352.99
+Toyota Glanza,G (Base),Excellent,Metro (High Demand),2024,18519.95,Petrol,Manual,Third Owner,22.0,1197,88,5,942012.33,696702.85
+Honda Elevate,S (Mid),Excellent,Metro (High Demand),2024,59911.98,CNG,Automatic,Second Owner,15.0,1498,119,5,1578166.97,1263209.31
+Tata Harrier,XM (Mid),Fair,Tier 2 (Medium),2015,120654.65,Petrol,Manual,First Owner,16.0,1956,167,5,1841111.33,576639.14
+Volkswagen Vento,Highline (Top),Good,Metro (High Demand),2014,70287.03,Petrol,Automatic,First Owner,17.0,999,108,5,1454386.47,462087.39
+Volkswagen Vento,Comfortline (Mid),Excellent,Tier 2 (Medium),2016,37323.25,CNG,Manual,Fourth & Above Owner,17.0,999,108,5,1261200.84,390309.7
+Kia Seltos,GTX (Top),Good,Metro (High Demand),2017,114268.33,Diesel,Manual,First Owner,16.0,1497,113,5,1839037.48,682039.7
+Mahindra XUV300,Base,Excellent,Tier 2 (Medium),2022,96971.04,Petrol,Automatic,First Owner,17.0,1197,108,5,1292896.05,924756.62
+Volkswagen Taigun,Trendline (Base),Fair,Tier 2 (Medium),2016,104584.49,CNG,Automatic,First Owner,16.0,1498,148,5,1531228.78,481809.74
+Hyundai Creta,E (Base),Good,Metro (High Demand),2022,28926.59,Diesel,Automatic,Third Owner,16.0,1497,113,5,1778494.95,1155324.85
+Tata Tiago,XM (Mid),Good,Rural (Low),2014,36441.99,Petrol,Automatic,Second Owner,20.0,1199,84,5,905055.86,295145.1
+Maruti Suzuki Alto,LXI (Base),Poor,Metro (High Demand),2011,70693.02,CNG,Manual,First Owner,22.0,796,47,5,402730.73,148810.89
+Tata Tiago,XE (Base),Excellent,Tier 2 (Medium),2017,114189.49,Petrol,Automatic,First Owner,20.0,1199,84,5,808931.01,297977.88
+Honda Elevate,S (Mid),Poor,Metro (High Demand),2023,47298.16,Diesel,Manual,First Owner,15.0,1498,119,5,1566286.77,1049097.41
+Honda City,VX (Top),Fair,Metro (High Demand),2020,112899.64,CNG,Manual,First Owner,17.0,1498,119,5,1586400.34,749660.18
+Kia Seltos,HTK (Mid),Excellent,Tier 2 (Medium),2016,15476.89,Petrol,Automatic,Second Owner,16.0,1497,113,5,1783513.1,628451.59
+Maruti Suzuki Dzire,ZXI (Top),Fair,Metro (High Demand),2014,32632.71,CNG,Automatic,Second Owner,23.0,1197,88,5,1018178.53,316458.87
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2017,19270.63,CNG,Manual,First Owner,18.0,1498,148,5,1561680.52,722278.85
+Volkswagen Taigun,Comfortline (Mid),Fair,Metro (High Demand),2020,112003.62,CNG,Manual,First Owner,16.0,1498,148,5,1556903.22,638442.26
+Mahindra Scorpio,Base,Good,Tier 2 (Medium),2011,65071.17,CNG,Manual,First Owner,15.0,2184,130,7,1653308.71,511825.76
+Maruti Suzuki Dzire,LXI (Base),Good,Metro (High Demand),2017,84659.21,CNG,Manual,Second Owner,23.0,1197,88,5,834814.48,264020.58
+Toyota Urban Cruiser,V (Top),Poor,Tier 2 (Medium),2025,5232.31,Petrol,Manual,First Owner,18.0,1462,103,5,1225697.65,934442.72
+Mahindra XUV700,Top,Good,Rural (Low),2022,82006.04,Diesel,Manual,Second Owner,13.0,2198,182,7,2270728.96,1442480.46
+Hyundai Verna,E (Base),Good,Metro (High Demand),2022,29246.7,Petrol,Manual,Second Owner,19.0,1497,113,5,1259874.41,811959.73
+Honda Elevate,E (Base),Poor,Metro (High Demand),2023,105948.23,CNG,Manual,First Owner,15.0,1498,119,5,1397272.37,672847.83
+Tata Tiago,XZ (Top),Fair,Tier 2 (Medium),2023,102919.03,CNG,Automatic,Second Owner,20.0,1199,84,5,968130.3,469590.33
+Honda Elevate,VX (Top),Good,Rural (Low),2011,60676.84,CNG,Automatic,First Owner,15.0,1498,119,5,1546838.48,485507.3
+Tata Altroz,XM (Mid),Good,Rural (Low),2020,494739.4356720527,Petrol,Automatic,First Owner,19.0,1199,84,5,1068777.29,621262.25
+Maruti Suzuki Dzire,VXI (Mid),Good,Tier 2 (Medium),2015,96029.08,CNG,Manual,Second Owner,23.0,1197,88,5,776637.18,245853.45
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2018,123063.79,Diesel,Manual,First Owner,18.0,1199,88,5,955973.49,338801.04
+Hyundai i20,S (Mid),Fair,Rural (Low),2012,54716.05,Petrol,Manual,Second Owner,20.0,1197,82,5,840834.8,266296.36
+Tata Nexon,XE (Base),Good,Metro (High Demand),2020,85814.02,Petrol,Manual,Second Owner,17.0,1199,118,5,1200154.72,553414.29
+Volkswagen Polo,Highline (Top),Good,Tier 2 (Medium),2019,36325.18,Petrol,Manual,First Owner,18.0,999,108,5,903547.04,558877.71
+Toyota Innova,V (Top),Excellent,Rural (Low),2022,103205.17,Petrol,Automatic,Second Owner,11.0,2393,148,7,2827984.58,1773806.71
+Maruti Suzuki Baleno,VXI (Mid),Excellent,Tier 2 (Medium),2021,148629.43,Diesel,Manual,First Owner,22.0,1197,88,5,1025496.81,586352.11
+Honda City,VX (Top),Excellent,Tier 2 (Medium),2014,49531.22,Petrol,Automatic,First Owner,17.0,1498,119,5,1678159.81,672284.26
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2021,143049.07,Petrol,Automatic,Second Owner,18.0,1199,88,5,1044072.92,463596.72
+Toyota Innova,V (Top),Fair,Metro (High Demand),2020,129573.15,Petrol,Manual,First Owner,11.0,2393,148,7,2672439.73,1346187.56
+Honda City,VX (Top),Fair,Rural (Low),2022,412491.32723195606,CNG,Automatic,Second Owner,17.0,1498,119,5,1747899.65,977033.14
+Toyota Fortuner,V (Top),Fair,Tier 2 (Medium),2020,148967.45,Diesel,Manual,Fourth & Above Owner,10.0,2755,201,7,3774116.72,1161813.85
+Volkswagen Vento,Highline (Top),Fair,Metro (High Demand),2021,110525.38,CNG,Manual,Third Owner,17.0,999,108,5,1261227.99,426978.46
+Volkswagen Polo,Highline (Top),Fair,Metro (High Demand),2024,30300.67,Diesel,Automatic,Second Owner,18.0,999,108,5,1125167.24,853799.75
+Hyundai Venue,E (Base),Good,Tier 2 (Medium),2015,97898.35,Diesel,Automatic,Second Owner,18.0,998,118,5,1236209.49,386135.23
+Honda City,E (Base),Good,Metro (High Demand),2012,43031.24,Petrol,Manual,First Owner,17.0,1498,119,5,1515693.58,468876.96
+Volkswagen Polo,Trendline (Base),Excellent,Metro (High Demand),2021,11645.26,Diesel,Automatic,First Owner,18.0,999,108,5,1066699.3,808884.45
+Maruti Suzuki Swift,VXI (Mid),Good,Tier 2 (Medium),2011,73619.06,Diesel,Manual,First Owner,21.0,1197,82,5,754801.24,252268.29
+Honda City,S (Mid),Poor,Tier 2 (Medium),2020,135489.26,Petrol,Automatic,First Owner,17.0,1498,119,5,1675234.18,540313.46
+Honda City,E (Base),Excellent,Tier 2 (Medium),2019,120488.68,Diesel,Manual,Third Owner,17.0,1498,119,5,1633139.65,566815.82
+Toyota Fortuner,G (Base),Poor,Rural (Low),2021,137950.14,CNG,Manual,First Owner,10.0,2755,201,7,3509274.09,1419739.23
+Hyundai Creta,E (Base),Excellent,Tier 2 (Medium),2023,88574.66,CNG,Manual,Third Owner,16.0,1497,113,5,1632034.48,1062312.69
+Toyota Innova,G (Base),Excellent,Metro (High Demand),2025,84674.22,CNG,Automatic,First Owner,11.0,2393,148,7,2627242.32,2353525.76
+Maruti Suzuki Swift,ZXI (Top),Good,Tier 2 (Medium),2016,91067.96,Diesel,Manual,Second Owner,21.0,1197,82,5,881799.94,339416.49
+Mahindra Thar,Top,Good,Metro (High Demand),2025,22754.29,CNG,Manual,Third Owner,15.0,1997,150,4,1666881.42,1385760.23
+Kia Seltos,GTX (Top),Excellent,Metro (High Demand),2018,7828.24,Diesel,Manual,Third Owner,16.0,1497,113,5,1924839.56,875056.0
+Tata Altroz,XM (Mid),Good,Tier 2 (Medium),2012,10107.27,CNG,Automatic,Second Owner,19.0,1199,84,5,1048053.96,335228.62
+Volkswagen Polo,Highline (Top),Poor,Tier 2 (Medium),2011,62348.32,Diesel,Manual,Third Owner,18.0,999,108,5,1033880.45,337308.9
+Toyota Fortuner,G (Base),Excellent,Rural (Low),2019,118979.42,Diesel,Automatic,Second Owner,10.0,2755,201,7,3862416.58,1621727.53
+Mahindra Bolero,Top,Fair,Rural (Low),2015,18551.42,CNG,Automatic,First Owner,16.0,1493,75,7,1182695.29,368981.64
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2023,121184.56,Diesel,Manual,Second Owner,18.0,1199,88,5,1028528.55,543103.99
+Tata Altroz,XZ (Top),Fair,Tier 2 (Medium),2025,99792.98,Petrol,Automatic,Second Owner,19.0,1199,84,5,1061838.69,731192.01
+Toyota Fortuner,G (Base),Good,Tier 2 (Medium),2011,98577.49,CNG,Manual,Second Owner,10.0,2755,201,7,3587700.98,1087999.49
+Honda Elevate,E (Base),Good,Rural (Low),2016,87698.15,CNG,Automatic,First Owner,15.0,1498,119,5,1548310.64,495818.88
+Tata Safari,XZ (Top),Good,Metro (High Demand),2016,18126.08,Petrol,Automatic,Second Owner,14.0,1956,167,7,2283402.36,768449.74
+Volkswagen Vento,Trendline (Base),Excellent,Rural (Low),2015,67188.08,CNG,Automatic,First Owner,17.0,999,108,5,1330290.95,445095.67
+Toyota Innova,G (Base),Good,Metro (High Demand),2020,117679.31,Diesel,Automatic,Second Owner,11.0,2393,148,7,2721311.0,1173620.36
+Tata Safari,XM (Mid),Poor,Tier 2 (Medium),2013,117945.72,Petrol,Manual,Second Owner,14.0,1956,167,7,2182199.21,676618.23
+Honda Amaze,E (Base),Fair,Tier 2 (Medium),2021,121847.01,CNG,Automatic,First Owner,18.0,1199,88,5,1069476.33,474843.81
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2012,125477.61,Diesel,Automatic,First Owner,18.0,1498,148,5,1758062.47,556602.19
+Maruti Suzuki Dzire,LXI (Base),Poor,Tier 2 (Medium),2016,7614.16,CNG,Manual,First Owner,23.0,1197,88,5,772771.76,251905.7
+Tata Harrier,XM (Mid),Poor,Tier 2 (Medium),2017,123297.07,Petrol,Automatic,Third Owner,16.0,1956,167,5,1979526.94,610033.81
+Volkswagen Vento,Comfortline (Mid),Fair,Metro (High Demand),2025,47786.91,Petrol,Manual,First Owner,17.0,999,108,5,1197166.31,1060823.76
+Volkswagen Vento,Comfortline (Mid),Fair,Tier 2 (Medium),2017,142409.07,Petrol,Manual,Second Owner,17.0,999,108,5,1173346.7,378032.27
+Volkswagen Vento,Trendline (Base),Poor,Tier 2 (Medium),2023,141190.49,Petrol,Manual,First Owner,17.0,999,108,5,1167388.88,527334.96
+Maruti Suzuki Baleno,LXI (Base),Excellent,Rural (Low),2015,79019.04,Diesel,Manual,First Owner,22.0,1197,88,5,981304.1,310636.8
+Mahindra Bolero,Top,Good,Metro (High Demand),2014,48683.75,Petrol,Manual,Second Owner,16.0,1493,75,7,1053441.85,330212.01
+Mahindra Scorpio,Top,Excellent,Metro (High Demand),2025,123948.63,CNG,Automatic,First Owner,15.0,2184,130,7,1949251.8,1738895.65
+Honda Amaze,S (Mid),Fair,Rural (Low),2019,16797.51,Petrol,Automatic,First Owner,18.0,1199,88,5,982209.77,440983.36
+Hyundai i20,S (Mid),Good,Metro (High Demand),2014,68464.47,CNG,Automatic,Second Owner,20.0,1197,82,5,1019293.62,324133.67
+Maruti Suzuki Brezza,LXI (Base),Excellent,Metro (High Demand),2013,13019.96,Petrol,Manual,First Owner,19.0,1462,103,5,989220.74,333351.92
+Toyota Glanza,G (Base),Fair,Tier 2 (Medium),2024,98803.17,CNG,Manual,Second Owner,22.0,1197,88,5,836761.01,498634.09
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2025,108813.6,Diesel,Manual,Third Owner,18.0,1199,88,5,938290.69,522155.67
+Maruti Suzuki Swift,LXI (Base),Fair,Metro (High Demand),2011,28830.23,CNG,Automatic,Third Owner,21.0,1197,82,5,774171.45,249041.19
+Volkswagen Taigun,Highline (Top),Excellent,Rural (Low),2022,26741.96,CNG,Automatic,Third Owner,16.0,1498,148,5,1638387.07,972970.11
+Mahindra Scorpio,Mid,Fair,Tier 2 (Medium),2015,20320.9,Petrol,Manual,First Owner,15.0,2184,130,7,1678701.21,576753.22
+Toyota Urban Cruiser,V (Top),Excellent,Rural (Low),2022,35775.31,Petrol,Automatic,Second Owner,18.0,1462,103,5,1255907.19,867050.44
+Kia Sonet,HTK (Mid),Good,Metro (High Demand),2020,25784.12,Petrol,Automatic,First Owner,18.0,998,118,5,1204113.33,787513.69
+Tata Nexon,XZ (Top),Excellent,Tier 2 (Medium),2023,62771.72,Diesel,Manual,Third Owner,17.0,1199,118,5,1367824.42,913001.95
+Kia Seltos,HTE (Base),Fair,Tier 2 (Medium),2025,47969.59,Petrol,Manual,First Owner,16.0,1497,113,5,1718868.62,1415271.11
+Hyundai i20,S (Mid),Fair,Metro (High Demand),2025,24814.88,CNG,Manual,First Owner,20.0,1197,82,5,911064.54,793094.66
+Honda City,S (Mid),Fair,Tier 2 (Medium),2022,70167.49,Diesel,Manual,Second Owner,17.0,1498,119,5,1584639.08,729014.64
+Mahindra XUV300,Top,Good,Tier 2 (Medium),2016,110135.58,CNG,Manual,First Owner,17.0,1197,108,5,1284238.64,434067.01
+Honda Amaze,E (Base),Fair,Rural (Low),2020,67698.58,Diesel,Manual,Second Owner,18.0,1199,88,5,963208.37,316955.79
+Mahindra XUV700,Mid,Good,Rural (Low),2021,63323.47,Petrol,Manual,First Owner,13.0,2198,182,7,2101156.94,1303827.43
+Honda City,S (Mid),Good,Metro (High Demand),2023,58337.92,CNG,Automatic,First Owner,17.0,1498,119,5,1693769.48,1337128.72
+Toyota Glanza,G (Base),Excellent,Tier 2 (Medium),2022,76367.36,CNG,Automatic,Third Owner,22.0,1197,88,5,1018354.76,535437.46
+Hyundai Venue,SX (Top),Good,Metro (High Demand),2011,48801.88,Diesel,Manual,First Owner,18.0,998,118,5,1329650.59,420510.35
+Volkswagen Virtus,Trendline (Base),Excellent,Tier 2 (Medium),2022,145246.81,CNG,Automatic,Third Owner,18.0,1498,148,5,1669978.08,779526.33
+Hyundai Verna,E (Base),Good,Rural (Low),2024,105894.12,CNG,Automatic,Third Owner,19.0,1497,113,5,1330020.2,638209.66
+Volkswagen Virtus,Comfortline (Mid),Poor,Metro (High Demand),2012,75330.11,Diesel,Automatic,First Owner,18.0,1498,148,5,1833226.71,569213.11
+Honda City,VX (Top),Fair,Metro (High Demand),2016,120503.93,CNG,Manual,First Owner,17.0,1498,119,5,1571598.45,496305.4
+Honda Elevate,E (Base),Excellent,Metro (High Demand),2021,89907.41,Diesel,Manual,Second Owner,15.0,1498,119,5,1491455.8,818219.12
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2018,18276.47,Diesel,Automatic,First Owner,11.0,2393,148,7,2820314.58,1612385.87
+Tata Harrier,XE (Base),Poor,Metro (High Demand),2022,137313.46,Petrol,Manual,First Owner,16.0,1956,167,5,1895469.88,739109.08
+Maruti Suzuki Ertiga,LXI (Base),Excellent,Metro (High Demand),2016,6102.37,Petrol,Automatic,First Owner,20.0,1462,103,7,1126188.15,546525.79
+Toyota Fortuner,G (Base),Good,Metro (High Demand),2014,577964.521650617,Petrol,Manual,Second Owner,10.0,2755,201,7,3644627.46,1146589.89
+Hyundai Verna,S (Mid),Excellent,Tier 2 (Medium),2025,61748.65,Petrol,Manual,Second Owner,19.0,1497,113,5,1271822.62,1084482.41
+Mahindra Bolero,Top,Good,Rural (Low),2024,115082.97,Petrol,Manual,First Owner,16.0,1493,75,7,1088032.38,779457.51
+Kia Seltos,GTX (Top),Excellent,Metro (High Demand),2011,126065.28,CNG,Automatic,Second Owner,16.0,1497,113,5,1904550.25,598579.91
+Volkswagen Taigun,Comfortline (Mid),Excellent,Metro (High Demand),2023,69762.56,CNG,Automatic,First Owner,16.0,1498,148,5,1696210.56,1503045.38
+Kia Carens,GTX (Top),Good,Tier 2 (Medium),2018,113477.97,Diesel,Automatic,Second Owner,16.0,1497,113,7,1566297.28,526205.91
+Tata Harrier,XE (Base),Good,Tier 2 (Medium),2023,120434.9,Petrol,Manual,First Owner,16.0,1956,167,5,1872090.8,1184564.8
+Maruti Suzuki Brezza,ZXI (Top),Excellent,Metro (High Demand),2024,66123.2,Petrol,Automatic,First Owner,19.0,1462,103,5,1246406.75,1106224.92
+Tata Nexon,XM (Mid),Fair,Tier 2 (Medium),2021,47648.28,Diesel,Manual,Second Owner,17.0,1199,118,5,1248352.76,582275.02
+Toyota Innova,G (Base),Fair,Tier 2 (Medium),2017,92331.96,Diesel,Manual,First Owner,11.0,2393,148,7,2691787.97,1078790.91
+Toyota Urban Cruiser,V (Top),Fair,Rural (Low),2022,131011.51,Diesel,Automatic,Second Owner,18.0,1462,103,5,1468880.11,1308743.34
+Maruti Suzuki Dzire,LXI (Base),Poor,Tier 2 (Medium),2015,69395.17,Petrol,Automatic,First Owner,23.0,1197,88,5,849329.37,264954.99
+Tata Safari,XM (Mid),Fair,Rural (Low),2016,149339.91,CNG,Manual,Second Owner,14.0,1956,167,7,2146874.72,659669.63
+Maruti Suzuki Baleno,VXI (Mid),Good,Metro (High Demand),2020,99068.03,Petrol,Manual,First Owner,22.0,1197,88,5,808967.2,454437.82
+Tata Harrier,XM (Mid),Fair,Metro (High Demand),2016,44022.17,Petrol,Manual,Second Owner,16.0,1956,167,5,1904105.83,614238.54
+Toyota Innova,G (Base),Good,Metro (High Demand),2019,15484.15,Petrol,Manual,Second Owner,11.0,2393,148,7,2554861.62,1356163.21
+Toyota Glanza,G (Base),Good,Metro (High Demand),2020,55921.48,Petrol,Automatic,First Owner,22.0,1197,88,5,996671.53,580800.21
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2014,30566.62,CNG,Manual,First Owner,16.0,1497,113,7,1224534.46,1089060.36
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2013,14096.56,Petrol,Manual,Third Owner,11.0,2393,148,7,2561264.88,787400.22
+Mahindra Bolero,Base,Good,Rural (Low),2014,107404.03,Petrol,Automatic,First Owner,16.0,1493,75,7,1207181.66,376146.75
+Mahindra XUV700,Top,Fair,Metro (High Demand),2019,21860.21,Petrol,Automatic,First Owner,13.0,2198,182,7,2312069.59,1318132.52
+Hyundai i20,SX (Top),Good,Rural (Low),2023,33793.79,Diesel,Manual,Second Owner,20.0,1197,82,5,1137230.78,756325.5
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2022,142708.9,Petrol,Manual,Second Owner,18.0,1462,103,5,1206193.53,588614.14
+Honda City,E (Base),Good,Tier 2 (Medium),2013,42654.46,Petrol,Manual,First Owner,17.0,1498,119,5,1539338.1,489882.59
+Hyundai Creta,E (Base),Excellent,Metro (High Demand),2022,539408.7972200079,Diesel,Automatic,Second Owner,16.0,1497,113,5,1788412.78,1301897.77
+Volkswagen Polo,Highline (Top),Fair,Metro (High Demand),2025,65154.58,Diesel,Manual,First Owner,18.0,999,108,5,1087319.59,948824.81
+Tata Tiago,XZ (Top),Good,Rural (Low),2022,125237.95,Diesel,Automatic,Third Owner,20.0,1199,84,5,951513.62,426076.69
+Maruti Suzuki Brezza,VXI (Mid),Good,Tier 2 (Medium),2014,68595.43,Diesel,Manual,Second Owner,19.0,1462,103,5,1105122.41,357031.87
+Hyundai i20,E (Base),Poor,Metro (High Demand),2021,105414.3,Petrol,Automatic,First Owner,20.0,1197,82,5,973649.63,369611.64
+Toyota Glanza,G (Base),Fair,Tier 2 (Medium),2024,13497.81,Diesel,Manual,First Owner,22.0,1197,88,5,1018520.68,787045.45
+Mahindra Thar,Mid,Good,Rural (Low),2018,116878.99,CNG,Automatic,First Owner,15.0,1997,150,4,1798975.96,645563.39
+Hyundai Venue,S (Mid),Fair,Tier 2 (Medium),2025,59656.35,Diesel,Automatic,First Owner,18.0,998,118,5,1335251.01,1045510.89
+Honda Elevate,E (Base),Excellent,Tier 2 (Medium),2025,23136.97,CNG,Automatic,First Owner,15.0,1498,119,5,1523597.8,1345739.69
+Volkswagen Polo,Comfortline (Mid),Poor,Rural (Low),2017,145431.14,Petrol,Manual,First Owner,18.0,999,108,5,949525.41,314406.57
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2016,100978.02,CNG,Manual,Third Owner,22.0,1197,88,5,934240.0,303298.1
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2012,60989.65,Diesel,Manual,First Owner,16.0,1497,113,7,1324116.4,412480.96
+Hyundai Venue,SX (Top),Fair,Metro (High Demand),2014,99748.21,CNG,Automatic,First Owner,18.0,998,118,5,1272721.06,392129.16
+Tata Nexon,XM (Mid),Good,Tier 2 (Medium),2023,119892.61,Diesel,Automatic,First Owner,17.0,1199,118,5,1445343.77,966634.26
+Maruti Suzuki Baleno,LXI (Base),Fair,Metro (High Demand),2020,12881.75,Diesel,Manual,First Owner,22.0,1197,88,5,957304.65,515769.42
+Mahindra Bolero,Mid,Excellent,Tier 2 (Medium),2019,135148.07,Diesel,Automatic,Second Owner,16.0,1493,75,7,1212030.03,1078812.28
+Volkswagen Virtus,Trendline (Base),Good,Rural (Low),2021,107531.76,Petrol,Automatic,Second Owner,18.0,1498,148,5,1634598.26,1447844.54
+Mahindra XUV300,Mid,Excellent,Tier 2 (Medium),2013,99449.27,Diesel,Automatic,First Owner,17.0,1197,108,5,1430386.35,444852.77
+Hyundai Verna,E (Base),Fair,Metro (High Demand),2011,62270.24,Diesel,Manual,Third Owner,19.0,1497,113,5,1387882.08,428420.73
+Hyundai Grand i10,S (Mid),Excellent,Tier 2 (Medium),2020,127090.72,Petrol,Automatic,Third Owner,20.0,1197,82,5,921275.64,337294.82
+Volkswagen Virtus,Trendline (Base),Good,Tier 2 (Medium),2020,11450.65,Petrol,Automatic,Fourth & Above Owner,18.0,1498,148,5,1620528.31,577619.68
+Volkswagen Vento,Comfortline (Mid),Good,Metro (High Demand),2023,74695.45,Diesel,Automatic,First Owner,17.0,999,108,5,1408933.59,1068271.83
+Kia Carens,HTE (Base),Poor,Tier 2 (Medium),2025,55384.1,Diesel,Automatic,Third Owner,16.0,1497,113,7,1528192.51,691489.96
+Kia Carens,GTX (Top),Good,Rural (Low),2013,110817.05,CNG,Automatic,First Owner,16.0,1497,113,7,1513943.35,476679.64
+Hyundai Venue,E (Base),Good,Tier 2 (Medium),2011,32399.0,Petrol,Automatic,Fourth & Above Owner,18.0,998,118,5,1256432.42,393726.93
+Maruti Suzuki Baleno,ZXI (Top),Poor,Metro (High Demand),2012,131329.96,Diesel,Manual,First Owner,22.0,1197,88,5,1006083.94,312053.06
+Volkswagen Vento,Comfortline (Mid),Fair,Rural (Low),2022,7953.49,Diesel,Automatic,First Owner,17.0,999,108,5,1504190.42,900546.48
+Toyota Innova,G (Base),Excellent,Tier 2 (Medium),2022,78217.79,Diesel,Automatic,Third Owner,11.0,2393,148,7,2813789.69,1739852.13
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2021,89580.33,Petrol,Manual,First Owner,18.0,1462,103,5,1123661.07,723244.4
+Honda Amaze,VX (Top),Fair,Tier 2 (Medium),2016,116435.38,Petrol,Manual,First Owner,18.0,1199,88,5,1043641.9,326367.54
+Hyundai Creta,E (Base),Good,Tier 2 (Medium),2011,95321.69,Petrol,Manual,Third Owner,16.0,1497,113,5,1522667.9,1138192.21
+Maruti Suzuki Swift,VXI (Mid),Fair,Tier 2 (Medium),2016,115857.51,CNG,Automatic,First Owner,21.0,1197,82,5,815680.43,267618.37
+Honda Amaze,VX (Top),Good,Rural (Low),2023,118715.27,Diesel,Manual,Second Owner,18.0,1199,88,5,1069977.19,555109.08
+Mahindra Thar,Top,Poor,Metro (High Demand),2019,22779.94,Diesel,Manual,First Owner,15.0,1997,150,4,1730188.36,773984.07
+Maruti Suzuki Alto,ZXI (Top),Good,Metro (High Demand),2022,120532.56,Petrol,Automatic,First Owner,22.0,796,47,5,595254.1,380314.17
+Hyundai Grand i10,S (Mid),Excellent,Tier 2 (Medium),2021,108968.08,Petrol,Automatic,First Owner,20.0,1197,82,5,954084.66,562366.2
+Mahindra Thar,Mid,Fair,Metro (High Demand),2017,39589.24,Diesel,Automatic,Second Owner,15.0,1997,150,4,1883522.78,614071.29
+Mahindra Bolero,Top,Excellent,Metro (High Demand),2024,22519.11,Diesel,Manual,First Owner,16.0,1493,75,7,1266168.09,1125215.66
+Hyundai i20,SX (Top),Good,Tier 2 (Medium),2024,113457.12,CNG,Automatic,Fourth & Above Owner,20.0,1197,82,5,1128880.56,512131.16
+Honda City,E (Base),Poor,Metro (High Demand),2018,111263.76,Diesel,Automatic,First Owner,17.0,1498,119,5,1630135.75,509039.91
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2013,38598.02,CNG,Automatic,First Owner,22.0,1197,88,5,1063197.73,344569.6
+Volkswagen Virtus,Highline (Top),Good,Tier 2 (Medium),2016,25387.64,CNG,Manual,First Owner,18.0,1498,148,5,1692509.7,704125.87
+Toyota Fortuner,V (Top),Good,Tier 2 (Medium),2014,139548.39,CNG,Manual,First Owner,10.0,2755,201,7,3721435.26,1142255.36
+Mahindra XUV300,Top,Fair,Tier 2 (Medium),2018,145578.92,CNG,Manual,Second Owner,17.0,1197,108,5,1327799.61,419035.05
+Honda Amaze,VX (Top),Fair,Tier 2 (Medium),2020,136948.22,CNG,Manual,First Owner,18.0,1199,88,5,1026110.01,441412.41
+Hyundai i20,E (Base),Good,Rural (Low),2015,124220.88,Diesel,Automatic,Second Owner,20.0,1197,82,5,1057740.42,337678.36
+Tata Altroz,XZ (Top),Good,Tier 2 (Medium),2017,34069.83,Diesel,Manual,Third Owner,19.0,1199,84,5,1027069.04,332921.18
+Maruti Suzuki Brezza,VXI (Mid),Good,Tier 2 (Medium),2019,537110.3071941029,Diesel,Manual,First Owner,19.0,1462,103,5,1144546.27,675512.77
+Tata Tiago,XZ (Top),Poor,Metro (High Demand),2016,48711.93,Petrol,Manual,First Owner,20.0,1199,84,5,815479.25,257588.77
+Hyundai Verna,SX (Top),Good,Tier 2 (Medium),2025,87571.51,Diesel,Automatic,Third Owner,19.0,1497,113,5,1571780.22,1139334.68
+Mahindra XUV300,Top,Good,Tier 2 (Medium),2016,17363.16,Diesel,Manual,First Owner,17.0,1197,108,5,1347407.81,512746.31
+Kia Carens,GTX (Top),Good,Tier 2 (Medium),2014,33158.83,Petrol,Manual,First Owner,16.0,1497,113,7,1319514.34,476329.77
+Maruti Suzuki Ertiga,LXI (Base),Fair,Metro (High Demand),2020,14373.12,CNG,Automatic,First Owner,20.0,1462,103,7,1125465.57,558061.0
+Hyundai Venue,S (Mid),Good,Tier 2 (Medium),2018,86191.96,Diesel,Manual,Third Owner,18.0,998,118,5,1145769.93,360825.57
+Volkswagen Polo,Highline (Top),Fair,Metro (High Demand),2024,93794.67,Diesel,Automatic,Second Owner,18.0,999,108,5,1260440.57,813388.18
+Tata Altroz,XM (Mid),Good,Rural (Low),2018,77290.39,Petrol,Automatic,First Owner,19.0,1199,84,5,1102271.31,473634.78
+Hyundai Grand i10,SX (Top),Good,Metro (High Demand),2017,20199.6,CNG,Automatic,Third Owner,20.0,1197,82,5,1009631.24,358313.9
+Toyota Urban Cruiser,G (Base),Fair,Metro (High Demand),2018,44358.77,Diesel,Automatic,First Owner,18.0,1462,103,5,1287624.02,540854.72
+Volkswagen Polo,Comfortline (Mid),Poor,Tier 2 (Medium),2022,111894.02,Diesel,Manual,Second Owner,18.0,999,108,5,1069955.02,353539.34
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2025,143847.56,Petrol,Automatic,First Owner,18.0,1199,88,5,1044822.11,802266.76
+Mahindra XUV700,Base,Excellent,Tier 2 (Medium),2021,10658.31,Petrol,Manual,Fourth & Above Owner,13.0,2198,182,7,2091479.11,1027190.72
+Honda Amaze,S (Mid),Excellent,Metro (High Demand),2021,105587.49,Diesel,Automatic,First Owner,18.0,1199,88,5,1185943.96,748998.91
+Kia Sonet,HTK (Mid),Good,Metro (High Demand),2017,64398.75,Diesel,Manual,First Owner,18.0,998,118,5,1252792.58,509082.35
+Maruti Suzuki Ertiga,LXI (Base),Fair,Rural (Low),2011,62087.8,CNG,Manual,First Owner,20.0,1462,103,7,1034301.5,323318.54
+Honda Amaze,VX (Top),Good,Metro (High Demand),2023,138821.2,CNG,Manual,First Owner,18.0,1199,88,5,954460.45,707333.26
+Volkswagen Polo,Trendline (Base),Fair,Metro (High Demand),2025,96056.75,CNG,Automatic,First Owner,18.0,999,108,5,928306.93,720761.09
+Honda City,E (Base),Good,Tier 2 (Medium),2022,10588.46,CNG,Automatic,First Owner,17.0,1498,119,5,1636026.69,1258009.67
+Tata Safari,XM (Mid),Poor,Tier 2 (Medium),2025,386184.8992091097,CNG,Automatic,First Owner,14.0,1956,167,7,2161286.26,1593006.43
+Maruti Suzuki Ertiga,ZXI (Top),Excellent,Tier 2 (Medium),2012,57518.41,Petrol,Manual,First Owner,20.0,1462,103,7,1214104.62,377584.12
+Mahindra Scorpio,Top,Good,Metro (High Demand),2023,142793.49,Petrol,Manual,Fourth & Above Owner,15.0,2184,130,7,1825930.83,857677.29
+Maruti Suzuki Swift,ZXI (Top),Poor,Rural (Low),2012,16232.45,Diesel,Manual,Second Owner,21.0,1197,82,5,912840.74,290889.13
+Volkswagen Virtus,Trendline (Base),Good,Tier 2 (Medium),2011,50574.18,Petrol,Manual,Fourth & Above Owner,18.0,1498,148,5,1638020.67,514178.92
+Maruti Suzuki Alto,VXI (Mid),Excellent,Tier 2 (Medium),2013,31871.2,Petrol,Automatic,First Owner,22.0,796,47,5,583149.8,513675.79
+Toyota Glanza,G (Base),Fair,Metro (High Demand),2015,89617.7,Petrol,Automatic,Second Owner,22.0,1197,88,5,1051364.82,344706.96
+Kia Sonet,GTX (Top),Good,Tier 2 (Medium),2024,12053.28,Petrol,Automatic,Second Owner,18.0,998,118,5,1294297.46,1033989.5
+Toyota Innova,V (Top),Good,Metro (High Demand),2025,30162.41,CNG,Automatic,Second Owner,11.0,2393,148,7,2813091.05,2517894.83
+Hyundai Grand i10,S (Mid),Excellent,Tier 2 (Medium),2024,115011.86,Diesel,Automatic,First Owner,20.0,1197,82,5,977705.25,802246.53
+Maruti Suzuki Brezza,ZXI (Top),Good,Rural (Low),2024,46435.48,Petrol,Automatic,Second Owner,19.0,1462,103,5,1150730.6,848532.04
+Honda City,S (Mid),Poor,Tier 2 (Medium),2013,5391.64,CNG,Automatic,Third Owner,17.0,1498,119,5,1633526.87,518950.68
+Maruti Suzuki Swift,LXI (Base),Good,Tier 2 (Medium),2017,14296.74,CNG,Automatic,First Owner,21.0,1197,82,5,769416.24,352707.24
+Hyundai Grand i10,SX (Top),Poor,Tier 2 (Medium),2015,30934.88,Petrol,Automatic,First Owner,20.0,1197,82,5,917871.26,297779.1
+Tata Altroz,XM (Mid),Good,Metro (High Demand),2014,135581.68,Diesel,Manual,First Owner,19.0,1199,84,5,1078948.85,348796.44
+Mahindra XUV300,Top,Excellent,Metro (High Demand),2012,48090.47,CNG,Manual,Second Owner,17.0,1197,108,5,1246538.33,388147.82
+Volkswagen Polo,Highline (Top),Good,Tier 2 (Medium),2011,48460.55,Petrol,Automatic,First Owner,18.0,999,108,5,1056685.33,334986.44
+Maruti Suzuki Dzire,VXI (Mid),Fair,Metro (High Demand),2013,54802.52,Diesel,Manual,Second Owner,23.0,1197,88,5,967475.82,305088.95
+Hyundai Venue,E (Base),Good,Tier 2 (Medium),2024,122709.12,Petrol,Automatic,Third Owner,18.0,998,118,5,1195363.41,627288.1
+Volkswagen Taigun,Trendline (Base),Excellent,Metro (High Demand),2012,85429.12,Diesel,Automatic,First Owner,16.0,1498,148,5,1640158.37,509620.88
+Maruti Suzuki Dzire,VXI (Mid),Fair,Rural (Low),2019,55133.22,Petrol,Automatic,Second Owner,23.0,1197,88,5,978602.92,332829.18
+Maruti Suzuki Brezza,VXI (Mid),Good,Metro (High Demand),2017,41585.03,Diesel,Automatic,First Owner,19.0,1462,103,5,1266930.97,631540.91
+Tata Harrier,XE (Base),Excellent,Rural (Low),2012,146100.85,Diesel,Manual,First Owner,16.0,1956,167,5,2003828.49,621343.8
+Toyota Glanza,G (Base),Fair,Rural (Low),2015,19357.85,CNG,Manual,Third Owner,22.0,1197,88,5,804794.47,258494.4
+Mahindra XUV300,Base,Poor,Metro (High Demand),2015,26280.69,CNG,Manual,Third Owner,17.0,1197,108,5,1197132.62,381471.98
+Honda Amaze,E (Base),Fair,Metro (High Demand),2023,128763.7,Diesel,Automatic,First Owner,18.0,1199,88,5,1103443.03,605861.58
+Kia Sonet,HTE (Base),Excellent,Tier 2 (Medium),2015,88079.42,Diesel,Automatic,First Owner,18.0,998,118,5,1264820.0,474801.09
+Kia Seltos,HTE (Base),Poor,Tier 2 (Medium),2014,62029.65,Diesel,Manual,Second Owner,16.0,1497,113,5,1705466.87,533413.96
+Honda Elevate,VX (Top),Good,Metro (High Demand),2019,80975.65,Diesel,Automatic,First Owner,15.0,1498,119,5,1730423.1,982802.11
+Kia Carens,GTX (Top),Good,Metro (High Demand),2012,92171.86,Diesel,Automatic,Second Owner,16.0,1497,113,7,1537825.17,487408.12
+Volkswagen Taigun,Comfortline (Mid),Fair,Rural (Low),2019,488109.67657636164,Diesel,Automatic,Third Owner,16.0,1498,148,5,1771571.67,542488.37
+Kia Carens,GTX (Top),Poor,Metro (High Demand),2015,31569.29,Petrol,Automatic,Second Owner,16.0,1497,113,7,1506605.15,477609.19
+Kia Seltos,HTK (Mid),Excellent,Metro (High Demand),2021,81500.14,Diesel,Manual,Second Owner,16.0,1497,113,5,1763124.76,1028475.4
+Honda Elevate,E (Base),Poor,Tier 2 (Medium),2017,34754.61,Petrol,Automatic,First Owner,15.0,1498,119,5,1422758.62,446379.33
+Honda City,VX (Top),Good,Rural (Low),2024,84489.57,Diesel,Manual,Third Owner,17.0,1498,119,5,1622719.58,1015287.97
+Kia Sonet,HTK (Mid),Fair,Metro (High Demand),2025,53959.65,Petrol,Manual,Third Owner,18.0,998,118,5,1057277.94,659317.2
+Honda City,S (Mid),Excellent,Metro (High Demand),2017,132906.92,CNG,Automatic,First Owner,17.0,1498,119,5,1571839.99,619150.6
+Hyundai Venue,SX (Top),Fair,Tier 2 (Medium),2018,134380.34,Diesel,Automatic,Second Owner,18.0,998,118,5,1415423.19,443865.69
+Mahindra Thar,Base,Good,Metro (High Demand),2018,53454.78,CNG,Manual,Second Owner,15.0,1997,150,4,1617799.22,621312.1
+Mahindra Scorpio,Mid,Excellent,Rural (Low),2017,28225.69,Petrol,Manual,First Owner,15.0,2184,130,7,1718103.12,946906.71
+Maruti Suzuki Swift,LXI (Base),Good,Tier 2 (Medium),2016,22133.35,Diesel,Automatic,Fourth & Above Owner,21.0,1197,82,5,907588.28,287289.96
+Honda City,E (Base),Good,Tier 2 (Medium),2012,16221.29,CNG,Manual,First Owner,17.0,1498,119,5,1549501.5,475232.28
+Mahindra XUV700,Top,Fair,Metro (High Demand),2023,64525.41,Diesel,Manual,Third Owner,13.0,2198,182,7,2277697.14,1333998.27
+Maruti Suzuki Swift,ZXI (Top),Good,Rural (Low),2024,66100.11,CNG,Manual,First Owner,21.0,1197,82,5,756091.63,662189.81
+Kia Seltos,GTX (Top),Good,Tier 2 (Medium),2011,95618.24,CNG,Manual,First Owner,16.0,1497,113,5,1729113.87,536505.17
+Honda City,VX (Top),Fair,Tier 2 (Medium),2017,40311.07,Petrol,Manual,First Owner,17.0,1498,119,5,1523195.67,610719.17
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2013,39572.97,Diesel,Manual,Second Owner,11.0,2393,148,7,2781054.48,889514.05
+Mahindra Scorpio,Base,Excellent,Rural (Low),2017,41054.09,Diesel,Manual,Fourth & Above Owner,15.0,2184,130,7,1756694.29,537814.14
+Tata Altroz,XE (Base),Fair,Metro (High Demand),2020,43688.07,CNG,Automatic,First Owner,19.0,1199,84,5,996918.93,517381.21
+Toyota Fortuner,V (Top),Good,Tier 2 (Medium),2013,47026.22,Diesel,Manual,Second Owner,10.0,2755,201,7,3774097.05,1147428.33
+Maruti Suzuki Dzire,ZXI (Top),Good,Tier 2 (Medium),2015,64542.67,Diesel,Manual,Fourth & Above Owner,23.0,1197,88,5,906261.65,286878.35
+Mahindra Thar,Top,Good,Metro (High Demand),2011,37109.29,CNG,Manual,Second Owner,15.0,1997,150,4,1675486.32,520353.75
+Toyota Innova,V (Top),Fair,Metro (High Demand),2018,148873.2,CNG,Manual,Second Owner,11.0,2393,148,7,2700058.95,1014809.17
+Toyota Glanza,G (Base),Good,Rural (Low),2022,113363.51,Petrol,Automatic,First Owner,22.0,1197,88,5,1069347.8,557228.51
+Hyundai i20,E (Base),Excellent,Rural (Low),2021,60824.65,Petrol,Automatic,Fourth & Above Owner,20.0,1197,82,5,1059894.14,413492.79
+Tata Harrier,XZ (Top),Good,Metro (High Demand),2015,118598.37,CNG,Automatic,Fourth & Above Owner,16.0,1956,167,5,2074540.81,651767.77
+Hyundai i20,E (Base),Good,Rural (Low),2013,78574.21,CNG,Automatic,Second Owner,20.0,1197,82,5,1062531.76,343788.99
+Hyundai i20,SX (Top),Good,Tier 2 (Medium),2014,107556.45,Petrol,Manual,First Owner,20.0,1197,82,5,1017891.43,328416.72
+Mahindra Scorpio,Mid,Good,Rural (Low),2013,12051.03,Diesel,Manual,Third Owner,15.0,2184,130,7,1795048.08,552235.72
+Mahindra XUV300,Top,Poor,Rural (Low),2013,129621.91,CNG,Manual,Second Owner,17.0,1197,108,5,1228739.31,396047.44
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2017,106824.73,Petrol,Manual,First Owner,18.0,1462,103,5,1154258.85,411153.0
+Maruti Suzuki Alto,ZXI (Top),Good,Rural (Low),2022,124540.31,Petrol,Automatic,First Owner,22.0,796,47,5,570582.54,313532.99
+Tata Safari,XM (Mid),Good,Metro (High Demand),2015,139284.39,Petrol,Manual,First Owner,14.0,1956,167,7,2152978.98,673001.93
+Hyundai i20,E (Base),Good,Rural (Low),2024,437875.6068119868,CNG,Automatic,First Owner,20.0,1197,82,5,1028657.51,810513.19
+Mahindra XUV300,Base,Good,Metro (High Demand),2015,5869.55,Petrol,Manual,Third Owner,17.0,1197,108,5,1140517.82,365724.58
+Hyundai Verna,E (Base),Excellent,Tier 2 (Medium),2019,89115.68,Diesel,Manual,Second Owner,19.0,1497,113,5,1439559.97,613102.97
+Hyundai Creta,S (Mid),Good,Tier 2 (Medium),2023,30927.81,Diesel,Automatic,First Owner,16.0,1497,113,5,1762697.2,1574515.25
+Kia Sonet,HTK (Mid),Fair,Rural (Low),2025,24391.2,Diesel,Automatic,Second Owner,18.0,998,118,5,1301208.71,909693.02
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2022,113656.4,Diesel,Automatic,Second Owner,16.0,1497,113,5,1895184.3,906313.53
+Maruti Suzuki Alto,ZXI (Top),Excellent,Tier 2 (Medium),2017,138387.52,Petrol,Automatic,First Owner,22.0,796,47,5,693878.47,289127.34
+Tata Altroz,XM (Mid),Good,Tier 2 (Medium),2012,21097.16,Petrol,Automatic,First Owner,19.0,1199,84,5,1028766.66,324950.77
+Volkswagen Virtus,Highline (Top),Poor,Tier 2 (Medium),2021,89995.38,Petrol,Automatic,Second Owner,18.0,1498,148,5,1733946.31,1547147.6
+Honda Amaze,E (Base),Excellent,Metro (High Demand),2023,133936.69,Diesel,Automatic,Fourth & Above Owner,18.0,1199,88,5,1100299.12,478647.96
+Tata Altroz,XE (Base),Good,Rural (Low),2012,63645.47,Diesel,Manual,First Owner,19.0,1199,84,5,929239.91,822683.53
+Honda City,S (Mid),Good,Metro (High Demand),2018,11933.18,CNG,Manual,First Owner,17.0,1498,119,5,1566527.8,733511.33
+Mahindra Scorpio,Top,Good,Tier 2 (Medium),2024,142386.4,CNG,Automatic,First Owner,15.0,2184,130,7,1853012.08,1603808.39
+Toyota Glanza,G (Base),Good,Metro (High Demand),2014,51744.22,Petrol,Automatic,Third Owner,22.0,1197,88,5,1061889.18,332849.4
+Volkswagen Polo,Highline (Top),Good,Tier 2 (Medium),2024,73241.26,CNG,Automatic,Second Owner,18.0,999,108,5,1114941.43,822301.62
+Toyota Urban Cruiser,G (Base),Excellent,Rural (Low),2014,9987.81,CNG,Automatic,First Owner,18.0,1462,103,5,1263248.66,411286.19
+Hyundai Creta,S (Mid),Excellent,Metro (High Demand),2015,107711.48,CNG,Manual,First Owner,16.0,1497,113,5,1589392.53,600698.27
+Maruti Suzuki Dzire,ZXI (Top),Poor,Tier 2 (Medium),2021,68300.96,CNG,Automatic,First Owner,23.0,1197,88,5,998163.9,433356.1
+Kia Seltos,HTE (Base),Good,Rural (Low),2015,46913.61,Diesel,Automatic,First Owner,16.0,1497,113,5,1824142.82,1620070.79
+Toyota Urban Cruiser,G (Base),Good,Metro (High Demand),2019,94255.02,Petrol,Automatic,Third Owner,18.0,1462,103,5,1165286.27,444027.77
+Toyota Fortuner,G (Base),Good,Rural (Low),2019,89388.68,Petrol,Automatic,First Owner,10.0,2755,201,7,3732981.32,1942792.02
+Maruti Suzuki Swift,LXI (Base),Good,Tier 2 (Medium),2025,21864.88,Diesel,Manual,First Owner,21.0,1197,82,5,729142.98,632242.11
+Maruti Suzuki Brezza,ZXI (Top),Excellent,Metro (High Demand),2022,8973.59,Diesel,Automatic,Third Owner,19.0,1462,103,5,1314774.97,854343.57
+Mahindra XUV300,Mid,Good,Metro (High Demand),2013,65087.8,Petrol,Automatic,First Owner,17.0,1197,108,5,1343709.18,420435.8
+Honda Elevate,VX (Top),Fair,Metro (High Demand),2017,127156.18,CNG,Automatic,Second Owner,15.0,1498,119,5,1535400.6,461826.99
+Hyundai Grand i10,SX (Top),Excellent,Rural (Low),2020,59815.98,Diesel,Automatic,Second Owner,20.0,1197,82,5,1054526.53,493975.58
+Hyundai i20,S (Mid),Good,Metro (High Demand),2018,117792.11,CNG,Automatic,First Owner,20.0,1197,82,5,1045216.76,403493.72
+Maruti Suzuki Dzire,VXI (Mid),Good,Tier 2 (Medium),2011,97535.22,Diesel,Automatic,First Owner,23.0,1197,88,5,993520.76,310577.74
+Tata Altroz,XZ (Top),Good,Metro (High Demand),2023,48594.86,Diesel,Automatic,First Owner,19.0,1199,84,5,1184626.22,1047406.49
+Volkswagen Polo,Trendline (Base),Good,Metro (High Demand),2016,104993.61,Diesel,Automatic,First Owner,18.0,999,108,5,1107077.35,364606.24
+Maruti Suzuki Swift,VXI (Mid),Good,Metro (High Demand),2017,106209.39,Diesel,Automatic,Second Owner,21.0,1197,82,5,905015.79,307538.43
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2015,142221.3,Petrol,Manual,First Owner,18.0,1498,148,5,1539614.05,479988.5
+Hyundai Creta,E (Base),Good,Tier 2 (Medium),2017,141616.96,Petrol,Automatic,Second Owner,16.0,1497,113,5,1687182.57,561779.46
+Kia Sonet,GTX (Top),Fair,Metro (High Demand),2013,35448.27,CNG,Automatic,Third Owner,18.0,998,118,5,1257310.34,397463.31
+Honda Amaze,E (Base),Fair,Rural (Low),2024,26500.58,Diesel,Manual,Second Owner,18.0,1199,88,5,925872.51,535851.47
+Honda Amaze,S (Mid),Good,Rural (Low),2011,33148.1,CNG,Automatic,Third Owner,18.0,1199,88,5,998267.58,313540.53
+Toyota Fortuner,V (Top),Poor,Metro (High Demand),2014,69471.5,Diesel,Automatic,First Owner,10.0,2755,201,7,3910379.69,1187122.34
+Hyundai i20,E (Base),Fair,Metro (High Demand),2019,11532.02,Diesel,Manual,Third Owner,20.0,1197,82,5,996946.05,354001.7
+Tata Harrier,XZ (Top),Good,Tier 2 (Medium),2018,99527.41,Petrol,Automatic,First Owner,16.0,1956,167,5,2081397.51,1042669.47
+Maruti Suzuki Baleno,ZXI (Top),Good,Metro (High Demand),2012,11862.36,Diesel,Manual,First Owner,22.0,1197,88,5,1027222.32,319576.3
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2017,113024.76,Petrol,Manual,First Owner,16.0,1497,113,7,1282155.35,417114.64
+Maruti Suzuki Alto,VXI (Mid),Good,Metro (High Demand),2014,131944.67,Petrol,Manual,First Owner,22.0,796,47,5,409460.14,134518.34
+Hyundai Venue,SX (Top),Excellent,Rural (Low),2024,40382.86,CNG,Automatic,Third Owner,18.0,998,118,5,1236622.39,945030.11
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2017,55793.31,Diesel,Manual,First Owner,18.0,1498,148,5,1626105.72,680446.56
+Hyundai i20,S (Mid),Good,Tier 2 (Medium),2016,607419.1787110469,Diesel,Manual,Fourth & Above Owner,20.0,1197,82,5,1050079.77,328223.23
+Tata Harrier,XE (Base),Excellent,Metro (High Demand),2011,72655.07,CNG,Automatic,Second Owner,16.0,1956,167,5,1976870.33,611693.46
+Honda Elevate,S (Mid),Good,Rural (Low),2011,87208.45,Diesel,Manual,First Owner,15.0,1498,119,5,1563235.17,482606.4
+Hyundai Grand i10,E (Base),Good,Tier 2 (Medium),2013,125625.54,Petrol,Automatic,Second Owner,20.0,1197,82,5,882477.57,278556.29
+Toyota Glanza,V (Top),Excellent,Metro (High Demand),2022,138051.5,Diesel,Automatic,First Owner,22.0,1197,88,5,1194698.27,860474.45
+Toyota Fortuner,V (Top),Excellent,Rural (Low),2014,57314.03,Petrol,Manual,Fourth & Above Owner,10.0,2755,201,7,3745686.29,1141036.24
+Honda Elevate,VX (Top),Fair,Tier 2 (Medium),2021,21126.44,Diesel,Manual,First Owner,15.0,1498,119,5,1504802.58,902094.0
+Honda Amaze,VX (Top),Good,Metro (High Demand),2018,58536.39,CNG,Manual,First Owner,18.0,1199,88,5,1020832.51,507470.53
+Tata Nexon,XM (Mid),Good,Metro (High Demand),2023,69182.46,Petrol,Manual,First Owner,17.0,1199,118,5,1288939.28,1065277.66
+Maruti Suzuki Dzire,ZXI (Top),Excellent,Rural (Low),2013,40432.63,CNG,Manual,First Owner,23.0,1197,88,5,835236.42,269426.81
+Volkswagen Taigun,Trendline (Base),Excellent,Metro (High Demand),2024,76905.49,Diesel,Manual,Second Owner,16.0,1498,148,5,1527977.52,1202133.08
+Kia Carens,GTX (Top),Good,Tier 2 (Medium),2018,129836.55,Diesel,Automatic,First Owner,16.0,1497,113,7,1642529.2,653825.05
+Hyundai i20,S (Mid),Excellent,Rural (Low),2014,457273.1822696568,Petrol,Automatic,Second Owner,20.0,1197,82,5,1036877.25,331285.04
+Mahindra Bolero,Top,Fair,Metro (High Demand),2023,137682.29,Petrol,Manual,Third Owner,16.0,1493,75,7,1168372.42,513165.9
+Kia Carens,HTE (Base),Good,Metro (High Demand),2018,44535.34,Diesel,Automatic,First Owner,16.0,1497,113,7,1426568.38,675506.47
+Mahindra Thar,Base,Excellent,Tier 2 (Medium),2023,26521.62,Diesel,Manual,First Owner,15.0,1997,150,4,1722075.34,1470856.72
+Hyundai Creta,SX (Top),Poor,Tier 2 (Medium),2015,121946.73,Diesel,Manual,Second Owner,16.0,1497,113,5,1703612.55,531975.11
+Toyota Urban Cruiser,G (Base),Poor,Tier 2 (Medium),2020,126044.56,Diesel,Manual,Second Owner,18.0,1462,103,5,1157654.58,376487.48
+Tata Safari,XM (Mid),Excellent,Metro (High Demand),2022,8961.93,CNG,Automatic,First Owner,14.0,1956,167,7,2175477.52,1940545.8
+Hyundai Grand i10,SX (Top),Fair,Rural (Low),2015,112136.13,Diesel,Manual,Second Owner,20.0,1197,82,5,946077.52,300419.22
+Kia Carens,HTK (Mid),Excellent,Metro (High Demand),2019,44589.24,CNG,Automatic,Second Owner,16.0,1497,113,7,1361123.69,708553.07
+Volkswagen Polo,Comfortline (Mid),Good,Metro (High Demand),2022,100778.82,CNG,Automatic,Second Owner,18.0,999,108,5,1090263.47,530047.19
+Honda Elevate,VX (Top),Good,Metro (High Demand),2021,78908.62,Diesel,Automatic,First Owner,15.0,1498,119,5,1702230.69,1139930.98
+Tata Altroz,XE (Base),Fair,Metro (High Demand),2024,23126.83,CNG,Manual,Second Owner,19.0,1199,84,5,810630.77,545404.81
+Maruti Suzuki Alto,LXI (Base),Excellent,Metro (High Demand),2025,52004.15,Diesel,Automatic,Second Owner,22.0,796,47,5,719045.8,600527.5
+Toyota Fortuner,G (Base),Poor,Metro (High Demand),2012,59707.19,Petrol,Manual,Third Owner,10.0,2755,201,7,3637268.85,1111403.15
+Honda City,VX (Top),Fair,Metro (High Demand),2021,79015.19,Petrol,Manual,First Owner,17.0,1498,119,5,1609933.68,964042.19
+Tata Safari,XZ (Top),Fair,Tier 2 (Medium),2024,144663.55,CNG,Automatic,Second Owner,14.0,1956,167,7,2306086.0,1248070.94
+Mahindra Bolero,Base,Excellent,Tier 2 (Medium),2012,94932.15,CNG,Manual,First Owner,16.0,1493,75,7,987799.59,311121.4
+Tata Harrier,XE (Base),Poor,Metro (High Demand),2025,138550.57,CNG,Automatic,First Owner,16.0,1956,167,5,1979352.95,1145223.55
+Mahindra Thar,Mid,Fair,Tier 2 (Medium),2017,106575.36,Petrol,Manual,Third Owner,15.0,1997,150,4,1563833.19,485381.73
+Maruti Suzuki Ertiga,ZXI (Top),Fair,Rural (Low),2023,77668.06,CNG,Automatic,Third Owner,20.0,1462,103,7,1281696.91,577123.46
+Maruti Suzuki Dzire,VXI (Mid),Good,Tier 2 (Medium),2023,81294.96,CNG,Manual,Third Owner,23.0,1197,88,5,802021.85,697110.43
+Tata Safari,XM (Mid),Fair,Rural (Low),2013,63039.1,Petrol,Manual,First Owner,14.0,1956,167,7,2075322.82,644639.16
+Kia Carens,GTX (Top),Excellent,Metro (High Demand),2015,23131.17,Petrol,Manual,Second Owner,16.0,1497,113,7,1359906.84,488619.42
+Honda City,E (Base),Good,Tier 2 (Medium),2014,125019.83,Diesel,Manual,First Owner,17.0,1498,119,5,1601217.2,495698.39
+Tata Safari,XM (Mid),Good,Tier 2 (Medium),2023,108766.79,Petrol,Automatic,Second Owner,14.0,1956,167,7,2260794.18,1152088.85
+Hyundai Venue,E (Base),Excellent,Tier 2 (Medium),2011,529623.0470972887,CNG,Automatic,First Owner,18.0,998,118,5,1262503.34,400052.68
+Hyundai i20,SX (Top),Excellent,Metro (High Demand),2012,148044.56,Petrol,Automatic,Second Owner,20.0,1197,82,5,1120674.72,362200.9
+Honda Elevate,VX (Top),Fair,Metro (High Demand),2024,148502.03,Petrol,Automatic,First Owner,15.0,1498,119,5,1625900.14,1101355.29
+Mahindra XUV700,Base,Good,Metro (High Demand),2018,691004.3601204366,Petrol,Manual,Third Owner,13.0,2198,182,7,2040440.65,617342.27
+Tata Altroz,XM (Mid),Excellent,Metro (High Demand),2022,62994.41,CNG,Automatic,Third Owner,19.0,1199,84,5,1099324.76,661263.86
+Kia Seltos,HTK (Mid),Poor,Tier 2 (Medium),2015,95886.66,CNG,Manual,Fourth & Above Owner,16.0,1497,113,5,1750645.19,553489.86
+Toyota Innova,V (Top),Fair,Rural (Low),2018,94515.8,Petrol,Manual,Second Owner,11.0,2393,148,7,2634564.24,943681.59
+Tata Nexon,XE (Base),Poor,Tier 2 (Medium),2017,116867.04,Diesel,Manual,Third Owner,17.0,1199,118,5,1279179.11,402168.87
+Hyundai i20,S (Mid),Poor,Rural (Low),2023,76920.76,Diesel,Manual,First Owner,20.0,1197,82,5,941067.27,507224.72
+Maruti Suzuki Brezza,ZXI (Top),Good,Rural (Low),2025,65626.55,Petrol,Automatic,Third Owner,19.0,1462,103,5,1232783.02,874537.75
+Kia Seltos,HTE (Base),Good,Metro (High Demand),2020,113430.02,CNG,Manual,Third Owner,16.0,1497,113,5,1693895.25,551493.83
+Mahindra Thar,Top,Fair,Metro (High Demand),2022,47101.2,Petrol,Automatic,Second Owner,15.0,1997,150,4,1728445.81,1037413.37
+Kia Carens,HTK (Mid),Excellent,Metro (High Demand),2016,469884.9757430227,Diesel,Manual,First Owner,16.0,1497,113,7,1412967.99,648567.53
+Maruti Suzuki Swift,ZXI (Top),Fair,Rural (Low),2024,94565.33,Diesel,Automatic,Third Owner,21.0,1197,82,5,975736.19,582763.12
+Mahindra XUV300,Base,Good,Rural (Low),2011,28431.69,Diesel,Manual,First Owner,17.0,1197,108,5,1335900.2,429634.73
+Kia Seltos,GTX (Top),Fair,Metro (High Demand),2023,137283.26,Petrol,Automatic,First Owner,16.0,1497,113,5,1872457.19,1146203.74
+Tata Nexon,XZ (Top),Good,Tier 2 (Medium),2024,23517.14,Petrol,Manual,First Owner,17.0,1199,118,5,1241806.65,1090306.8
+Kia Sonet,HTE (Base),Good,Rural (Low),2012,27936.85,Diesel,Manual,First Owner,18.0,998,118,5,1208981.88,376728.29
+Maruti Suzuki Dzire,ZXI (Top),Good,Rural (Low),2015,134455.58,Diesel,Manual,First Owner,23.0,1197,88,5,927381.4,307435.88
+Volkswagen Virtus,Trendline (Base),Excellent,Metro (High Demand),2023,14511.06,Petrol,Manual,Second Owner,18.0,1498,148,5,1563943.37,1179688.93
+Toyota Innova,G (Base),Poor,Metro (High Demand),2011,34582.83,Diesel,Automatic,First Owner,11.0,2393,148,7,2869406.17,885463.24
+Maruti Suzuki Brezza,ZXI (Top),Poor,Metro (High Demand),2021,595955.1562621152,Diesel,Manual,First Owner,19.0,1462,103,5,1180256.55,658003.28
+Tata Altroz,XZ (Top),Excellent,Metro (High Demand),2018,581290.6684768061,Diesel,Automatic,Second Owner,19.0,1199,84,5,1164668.75,580309.26
+Honda City,VX (Top),Excellent,Metro (High Demand),2019,591184.7458458034,Petrol,Automatic,Third Owner,17.0,1498,119,5,1657305.91,707036.47
+Honda Amaze,S (Mid),Fair,Metro (High Demand),2015,28386.45,Diesel,Automatic,Third Owner,18.0,1199,88,5,1064286.44,330605.45
+Mahindra Scorpio,Mid,Excellent,Metro (High Demand),2013,137773.34,Petrol,Manual,First Owner,15.0,2184,130,7,1736677.94,545204.14
+Maruti Suzuki Ertiga,LXI (Base),Good,Rural (Low),2021,62294.52,Diesel,Automatic,First Owner,20.0,1462,103,7,1274903.23,771176.1
+Kia Seltos,HTE (Base),Poor,Tier 2 (Medium),2021,7080.33,CNG,Automatic,Second Owner,16.0,1497,113,5,1851531.86,700720.55
+Maruti Suzuki Brezza,VXI (Mid),Fair,Metro (High Demand),2023,65907.32,Diesel,Manual,Second Owner,19.0,1462,103,5,1132230.76,655792.83
+Honda Elevate,S (Mid),Good,Tier 2 (Medium),2024,128127.95,CNG,Manual,First Owner,15.0,1498,119,5,1486617.82,1112147.73
+Toyota Urban Cruiser,V (Top),Excellent,Tier 2 (Medium),2018,5742.75,CNG,Manual,First Owner,18.0,1462,103,5,1113834.27,667583.23
+Toyota Fortuner,V (Top),Good,Tier 2 (Medium),2014,101030.1,Petrol,Manual,First Owner,10.0,2755,201,7,3730557.02,3300738.92
+Maruti Suzuki Ertiga,LXI (Base),Good,Rural (Low),2021,69138.58,Petrol,Automatic,First Owner,20.0,1462,103,7,1191097.54,692563.52
+Volkswagen Polo,Highline (Top),Good,Metro (High Demand),2013,16133.15,CNG,Automatic,Third Owner,18.0,999,108,5,1133365.89,369493.25
+Honda Elevate,E (Base),Fair,Metro (High Demand),2020,140940.14,Diesel,Manual,First Owner,15.0,1498,119,5,1449216.11,548167.16
+Maruti Suzuki Ertiga,VXI (Mid),Fair,Tier 2 (Medium),2023,148459.4,Diesel,Manual,Third Owner,20.0,1462,103,7,1255948.12,507109.42
+Tata Safari,XZ (Top),Good,Tier 2 (Medium),2011,62964.62,CNG,Manual,First Owner,14.0,1956,167,7,2209818.02,676023.7
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2021,43509.26,CNG,Manual,Fourth & Above Owner,18.0,1498,148,5,1638984.97,669865.13
+Hyundai i20,S (Mid),Good,Metro (High Demand),2017,141901.73,Diesel,Manual,Second Owner,20.0,1197,82,5,992992.14,318920.4
+Tata Safari,XZ (Top),Fair,Metro (High Demand),2013,116796.62,CNG,Manual,First Owner,14.0,1956,167,7,2112721.34,648984.69
+Volkswagen Taigun,Trendline (Base),Fair,Metro (High Demand),2022,9597.74,CNG,Manual,Second Owner,16.0,1498,148,5,1440766.93,717841.12
+Hyundai Venue,SX (Top),Good,Metro (High Demand),2014,58592.53,CNG,Automatic,Second Owner,18.0,998,118,5,1357670.03,425990.75
+Volkswagen Taigun,Trendline (Base),Good,Metro (High Demand),2024,148941.52,Petrol,Automatic,Second Owner,16.0,1498,148,5,1594061.69,929188.96
+Hyundai Creta,S (Mid),Good,Tier 2 (Medium),2024,73710.81,CNG,Automatic,Second Owner,16.0,1497,113,5,1764403.83,1372621.6
+Mahindra Thar,Base,Poor,Rural (Low),2021,120570.64,Petrol,Automatic,Third Owner,15.0,1997,150,4,1635746.5,516319.71
+Tata Nexon,XZ (Top),Good,Rural (Low),2018,19762.13,CNG,Manual,Second Owner,17.0,1199,118,5,1261082.85,496419.17
+Honda Elevate,S (Mid),Excellent,Tier 2 (Medium),2019,109461.9,Petrol,Automatic,Third Owner,15.0,1498,119,5,1595407.79,526773.53
+Tata Harrier,XZ (Top),Fair,Tier 2 (Medium),2017,68473.45,CNG,Automatic,Second Owner,16.0,1956,167,5,2090930.06,652150.88
+Tata Nexon,XM (Mid),Good,Tier 2 (Medium),2011,86630.53,CNG,Automatic,First Owner,17.0,1199,118,5,1300688.21,408314.53
+Maruti Suzuki Ertiga,LXI (Base),Good,Tier 2 (Medium),2019,645919.3604976627,Petrol,Automatic,First Owner,20.0,1462,103,7,1226933.96,616918.53
+Hyundai Grand i10,E (Base),Good,Metro (High Demand),2024,92564.4,CNG,Manual,Third Owner,20.0,1197,82,5,701836.92,441358.01
+Maruti Suzuki Brezza,LXI (Base),Good,Tier 2 (Medium),2019,86918.43,Petrol,Manual,First Owner,19.0,1462,103,5,1028615.02,556884.07
+Tata Safari,XE (Base),Good,Tier 2 (Medium),2023,102036.19,CNG,Manual,First Owner,14.0,1956,167,7,2035924.79,1253611.04
+Toyota Fortuner,V (Top),Fair,Tier 2 (Medium),2014,37732.15,CNG,Manual,First Owner,10.0,2755,201,7,3670319.43,1190016.51
+Honda Amaze,VX (Top),Poor,Metro (High Demand),2019,50633.89,CNG,Manual,Second Owner,18.0,1199,88,5,1039857.37,353366.54
+Maruti Suzuki Dzire,LXI (Base),Fair,Rural (Low),2016,19311.8,Diesel,Manual,First Owner,23.0,1197,88,5,907068.09,316792.85
+Hyundai Creta,E (Base),Poor,Tier 2 (Medium),2025,14657.53,Diesel,Manual,Third Owner,16.0,1497,113,5,1694623.16,1035814.8
+Hyundai i20,SX (Top),Fair,Rural (Low),2023,149913.91,CNG,Manual,First Owner,20.0,1197,82,5,974087.08,545201.63
+Mahindra Thar,Top,Good,Tier 2 (Medium),2020,136119.16,Petrol,Automatic,Second Owner,15.0,1997,150,4,1863362.59,1659568.8
+Toyota Innova,G (Base),Good,Rural (Low),2023,16341.12,Diesel,Automatic,First Owner,11.0,2393,148,7,2853083.71,2414625.55
+Maruti Suzuki Dzire,VXI (Mid),Excellent,Tier 2 (Medium),2014,123275.92,CNG,Automatic,Second Owner,23.0,1197,88,5,894809.9,293335.41
+Toyota Urban Cruiser,G (Base),Excellent,Rural (Low),2019,68616.49,Diesel,Automatic,Second Owner,18.0,1462,103,5,1302011.83,535469.73
+Tata Altroz,XZ (Top),Good,Rural (Low),2019,61642.61,CNG,Automatic,First Owner,19.0,1199,84,5,1148610.72,585466.06
+Hyundai Grand i10,S (Mid),Fair,Metro (High Demand),2012,25197.88,Petrol,Automatic,First Owner,20.0,1197,82,5,885449.35,291329.12
+Volkswagen Virtus,Comfortline (Mid),Excellent,Metro (High Demand),2014,78927.89,Diesel,Automatic,First Owner,18.0,1498,148,5,1826388.82,571749.49
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2023,126654.79,Diesel,Automatic,First Owner,18.0,1199,88,5,1033726.42,630818.02
+Mahindra XUV300,Mid,Good,Metro (High Demand),2015,39014.13,Petrol,Manual,First Owner,17.0,1197,108,5,1242936.02,481752.93
+Tata Altroz,XE (Base),Poor,Metro (High Demand),2013,127006.91,Diesel,Automatic,First Owner,19.0,1199,84,5,1024570.18,323613.82
+Toyota Urban Cruiser,G (Base),Good,Rural (Low),2024,47663.67,Diesel,Manual,Second Owner,18.0,1462,103,5,1152287.4,818333.45
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2018,141508.25,Petrol,Manual,Second Owner,16.0,1497,113,5,1660612.73,511320.56
+Toyota Urban Cruiser,V (Top),Good,Metro (High Demand),2023,77434.91,Diesel,Manual,Third Owner,18.0,1462,103,5,1263290.31,810330.88
+Toyota Fortuner,G (Base),Good,Metro (High Demand),2012,126729.94,Diesel,Manual,First Owner,10.0,2755,201,7,3739701.98,1131951.32
+Toyota Glanza,G (Base),Fair,Metro (High Demand),2024,55220.15,CNG,Manual,Second Owner,22.0,1197,88,5,828234.39,717415.69
+Tata Harrier,XM (Mid),Excellent,Rural (Low),2020,35079.63,Diesel,Automatic,Second Owner,16.0,1956,167,5,2185802.49,1113361.97
+Volkswagen Taigun,Trendline (Base),Good,Tier 2 (Medium),2016,48503.6,CNG,Automatic,Second Owner,16.0,1498,148,5,1610658.0,559379.22
+Kia Sonet,HTK (Mid),Fair,Tier 2 (Medium),2021,100124.99,CNG,Manual,First Owner,18.0,998,118,5,1074947.67,452637.35
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2020,99085.93,Diesel,Manual,First Owner,16.0,1497,113,7,1442265.36,848407.49
+Maruti Suzuki Swift,VXI (Mid),Poor,Tier 2 (Medium),2014,103089.83,CNG,Automatic,First Owner,21.0,1197,82,5,768664.6,240759.81
+Kia Carens,GTX (Top),Excellent,Metro (High Demand),2022,87015.03,Petrol,Automatic,First Owner,16.0,1497,113,7,1553497.57,1382735.73
+Hyundai Venue,E (Base),Excellent,Metro (High Demand),2022,86730.42,Petrol,Automatic,Third Owner,18.0,998,118,5,1226281.46,685726.81
+Tata Tiago,XE (Base),Poor,Rural (Low),2024,73343.24,Diesel,Automatic,Second Owner,20.0,1199,84,5,859960.15,371630.09
+Maruti Suzuki Alto,VXI (Mid),Good,Metro (High Demand),2021,46726.07,CNG,Automatic,Third Owner,22.0,796,47,5,565690.51,300942.93
+Toyota Urban Cruiser,V (Top),Good,Rural (Low),2019,143721.44,Diesel,Manual,First Owner,18.0,1462,103,5,1283181.23,536102.13
+Volkswagen Vento,Comfortline (Mid),Poor,Tier 2 (Medium),2021,49841.78,Diesel,Manual,Second Owner,17.0,999,108,5,1312611.13,492151.15
+Kia Carens,HTK (Mid),Fair,Tier 2 (Medium),2021,84056.41,Diesel,Automatic,Second Owner,16.0,1497,113,7,1502292.47,1330320.03
+Maruti Suzuki Alto,VXI (Mid),Good,Tier 2 (Medium),2022,50155.42,Petrol,Manual,First Owner,22.0,796,47,5,488219.32,315479.56
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2019,32398.55,Petrol,Manual,Third Owner,18.0,1462,103,5,1149072.8,496316.97
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2020,83600.92,Petrol,Automatic,Second Owner,11.0,2393,148,7,2725085.51,1432254.8
+Tata Tiago,XM (Mid),Good,Metro (High Demand),2023,105870.84,Petrol,Manual,Second Owner,20.0,1199,84,5,789335.58,435509.56
+Hyundai Venue,S (Mid),Excellent,Tier 2 (Medium),2021,25399.41,Diesel,Automatic,Second Owner,18.0,998,118,5,1372353.01,826194.57
+Maruti Suzuki Ertiga,ZXI (Top),Poor,Metro (High Demand),2025,59569.5,CNG,Manual,First Owner,20.0,1462,103,7,1238180.78,893229.08
+Tata Safari,XZ (Top),Poor,Rural (Low),2015,122290.87,CNG,Manual,Second Owner,14.0,1956,167,7,2155424.33,668281.21
+Volkswagen Vento,Comfortline (Mid),Good,Tier 2 (Medium),2018,70936.11,Petrol,Manual,Fourth & Above Owner,17.0,999,108,5,1199834.87,376363.7
+Honda City,S (Mid),Good,Tier 2 (Medium),2014,26566.81,CNG,Manual,Second Owner,17.0,1498,119,5,1580345.32,498043.94
+Volkswagen Virtus,Highline (Top),Good,Tier 2 (Medium),2025,51485.65,Petrol,Manual,Second Owner,18.0,1498,148,5,1737383.78,1458029.02
+Volkswagen Vento,Highline (Top),Excellent,Tier 2 (Medium),2021,88875.6,Diesel,Automatic,First Owner,17.0,999,108,5,1559132.1,1186986.65
+Mahindra Scorpio,Top,Good,Metro (High Demand),2022,99289.67,CNG,Manual,First Owner,15.0,2184,130,7,1776250.64,1495164.19
+Mahindra Scorpio,Mid,Good,Tier 2 (Medium),2021,138018.3,Diesel,Manual,First Owner,15.0,2184,130,7,1835166.69,1144066.74
+Hyundai Creta,S (Mid),Good,Metro (High Demand),2025,139589.23,CNG,Manual,First Owner,16.0,1497,113,5,1553457.67,1385265.44
+Mahindra XUV300,Top,Good,Tier 2 (Medium),2012,78737.13,Petrol,Manual,First Owner,17.0,1197,108,5,1200284.32,388193.09
+Kia Carens,HTK (Mid),Good,Metro (High Demand),2015,138017.21,Diesel,Automatic,Second Owner,16.0,1497,113,7,1589636.23,489134.98
+Toyota Urban Cruiser,V (Top),Fair,Metro (High Demand),2011,89781.43,Diesel,Manual,First Owner,18.0,1462,103,5,1318205.47,410738.44
+Volkswagen Taigun,Trendline (Base),Good,Rural (Low),2017,114922.09,Diesel,Automatic,Second Owner,16.0,1498,148,5,1688852.74,516929.93
+Volkswagen Polo,Highline (Top),Good,Metro (High Demand),2023,135879.8,Petrol,Automatic,First Owner,18.0,999,108,5,1130770.35,841420.17
+Volkswagen Taigun,Highline (Top),Fair,Metro (High Demand),2025,139440.08,Petrol,Automatic,First Owner,16.0,1498,148,5,1621586.57,1190851.28
+Hyundai Grand i10,S (Mid),Fair,Metro (High Demand),2012,31208.86,Diesel,Automatic,Second Owner,20.0,1197,82,5,957980.91,297648.79
+Tata Harrier,XE (Base),Excellent,Tier 2 (Medium),2011,120170.49,Petrol,Automatic,First Owner,16.0,1956,167,5,2011364.36,625373.34
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2013,70998.58,Diesel,Automatic,Third Owner,20.0,1199,84,5,870453.89,276761.5
+Kia Sonet,GTX (Top),Fair,Rural (Low),2015,56972.97,Diesel,Automatic,First Owner,18.0,998,118,5,1422763.79,445855.18
+Honda Elevate,VX (Top),Good,Metro (High Demand),2020,117831.89,Diesel,Automatic,First Owner,15.0,1498,119,5,1708299.37,869761.8
+Hyundai i20,E (Base),Good,Metro (High Demand),2021,15717.33,Petrol,Manual,First Owner,20.0,1197,82,5,856884.01,567659.5
+Maruti Suzuki Alto,ZXI (Top),Good,Rural (Low),2025,64578.1,CNG,Manual,Third Owner,22.0,796,47,5,458069.55,324067.57
+Mahindra XUV300,Mid,Excellent,Tier 2 (Medium),2020,63881.48,CNG,Manual,Second Owner,17.0,1197,108,5,1239393.84,587828.22
+Maruti Suzuki Dzire,LXI (Base),Excellent,Metro (High Demand),2012,29550.47,Petrol,Manual,Third Owner,23.0,1197,88,5,806786.04,252249.09
+Mahindra Scorpio,Base,Good,Tier 2 (Medium),2020,106910.41,CNG,Automatic,First Owner,15.0,2184,130,7,1740942.91,868951.8
+Toyota Urban Cruiser,V (Top),Excellent,Rural (Low),2023,8853.85,Diesel,Automatic,First Owner,18.0,1462,103,5,1384912.53,1235249.35
+Mahindra XUV300,Top,Good,Rural (Low),2016,134741.38,CNG,Manual,Second Owner,17.0,1197,108,5,1337212.08,426852.94
+Mahindra XUV700,Top,Fair,Metro (High Demand),2019,19649.43,Petrol,Manual,First Owner,13.0,2198,182,7,2244957.31,1402092.33
+Hyundai Verna,SX (Top),Good,Tier 2 (Medium),2020,121665.15,Diesel,Manual,Second Owner,19.0,1497,113,5,1534130.37,620537.41
+Toyota Fortuner,V (Top),Good,Tier 2 (Medium),2020,142060.36,CNG,Manual,First Owner,10.0,2755,201,7,3659212.27,2177912.09
+Toyota Innova,G (Base),Good,Tier 2 (Medium),2016,133951.78,Diesel,Manual,Third Owner,11.0,2393,148,7,2612033.41,800778.18
+Mahindra XUV300,Top,Good,Metro (High Demand),2018,110606.77,Petrol,Automatic,Fourth & Above Owner,17.0,1197,108,5,1357321.66,429463.81
+Hyundai Venue,E (Base),Poor,Rural (Low),2017,387253.91523052455,Petrol,Automatic,First Owner,18.0,998,118,5,1196085.68,376514.44
+Tata Safari,XM (Mid),Excellent,Metro (High Demand),2012,85466.08,CNG,Manual,Third Owner,14.0,1956,167,7,2075001.52,645723.61
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2024,104880.8,Petrol,Automatic,Fourth & Above Owner,18.0,1462,103,5,1195579.2,485775.42
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2018,115763.73,Diesel,Manual,First Owner,18.0,1462,103,5,1225931.23,458609.2
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2014,41295.53,Diesel,Manual,Second Owner,18.0,1199,88,5,961318.61,317659.28
+Volkswagen Taigun,Trendline (Base),Good,Metro (High Demand),2012,139314.48,Diesel,Manual,First Owner,16.0,1498,148,5,1553413.93,487824.06
+Honda City,E (Base),Good,Rural (Low),2012,127383.02,CNG,Manual,First Owner,17.0,1498,119,5,1472362.89,461983.25
+Maruti Suzuki Baleno,VXI (Mid),Good,Metro (High Demand),2024,37666.78,CNG,Automatic,First Owner,22.0,1197,88,5,981845.74,864346.14
+Mahindra Scorpio,Top,Good,Metro (High Demand),2013,144732.39,CNG,Manual,First Owner,15.0,2184,130,7,1817271.88,591903.55
+Tata Harrier,XZ (Top),Excellent,Metro (High Demand),2019,594712.6333083368,Diesel,Manual,Second Owner,16.0,1956,167,5,2077676.63,1048272.41
+Mahindra XUV700,Mid,Fair,Tier 2 (Medium),2025,43132.98,Petrol,Automatic,Second Owner,13.0,2198,182,7,2241576.19,1878488.79
+Tata Altroz,XZ (Top),Good,Rural (Low),2016,109258.8,Diesel,Manual,First Owner,19.0,1199,84,5,1090520.07,347819.7
+Toyota Urban Cruiser,V (Top),Good,Rural (Low),2019,136611.0,CNG,Manual,First Owner,18.0,1462,103,5,1227676.0,499622.69
+Maruti Suzuki Alto,LXI (Base),Good,Tier 2 (Medium),2020,66107.27,Petrol,Manual,Second Owner,22.0,796,47,5,433085.47,192558.79
+Hyundai Venue,S (Mid),Fair,Metro (High Demand),2020,13789.55,Petrol,Manual,First Owner,18.0,998,118,5,1179845.35,629802.78
+Honda City,S (Mid),Good,Rural (Low),2017,121618.02,CNG,Automatic,First Owner,17.0,1498,119,5,1685443.79,607556.48
+Toyota Fortuner,G (Base),Good,Rural (Low),2011,95362.75,Petrol,Automatic,First Owner,10.0,2755,201,7,3701960.45,1130365.61
+Maruti Suzuki Baleno,VXI (Mid),Good,Tier 2 (Medium),2020,52475.44,Petrol,Automatic,First Owner,22.0,1197,88,5,1008719.93,585934.46
+Maruti Suzuki Swift,LXI (Base),Good,Metro (High Demand),2016,42135.47,Petrol,Automatic,Fourth & Above Owner,21.0,1197,82,5,741939.68,248654.6
+Maruti Suzuki Brezza,VXI (Mid),Excellent,Tier 2 (Medium),2016,84575.64,CNG,Manual,Third Owner,19.0,1462,103,5,974877.99,297650.75
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2012,79910.51,Diesel,Automatic,First Owner,20.0,1199,84,5,901111.62,282857.75
+Volkswagen Vento,Trendline (Base),Poor,Metro (High Demand),2024,79040.3,Petrol,Manual,Second Owner,17.0,999,108,5,1221092.57,587182.88
+Hyundai Grand i10,S (Mid),Good,Tier 2 (Medium),2018,136535.7,CNG,Manual,Second Owner,20.0,1197,82,5,805002.9,263332.12
+Toyota Urban Cruiser,G (Base),Good,Metro (High Demand),2016,23791.56,CNG,Manual,First Owner,18.0,1462,103,5,1013021.17,425767.99
+Hyundai Verna,S (Mid),Good,Tier 2 (Medium),2013,117295.96,Petrol,Automatic,Third Owner,19.0,1497,113,5,1429759.87,442167.05
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2022,12456.04,Petrol,Manual,Second Owner,16.0,1497,113,5,1656378.39,973467.95
+Maruti Suzuki Baleno,ZXI (Top),Fair,Rural (Low),2018,14298.53,Petrol,Automatic,Second Owner,22.0,1197,88,5,1049881.33,383269.62
+Toyota Innova,G (Base),Excellent,Tier 2 (Medium),2019,101620.38,Diesel,Automatic,Second Owner,11.0,2393,148,7,2820862.14,1196111.82
+Hyundai i20,E (Base),Good,Rural (Low),2021,141275.86,Petrol,Manual,First Owner,20.0,1197,82,5,818623.43,363263.27
+Tata Altroz,XZ (Top),Good,Tier 2 (Medium),2011,100250.87,Diesel,Automatic,Fourth & Above Owner,19.0,1199,84,5,1260572.27,396806.25
+Tata Nexon,XZ (Top),Good,Tier 2 (Medium),2021,142269.37,Petrol,Manual,First Owner,17.0,1199,118,5,1202278.79,685262.4
+Tata Safari,XM (Mid),Good,Rural (Low),2012,147283.31,Petrol,Manual,Fourth & Above Owner,14.0,1956,167,7,2162502.48,672876.87
+Volkswagen Taigun,Trendline (Base),Fair,Rural (Low),2022,6935.45,CNG,Manual,First Owner,16.0,1498,148,5,1440690.41,907816.02
+Hyundai Verna,SX (Top),Good,Tier 2 (Medium),2023,30928.11,CNG,Automatic,Second Owner,19.0,1497,113,5,1560834.29,1137171.62
+Tata Tiago,XE (Base),Poor,Tier 2 (Medium),2011,88486.53,CNG,Manual,Second Owner,20.0,1199,84,5,665575.67,215298.37
+Tata Tiago,XZ (Top),Good,Tier 2 (Medium),2022,144277.7,Diesel,Manual,First Owner,20.0,1199,84,5,882568.34,514532.7
+Hyundai Creta,E (Base),Good,Rural (Low),2023,75785.24,Petrol,Manual,First Owner,16.0,1497,113,5,1568954.95,1243054.02
+Honda City,E (Base),Good,Metro (High Demand),2022,53739.33,Diesel,Manual,Third Owner,17.0,1498,119,5,1595861.64,818168.38
+Kia Seltos,GTX (Top),Good,Metro (High Demand),2012,101537.66,Diesel,Automatic,First Owner,16.0,1497,113,5,2003633.48,626429.26
+Kia Sonet,HTE (Base),Excellent,Metro (High Demand),2024,130010.33,CNG,Manual,First Owner,18.0,998,118,5,1002996.56,824855.0
+Toyota Glanza,G (Base),Excellent,Tier 2 (Medium),2011,56070.91,Diesel,Automatic,First Owner,22.0,1197,88,5,1103486.24,345418.17
+Kia Carens,HTK (Mid),Fair,Rural (Low),2017,12963.04,Diesel,Automatic,First Owner,16.0,1497,113,7,1594049.9,551983.08
+Honda City,VX (Top),Good,Rural (Low),2025,422979.6776652062,Diesel,Automatic,First Owner,17.0,1498,119,5,1852788.59,1651314.51
+Tata Harrier,XE (Base),Good,Rural (Low),2022,83618.47,CNG,Automatic,First Owner,16.0,1956,167,5,1921796.68,1705660.4
+Mahindra XUV300,Base,Fair,Tier 2 (Medium),2018,49967.83,Petrol,Manual,First Owner,17.0,1197,108,5,1135849.77,1000225.07
+Hyundai Creta,S (Mid),Excellent,Metro (High Demand),2019,142977.67,CNG,Automatic,First Owner,16.0,1497,113,5,1700923.08,949662.18
+Mahindra Bolero,Top,Excellent,Metro (High Demand),2011,11228.89,Diesel,Manual,Second Owner,16.0,1493,75,7,1210217.2,375482.17
+Volkswagen Polo,Comfortline (Mid),Good,Tier 2 (Medium),2023,477300.37999957043,CNG,Manual,First Owner,18.0,999,108,5,930607.33,795464.87
+Honda Amaze,E (Base),Excellent,Tier 2 (Medium),2017,12947.93,Diesel,Manual,Second Owner,18.0,1199,88,5,958938.49,403896.16
+Honda Elevate,VX (Top),Excellent,Tier 2 (Medium),2021,28455.98,CNG,Manual,First Owner,15.0,1498,119,5,1448231.16,1183276.62
+Maruti Suzuki Alto,ZXI (Top),Excellent,Metro (High Demand),2021,48232.86,Diesel,Manual,First Owner,22.0,796,47,5,642202.05,550114.02
+Honda City,S (Mid),Fair,Tier 2 (Medium),2021,105385.78,Diesel,Manual,First Owner,17.0,1498,119,5,1683322.37,770146.2
+Volkswagen Vento,Trendline (Base),Excellent,Metro (High Demand),2013,40176.43,CNG,Manual,First Owner,17.0,999,108,5,1165855.26,377330.65
+Tata Safari,XM (Mid),Good,Tier 2 (Medium),2012,35313.9,CNG,Manual,Second Owner,14.0,1956,167,7,2171544.61,675376.53
+Hyundai Verna,SX (Top),Excellent,Metro (High Demand),2017,44489.86,Diesel,Automatic,First Owner,19.0,1497,113,5,1596972.38,920202.63
+Kia Carens,GTX (Top),Good,Rural (Low),2011,44169.27,Diesel,Manual,Third Owner,16.0,1497,113,7,1460128.29,448772.16
+Mahindra Thar,Mid,Fair,Tier 2 (Medium),2018,41989.33,Petrol,Manual,First Owner,15.0,1997,150,4,1584575.34,685707.92
+Maruti Suzuki Swift,LXI (Base),Fair,Rural (Low),2016,82704.17,CNG,Manual,First Owner,21.0,1197,82,5,638157.33,230738.42
+Hyundai Venue,SX (Top),Excellent,Rural (Low),2020,115820.65,Diesel,Manual,First Owner,18.0,998,118,5,1280712.79,665594.72
+Honda Amaze,VX (Top),Excellent,Metro (High Demand),2025,99877.84,CNG,Automatic,Second Owner,18.0,1199,88,5,1126046.98,983812.68
+Kia Seltos,HTE (Base),Excellent,Rural (Low),2012,526607.5069693781,Diesel,Manual,First Owner,16.0,1497,113,5,1833839.63,560214.65
+Hyundai Creta,S (Mid),Good,Metro (High Demand),2019,78578.24,Petrol,Automatic,Second Owner,16.0,1497,113,5,1800390.97,948442.95
+Tata Tiago,XZ (Top),Good,Metro (High Demand),2013,122364.11,CNG,Automatic,Second Owner,20.0,1199,84,5,820720.85,274692.05
+Mahindra Bolero,Mid,Good,Rural (Low),2013,91916.24,Petrol,Manual,First Owner,16.0,1493,75,7,1091306.51,349522.78
+Kia Carens,HTK (Mid),Poor,Tier 2 (Medium),2021,14072.74,Diesel,Automatic,Second Owner,16.0,1497,113,7,1584833.06,635925.83
+Volkswagen Vento,Comfortline (Mid),Fair,Metro (High Demand),2021,83736.24,Diesel,Automatic,First Owner,17.0,999,108,5,1457643.93,868585.15
+Volkswagen Polo,Comfortline (Mid),Good,Tier 2 (Medium),2012,44971.81,Diesel,Automatic,Second Owner,18.0,999,108,5,1173665.09,362380.59
+Kia Seltos,HTK (Mid),Good,Rural (Low),2016,6466.68,Diesel,Manual,First Owner,16.0,1497,113,5,1820625.35,634938.64
+Maruti Suzuki Dzire,ZXI (Top),Good,Metro (High Demand),2016,17711.54,CNG,Automatic,Third Owner,23.0,1197,88,5,939959.11,305864.87
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2023,104186.99,CNG,Automatic,Second Owner,16.0,1497,113,7,1415069.13,756594.48
+Mahindra Thar,Top,Good,Tier 2 (Medium),2022,36698.89,Diesel,Automatic,Second Owner,15.0,1997,150,4,1890980.79,1220650.65
+Mahindra Thar,Top,Good,Tier 2 (Medium),2020,123105.59,CNG,Automatic,Second Owner,15.0,1997,150,4,1811595.29,724805.25
+Honda City,S (Mid),Excellent,Rural (Low),2016,99771.41,CNG,Manual,Fourth & Above Owner,17.0,1498,119,5,1492944.25,470786.66
+Hyundai Verna,SX (Top),Excellent,Metro (High Demand),2020,65139.53,Petrol,Automatic,First Owner,19.0,1497,113,5,1496500.61,957863.63
+Toyota Innova,G (Base),Good,Metro (High Demand),2012,81407.58,Diesel,Manual,Second Owner,11.0,2393,148,7,2698322.3,838567.71
+Kia Sonet,GTX (Top),Excellent,Tier 2 (Medium),2018,45262.25,CNG,Manual,Second Owner,18.0,998,118,5,1151988.32,566910.87
+Honda City,E (Base),Good,Rural (Low),2011,9017.51,Petrol,Automatic,First Owner,17.0,1498,119,5,1570723.59,496182.7
+Kia Sonet,HTK (Mid),Excellent,Tier 2 (Medium),2016,9956.85,Diesel,Manual,Second Owner,18.0,998,118,5,1203797.93,451814.69
+Toyota Glanza,G (Base),Good,Rural (Low),2025,115465.47,Diesel,Automatic,Fourth & Above Owner,22.0,1197,88,5,1024106.32,419100.06
+Hyundai Creta,SX (Top),Excellent,Tier 2 (Medium),2017,56584.02,Petrol,Automatic,Second Owner,16.0,1497,113,5,1837904.77,839531.19
+Volkswagen Vento,Trendline (Base),Good,Rural (Low),2020,17111.66,Petrol,Automatic,First Owner,17.0,999,108,5,1222756.43,1070999.25
+Maruti Suzuki Swift,ZXI (Top),Poor,Metro (High Demand),2021,95917.36,Diesel,Automatic,First Owner,21.0,1197,82,5,940174.71,542456.77
+Maruti Suzuki Alto,LXI (Base),Good,Metro (High Demand),2023,77019.53,Diesel,Automatic,Second Owner,22.0,796,47,5,712829.05,426998.48
+Hyundai Grand i10,SX (Top),Good,Rural (Low),2020,45746.31,Diesel,Manual,Second Owner,20.0,1197,82,5,973943.37,507963.96
+Kia Sonet,HTK (Mid),Good,Metro (High Demand),2013,65427.31,CNG,Automatic,Fourth & Above Owner,18.0,998,118,5,1212475.67,389523.32
+Mahindra XUV300,Top,Poor,Metro (High Demand),2014,23599.28,CNG,Manual,First Owner,17.0,1197,108,5,1265483.11,390689.79
+Kia Carens,HTK (Mid),Poor,Tier 2 (Medium),2021,65776.49,Petrol,Manual,First Owner,16.0,1497,113,7,1343468.03,609708.66
+Tata Safari,XE (Base),Excellent,Metro (High Demand),2011,109766.9,Diesel,Automatic,Third Owner,14.0,1956,167,7,2268741.13,697136.76
+Hyundai Creta,S (Mid),Excellent,Tier 2 (Medium),2020,30457.12,CNG,Manual,First Owner,16.0,1497,113,5,1683850.04,1500593.2
+Maruti Suzuki Dzire,LXI (Base),Excellent,Metro (High Demand),2016,18671.1,Petrol,Automatic,First Owner,23.0,1197,88,5,892132.0,369021.86
+Kia Carens,GTX (Top),Good,Metro (High Demand),2020,102815.67,CNG,Manual,Second Owner,16.0,1497,113,7,1449965.29,584716.4
+Kia Sonet,GTX (Top),Good,Metro (High Demand),2021,93051.66,Diesel,Automatic,First Owner,18.0,998,118,5,1452751.58,1018624.22
+Hyundai Grand i10,SX (Top),Excellent,Tier 2 (Medium),2023,110541.97,Diesel,Manual,Second Owner,20.0,1197,82,5,955943.32,617701.38
+Honda City,E (Base),Excellent,Metro (High Demand),2016,103163.65,CNG,Manual,Second Owner,17.0,1498,119,5,1441429.79,446296.65
+Maruti Suzuki Alto,ZXI (Top),Excellent,Rural (Low),2012,11248.17,CNG,Automatic,Second Owner,22.0,796,47,5,602607.49,201743.95
+Maruti Suzuki Baleno,ZXI (Top),Excellent,Rural (Low),2021,49554.04,Petrol,Automatic,Second Owner,22.0,1197,88,5,1050648.47,613537.58
+Maruti Suzuki Alto,VXI (Mid),Good,Metro (High Demand),2025,15362.76,CNG,Automatic,Second Owner,22.0,796,47,5,593213.49,521563.44
+Maruti Suzuki Swift,LXI (Base),Good,Metro (High Demand),2024,117253.02,Diesel,Automatic,Third Owner,21.0,1197,82,5,924305.28,582714.02
+Volkswagen Vento,Highline (Top),Excellent,Metro (High Demand),2012,146435.57,Diesel,Automatic,First Owner,17.0,999,108,5,1503610.42,467119.83
+Volkswagen Taigun,Highline (Top),Excellent,Tier 2 (Medium),2021,65304.46,Diesel,Manual,Second Owner,16.0,1498,148,5,1734468.81,1033355.39
+Tata Tiago,XM (Mid),Excellent,Tier 2 (Medium),2015,33125.72,Diesel,Automatic,Second Owner,20.0,1199,84,5,967416.23,844163.55
+Hyundai Creta,S (Mid),Excellent,Tier 2 (Medium),2018,119879.24,Diesel,Automatic,Second Owner,16.0,1497,113,5,1820660.54,730531.74
+Volkswagen Polo,Highline (Top),Fair,Tier 2 (Medium),2019,43303.56,CNG,Manual,Third Owner,18.0,999,108,5,909424.95,325309.16
+Hyundai i20,E (Base),Good,Metro (High Demand),2023,48432.74,Diesel,Manual,Second Owner,20.0,1197,82,5,1029062.58,716971.18
+Honda Elevate,VX (Top),Good,Rural (Low),2023,50286.74,Petrol,Manual,First Owner,15.0,1498,119,5,1513990.13,1351554.49
+Hyundai Verna,S (Mid),Fair,Metro (High Demand),2013,34832.61,Diesel,Manual,First Owner,19.0,1497,113,5,1421952.35,1193018.7
+Tata Nexon,XE (Base),Good,Tier 2 (Medium),2011,16277.43,Petrol,Automatic,Third Owner,17.0,1199,118,5,1303790.35,413797.06
+Mahindra XUV700,Base,Good,Metro (High Demand),2015,145692.62,CNG,Manual,First Owner,13.0,2198,182,7,2028827.81,647278.34
+Hyundai i20,S (Mid),Poor,Tier 2 (Medium),2018,54978.79,Diesel,Manual,Second Owner,20.0,1197,82,5,952837.18,307007.91
+Kia Sonet,GTX (Top),Good,Rural (Low),2024,66070.71,Diesel,Manual,Third Owner,18.0,998,118,5,1284710.55,833715.47
+Honda Elevate,S (Mid),Excellent,Metro (High Demand),2025,59695.66,Diesel,Manual,First Owner,15.0,1498,119,5,1486569.77,1321100.94
+Toyota Urban Cruiser,V (Top),Poor,Metro (High Demand),2013,99205.49,Petrol,Automatic,Second Owner,18.0,1462,103,5,1285827.75,404244.1
+Volkswagen Vento,Comfortline (Mid),Good,Rural (Low),2017,116480.35,Diesel,Manual,Second Owner,17.0,999,108,5,1304041.07,401325.54
+Kia Carens,GTX (Top),Poor,Tier 2 (Medium),2015,116575.9,CNG,Automatic,Second Owner,16.0,1497,113,7,1546165.73,490102.38
+Tata Tiago,XM (Mid),Fair,Metro (High Demand),2015,45506.2,Petrol,Manual,Second Owner,20.0,1199,84,5,775398.94,258450.92
+Kia Seltos,GTX (Top),Fair,Tier 2 (Medium),2024,132602.87,Diesel,Manual,First Owner,16.0,1497,113,5,1835839.75,1186614.58
+Tata Altroz,XE (Base),Fair,Tier 2 (Medium),2016,12963.52,CNG,Manual,Second Owner,19.0,1199,84,5,808579.75,257938.34
+Tata Altroz,XZ (Top),Excellent,Tier 2 (Medium),2025,126132.67,Petrol,Manual,Third Owner,19.0,1199,84,5,956931.39,681960.95
+Tata Nexon,XZ (Top),Poor,Metro (High Demand),2011,60888.86,CNG,Automatic,Second Owner,17.0,1199,118,5,1466779.96,452205.05
+Tata Tiago,XE (Base),Good,Tier 2 (Medium),2019,478420.9427181422,Diesel,Manual,First Owner,20.0,1199,84,5,764795.1,364117.53
+Tata Harrier,XM (Mid),Good,Tier 2 (Medium),2014,9364.37,Diesel,Automatic,First Owner,16.0,1956,167,5,2188969.58,706618.02
+Honda Elevate,E (Base),Good,Metro (High Demand),2015,66804.07,Diesel,Automatic,First Owner,15.0,1498,119,5,1578563.03,519686.89
+Kia Sonet,HTE (Base),Fair,Tier 2 (Medium),2017,43948.64,Diesel,Automatic,First Owner,18.0,998,118,5,1279939.1,475194.15
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2012,41376.7,Diesel,Manual,First Owner,16.0,1497,113,7,1343609.29,414153.43
+Volkswagen Virtus,Highline (Top),Poor,Tier 2 (Medium),2025,59372.2,CNG,Manual,First Owner,18.0,1498,148,5,1737114.85,1200990.69
+Kia Seltos,GTX (Top),Excellent,Metro (High Demand),2012,88592.23,Diesel,Automatic,Second Owner,16.0,1497,113,5,2057945.82,635244.08
+Tata Nexon,XZ (Top),Good,Rural (Low),2022,48572.13,CNG,Automatic,First Owner,17.0,1199,118,5,1351696.49,995835.53
+Maruti Suzuki Baleno,VXI (Mid),Excellent,Rural (Low),2013,134725.93,CNG,Manual,First Owner,22.0,1197,88,5,879520.28,279767.24
+Hyundai i20,S (Mid),Excellent,Metro (High Demand),2015,143921.93,Diesel,Manual,Third Owner,20.0,1197,82,5,992488.78,311468.98
+Tata Nexon,XZ (Top),Poor,Rural (Low),2011,143661.48,CNG,Manual,Second Owner,17.0,1199,118,5,1342145.84,423537.88
+Honda Amaze,VX (Top),Fair,Tier 2 (Medium),2018,132712.82,Petrol,Manual,First Owner,18.0,1199,88,5,944319.19,311849.08
+Volkswagen Polo,Comfortline (Mid),Good,Metro (High Demand),2024,58227.67,Diesel,Automatic,First Owner,18.0,999,108,5,1205367.19,1071619.42
+Hyundai Verna,S (Mid),Excellent,Tier 2 (Medium),2018,119093.23,Diesel,Manual,Second Owner,19.0,1497,113,5,1457132.18,498518.65
+Tata Harrier,XZ (Top),Excellent,Metro (High Demand),2024,129333.91,Petrol,Automatic,First Owner,16.0,1956,167,5,2100715.48,1813975.9
+Kia Carens,HTE (Base),Good,Metro (High Demand),2022,105582.1,Diesel,Automatic,First Owner,16.0,1497,113,7,1540030.74,909134.48
+Kia Carens,GTX (Top),Good,Tier 2 (Medium),2018,33476.53,Petrol,Automatic,First Owner,16.0,1497,113,7,1522823.79,719456.57
+Toyota Fortuner,V (Top),Excellent,Metro (High Demand),2021,112720.6,Petrol,Manual,Second Owner,10.0,2755,201,7,3716562.66,2176725.37
+Kia Sonet,GTX (Top),Good,Metro (High Demand),2019,5792.87,CNG,Manual,Third Owner,18.0,998,118,5,1149080.03,535919.87
+Maruti Suzuki Ertiga,VXI (Mid),Good,Metro (High Demand),2017,66227.27,CNG,Automatic,First Owner,20.0,1462,103,7,1252190.27,564508.54
+Tata Altroz,XZ (Top),Excellent,Rural (Low),2025,149367.84,Petrol,Manual,Third Owner,19.0,1199,84,5,921136.86,813340.49
+Tata Harrier,XZ (Top),Fair,Tier 2 (Medium),2023,97763.9,CNG,Automatic,First Owner,16.0,1956,167,5,2077738.79,1401224.32
+Honda Amaze,S (Mid),Poor,Metro (High Demand),2017,109121.92,Diesel,Automatic,First Owner,18.0,1199,88,5,1085754.52,352077.24
+Kia Carens,HTK (Mid),Excellent,Tier 2 (Medium),2012,13807.04,Petrol,Automatic,Second Owner,16.0,1497,113,7,1437396.41,451661.28
+Mahindra Thar,Top,Excellent,Metro (High Demand),2015,75826.15,Diesel,Automatic,First Owner,15.0,1997,150,4,1962794.48,850291.5
+Volkswagen Vento,Trendline (Base),Good,Metro (High Demand),2024,64332.5,CNG,Automatic,Third Owner,17.0,999,108,5,1299528.86,793977.49
+Hyundai Grand i10,SX (Top),Good,Rural (Low),2015,47417.35,Diesel,Manual,First Owner,20.0,1197,82,5,976063.35,364751.68
+Hyundai Grand i10,E (Base),Good,Tier 2 (Medium),2014,39764.85,CNG,Manual,First Owner,20.0,1197,82,5,668049.79,204586.35
+Tata Tiago,XE (Base),Excellent,Tier 2 (Medium),2020,64152.63,Diesel,Manual,First Owner,20.0,1199,84,5,706044.65,413379.56
+Toyota Glanza,V (Top),Fair,Tier 2 (Medium),2019,12589.34,CNG,Automatic,First Owner,22.0,1197,88,5,1154032.13,597315.33
+Hyundai Venue,S (Mid),Good,Tier 2 (Medium),2025,100939.28,CNG,Manual,Third Owner,18.0,998,118,5,1172143.86,694090.86
+Honda Amaze,VX (Top),Good,Tier 2 (Medium),2013,70372.03,Petrol,Manual,First Owner,18.0,1199,88,5,967976.4,303088.77
+Maruti Suzuki Swift,ZXI (Top),Fair,Rural (Low),2014,147483.74,Diesel,Automatic,First Owner,21.0,1197,82,5,942725.18,299840.26
+Kia Sonet,HTK (Mid),Good,Tier 2 (Medium),2011,30664.17,CNG,Manual,First Owner,18.0,998,118,5,1075080.49,343655.86
+Maruti Suzuki Baleno,LXI (Base),Fair,Rural (Low),2018,22051.01,Petrol,Manual,First Owner,22.0,1197,88,5,761554.28,281181.36
+Honda Amaze,VX (Top),Good,Tier 2 (Medium),2013,106036.89,CNG,Automatic,First Owner,18.0,1199,88,5,1151773.17,374931.3
+Hyundai Verna,SX (Top),Good,Metro (High Demand),2020,25648.72,CNG,Manual,Fourth & Above Owner,19.0,1497,113,5,1427494.88,590544.9
+Maruti Suzuki Dzire,ZXI (Top),Excellent,Metro (High Demand),2011,9369.47,Diesel,Manual,First Owner,23.0,1197,88,5,920011.39,300579.19
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2016,123717.92,CNG,Manual,First Owner,16.0,1497,113,5,1675284.65,520394.05
+Volkswagen Vento,Comfortline (Mid),Good,Tier 2 (Medium),2023,70986.86,CNG,Automatic,Third Owner,17.0,999,108,5,1356786.92,756700.67
+Maruti Suzuki Alto,LXI (Base),Good,Metro (High Demand),2024,140841.87,CNG,Automatic,First Owner,22.0,796,47,5,512975.58,360833.63
+Hyundai i20,E (Base),Fair,Metro (High Demand),2021,100006.43,CNG,Manual,First Owner,20.0,1197,82,5,947827.3,429661.93
+Kia Sonet,HTE (Base),Good,Metro (High Demand),2013,14941.26,Diesel,Automatic,First Owner,18.0,998,118,5,1301028.58,413104.27
+Hyundai Venue,SX (Top),Excellent,Rural (Low),2011,103259.89,CNG,Automatic,First Owner,18.0,998,118,5,1363818.65,436442.63
+Honda City,E (Base),Good,Metro (High Demand),2018,136448.22,CNG,Automatic,First Owner,17.0,1498,119,5,1536508.26,605613.43
+Volkswagen Virtus,Highline (Top),Good,Rural (Low),2017,59755.7,Diesel,Automatic,Second Owner,18.0,1498,148,5,1933263.9,609943.4
+Maruti Suzuki Ertiga,LXI (Base),Fair,Rural (Low),2014,104469.46,Petrol,Automatic,First Owner,20.0,1462,103,7,1246886.36,392079.41
+Honda Amaze,E (Base),Excellent,Metro (High Demand),2012,84752.26,CNG,Manual,First Owner,18.0,1199,88,5,893906.64,288094.6
+Volkswagen Taigun,Highline (Top),Fair,Tier 2 (Medium),2018,32115.32,Diesel,Automatic,Third Owner,16.0,1498,148,5,1729096.76,558761.06
+Kia Sonet,HTK (Mid),Fair,Metro (High Demand),2021,26337.73,Diesel,Automatic,Second Owner,18.0,998,118,5,1383719.91,710388.89
+Mahindra XUV300,Top,Good,Metro (High Demand),2012,98040.75,Diesel,Automatic,Second Owner,17.0,1197,108,5,1456956.46,452610.22
+Maruti Suzuki Dzire,ZXI (Top),Poor,Metro (High Demand),2015,19667.62,Petrol,Manual,First Owner,23.0,1197,88,5,934314.81,308874.17
+Volkswagen Virtus,Trendline (Base),Fair,Metro (High Demand),2014,46003.78,CNG,Manual,First Owner,18.0,1498,148,5,1620838.59,500634.19
+Maruti Suzuki Swift,VXI (Mid),Good,Rural (Low),2015,61043.46,Petrol,Automatic,First Owner,21.0,1197,82,5,790735.49,265659.38
+Maruti Suzuki Alto,VXI (Mid),Good,Tier 2 (Medium),2017,6358.36,CNG,Manual,First Owner,22.0,796,47,5,525326.01,212543.91
+Hyundai i20,S (Mid),Good,Rural (Low),2014,25905.45,CNG,Manual,First Owner,20.0,1197,82,5,844158.36,273011.81
+Kia Carens,HTE (Base),Good,Metro (High Demand),2021,137362.47,CNG,Automatic,Second Owner,16.0,1497,113,7,1361048.74,572429.37
+Kia Sonet,GTX (Top),Fair,Tier 2 (Medium),2021,62663.23,Diesel,Manual,Third Owner,18.0,998,118,5,1317886.87,499924.85
+Mahindra XUV300,Top,Fair,Rural (Low),2017,65600.33,Petrol,Automatic,Second Owner,17.0,1197,108,5,1345262.94,425757.55
+Hyundai Venue,E (Base),Good,Rural (Low),2014,88123.98,Diesel,Automatic,Second Owner,18.0,998,118,5,1311424.36,415226.77
+Toyota Fortuner,V (Top),Excellent,Metro (High Demand),2023,53458.73,Diesel,Automatic,Second Owner,10.0,2755,201,7,3822631.02,3365593.74
+Mahindra XUV300,Top,Poor,Metro (High Demand),2011,16383.11,Petrol,Manual,Second Owner,17.0,1197,108,5,1332518.96,414885.15
+Mahindra XUV700,Top,Excellent,Tier 2 (Medium),2017,61184.33,CNG,Manual,Second Owner,13.0,2198,182,7,2193654.58,1060520.25
+Maruti Suzuki Baleno,VXI (Mid),Good,Rural (Low),2019,132150.3,Petrol,Automatic,Third Owner,22.0,1197,88,5,955779.8,316329.42
+Maruti Suzuki Ertiga,VXI (Mid),Poor,Metro (High Demand),2023,115786.0,CNG,Automatic,Second Owner,20.0,1462,103,7,1200841.85,468347.25
+Maruti Suzuki Dzire,ZXI (Top),Poor,Tier 2 (Medium),2016,15674.75,Diesel,Automatic,Second Owner,23.0,1197,88,5,1072479.34,347688.92
+Tata Harrier,XZ (Top),Good,Tier 2 (Medium),2011,135889.75,Diesel,Automatic,Second Owner,16.0,1956,167,5,2267361.15,706662.78
+Kia Sonet,GTX (Top),Good,Metro (High Demand),2012,24920.81,Petrol,Manual,First Owner,18.0,998,118,5,1141313.48,356317.59
+Maruti Suzuki Dzire,ZXI (Top),Good,Rural (Low),2020,132589.4,Petrol,Automatic,First Owner,23.0,1197,88,5,1068366.07,466887.07
+Hyundai Venue,SX (Top),Poor,Tier 2 (Medium),2012,78682.38,Petrol,Manual,First Owner,18.0,998,118,5,1104356.89,354612.43
+Tata Nexon,XM (Mid),Good,Metro (High Demand),2019,56802.62,CNG,Manual,First Owner,17.0,1199,118,5,1168160.37,633364.07
+Honda Amaze,S (Mid),Good,Rural (Low),2022,131921.69,Diesel,Automatic,First Owner,18.0,1199,88,5,1104279.76,590853.84
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2016,27095.64,Diesel,Automatic,First Owner,18.0,1199,88,5,1165168.42,553570.45
+Tata Altroz,XM (Mid),Excellent,Tier 2 (Medium),2014,119412.15,CNG,Automatic,First Owner,19.0,1199,84,5,1060584.1,336214.9
+Mahindra Bolero,Top,Good,Tier 2 (Medium),2016,81325.3,Diesel,Manual,Third Owner,16.0,1493,75,7,1167524.38,350897.82
+Mahindra XUV300,Base,Poor,Tier 2 (Medium),2023,132857.22,CNG,Automatic,Third Owner,17.0,1197,108,5,1220811.43,375024.84
+Volkswagen Polo,Trendline (Base),Good,Tier 2 (Medium),2025,50381.59,CNG,Manual,First Owner,18.0,999,108,5,808912.81,709382.01
+Maruti Suzuki Ertiga,ZXI (Top),Excellent,Tier 2 (Medium),2024,56203.05,CNG,Manual,Fourth & Above Owner,20.0,1462,103,7,1109183.26,631779.22
+Hyundai i20,SX (Top),Good,Tier 2 (Medium),2015,137163.69,Diesel,Manual,Second Owner,20.0,1197,82,5,1099421.38,359583.35
+Toyota Fortuner,G (Base),Fair,Rural (Low),2011,110733.97,Diesel,Automatic,Fourth & Above Owner,10.0,2755,201,7,3859349.8,1495451.74
+Maruti Suzuki Brezza,VXI (Mid),Good,Metro (High Demand),2011,146728.3,CNG,Manual,First Owner,19.0,1462,103,5,997207.47,325808.04
+Mahindra Bolero,Mid,Good,Tier 2 (Medium),2023,54766.3,Diesel,Manual,First Owner,16.0,1493,75,7,1103751.07,845919.84
+Mahindra Thar,Mid,Good,Metro (High Demand),2012,126735.02,Diesel,Automatic,Third Owner,15.0,1997,150,4,1822939.54,561003.32
+Hyundai Verna,S (Mid),Excellent,Tier 2 (Medium),2011,111105.63,Diesel,Automatic,Second Owner,19.0,1497,113,5,1609217.09,493399.56
+Kia Seltos,GTX (Top),Good,Tier 2 (Medium),2012,48731.73,Petrol,Automatic,Third Owner,16.0,1497,113,5,1967067.43,616951.15
+Toyota Innova,V (Top),Fair,Metro (High Demand),2019,91227.61,Diesel,Automatic,Second Owner,11.0,2393,148,7,2939967.23,1296568.44
+Maruti Suzuki Alto,VXI (Mid),Good,Tier 2 (Medium),2022,110081.12,Petrol,Manual,First Owner,22.0,796,47,5,471982.86,267850.24
+Maruti Suzuki Baleno,VXI (Mid),Excellent,Metro (High Demand),2012,139894.02,Diesel,Manual,First Owner,22.0,1197,88,5,987355.94,316270.61
+Mahindra Scorpio,Base,Excellent,Metro (High Demand),2017,88168.24,CNG,Manual,Second Owner,15.0,2184,130,7,1666226.38,714301.95
+Mahindra XUV300,Top,Poor,Tier 2 (Medium),2012,16753.59,CNG,Automatic,First Owner,17.0,1197,108,5,1330860.1,412180.13
+Mahindra Thar,Base,Excellent,Rural (Low),2020,620154.5085520523,Petrol,Automatic,Second Owner,15.0,1997,150,4,1651678.12,816898.58
+Volkswagen Vento,Highline (Top),Excellent,Tier 2 (Medium),2016,8340.2,CNG,Automatic,First Owner,17.0,999,108,5,1452943.53,667326.75
+Maruti Suzuki Brezza,VXI (Mid),Poor,Metro (High Demand),2020,92673.5,Petrol,Automatic,Second Owner,19.0,1462,103,5,1151880.59,393728.71
+Kia Carens,GTX (Top),Excellent,Tier 2 (Medium),2019,71212.2,Diesel,Automatic,First Owner,16.0,1497,113,7,1607638.96,902756.56
+Hyundai Creta,SX (Top),Good,Tier 2 (Medium),2025,104947.47,CNG,Automatic,First Owner,16.0,1497,113,5,1806652.26,1614296.64
+Hyundai Verna,E (Base),Fair,Tier 2 (Medium),2013,111253.47,Petrol,Manual,Third Owner,19.0,1497,113,5,1274642.4,405409.02
+Tata Safari,XM (Mid),Excellent,Metro (High Demand),2017,5543.88,Petrol,Automatic,First Owner,14.0,1956,167,7,2165185.82,1155211.34
+Maruti Suzuki Dzire,VXI (Mid),Poor,Metro (High Demand),2023,111200.9,Diesel,Manual,Second Owner,23.0,1197,88,5,892356.4,372423.3
+Mahindra XUV300,Top,Good,Tier 2 (Medium),2022,101938.05,Petrol,Manual,First Owner,17.0,1197,108,5,1295763.2,764506.68
+Honda City,VX (Top),Good,Tier 2 (Medium),2012,62225.45,Diesel,Manual,First Owner,17.0,1498,119,5,1610207.85,500422.89
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2016,102796.07,Diesel,Automatic,Second Owner,18.0,1462,103,5,1227767.41,396095.56
+Mahindra Thar,Top,Good,Metro (High Demand),2022,139475.48,Diesel,Manual,Second Owner,15.0,1997,150,4,1787854.53,956127.43
+Hyundai i20,SX (Top),Fair,Metro (High Demand),2024,137357.55,Petrol,Manual,Third Owner,20.0,1197,82,5,943154.11,468458.05
+Toyota Fortuner,G (Base),Excellent,Metro (High Demand),2019,120129.44,CNG,Automatic,First Owner,10.0,2755,201,7,3640153.45,2020578.86
+Hyundai Venue,SX (Top),Fair,Metro (High Demand),2021,64649.76,Petrol,Automatic,First Owner,18.0,998,118,5,1274780.54,750920.53
+Mahindra Thar,Base,Good,Metro (High Demand),2019,124919.35,Diesel,Manual,Second Owner,15.0,1997,150,4,1684080.24,583491.67
+Maruti Suzuki Baleno,VXI (Mid),Excellent,Tier 2 (Medium),2021,103819.58,Petrol,Manual,Second Owner,22.0,1197,88,5,865759.24,432701.22
+Maruti Suzuki Swift,ZXI (Top),Fair,Tier 2 (Medium),2012,91740.18,Petrol,Automatic,Second Owner,21.0,1197,82,5,831850.02,265917.28
+Maruti Suzuki Brezza,ZXI (Top),Fair,Rural (Low),2016,71381.47,CNG,Manual,Second Owner,19.0,1462,103,5,1109241.19,353952.4
+Maruti Suzuki Dzire,ZXI (Top),Fair,Tier 2 (Medium),2022,16938.16,CNG,Automatic,Second Owner,23.0,1197,88,5,1018886.86,540264.91
+Tata Nexon,XZ (Top),Poor,Metro (High Demand),2025,121864.49,Diesel,Manual,First Owner,17.0,1199,118,5,1357448.44,852175.45
+Honda Elevate,VX (Top),Good,Metro (High Demand),2014,100343.21,CNG,Manual,Second Owner,15.0,1498,119,5,1462363.52,461704.74
+Hyundai Creta,SX (Top),Excellent,Tier 2 (Medium),2025,88662.86,CNG,Manual,Second Owner,16.0,1497,113,5,1607786.48,1425493.9
+Honda City,E (Base),Poor,Metro (High Demand),2021,19923.35,CNG,Automatic,First Owner,17.0,1498,119,5,1598255.33,776644.57
+Hyundai Creta,E (Base),Good,Metro (High Demand),2020,21361.27,Petrol,Manual,Second Owner,16.0,1497,113,5,1535973.45,922998.69
+Honda Elevate,E (Base),Fair,Tier 2 (Medium),2013,79763.34,Diesel,Manual,First Owner,15.0,1498,119,5,1515049.54,469297.96
+Maruti Suzuki Brezza,VXI (Mid),Excellent,Metro (High Demand),2011,19561.05,Diesel,Automatic,First Owner,19.0,1462,103,5,1182045.26,376255.05
+Tata Altroz,XM (Mid),Fair,Metro (High Demand),2023,85649.88,Petrol,Automatic,First Owner,19.0,1199,84,5,987742.35,688414.8
+Hyundai Venue,SX (Top),Good,Metro (High Demand),2021,126246.38,Diesel,Automatic,Third Owner,18.0,998,118,5,1359511.62,519976.2
+Hyundai i20,S (Mid),Poor,Tier 2 (Medium),2015,50169.76,Petrol,Automatic,First Owner,20.0,1197,82,5,1085382.48,335908.46
+Mahindra Bolero,Base,Fair,Metro (High Demand),2018,6460.82,Petrol,Manual,First Owner,16.0,1493,75,7,1092752.28,452861.27
+Volkswagen Taigun,Highline (Top),Good,Tier 2 (Medium),2025,102174.33,CNG,Manual,Fourth & Above Owner,16.0,1498,148,5,1644931.73,832490.59
+Mahindra Scorpio,Base,Excellent,Tier 2 (Medium),2021,83899.9,CNG,Manual,Third Owner,15.0,2184,130,7,1643635.12,883635.81
+Kia Carens,HTE (Base),Good,Rural (Low),2018,73013.92,Petrol,Manual,First Owner,16.0,1497,113,7,1224592.05,482064.74
+Maruti Suzuki Ertiga,LXI (Base),Good,Tier 2 (Medium),2015,83680.46,Petrol,Manual,First Owner,20.0,1462,103,7,1149274.45,1012997.1
+Mahindra XUV300,Top,Excellent,Metro (High Demand),2013,117192.52,CNG,Automatic,First Owner,17.0,1197,108,5,1375570.72,426441.27
+Toyota Innova,V (Top),Good,Metro (High Demand),2025,57551.44,Diesel,Automatic,Fourth & Above Owner,11.0,2393,148,7,2876847.09,2053348.9
+Maruti Suzuki Alto,ZXI (Top),Excellent,Metro (High Demand),2022,29634.38,CNG,Manual,First Owner,22.0,796,47,5,500191.6,447131.39
+Kia Sonet,HTK (Mid),Good,Rural (Low),2024,131711.82,Diesel,Manual,First Owner,18.0,998,118,5,1233574.29,863042.28
+Tata Safari,XM (Mid),Excellent,Rural (Low),2020,50929.69,CNG,Automatic,First Owner,14.0,1956,167,7,2257982.98,1329271.06
+Hyundai Grand i10,E (Base),Excellent,Metro (High Demand),2021,138726.75,Diesel,Manual,First Owner,20.0,1197,82,5,791010.34,450790.99
+Maruti Suzuki Swift,VXI (Mid),Good,Tier 2 (Medium),2013,91372.24,Diesel,Manual,Fourth & Above Owner,21.0,1197,82,5,829683.29,274173.85
+Volkswagen Vento,Trendline (Base),Good,Tier 2 (Medium),2025,65806.28,Petrol,Automatic,First Owner,17.0,999,108,5,1332798.64,1184479.9
+Maruti Suzuki Brezza,LXI (Base),Good,Tier 2 (Medium),2023,99349.88,CNG,Automatic,First Owner,19.0,1462,103,5,1143854.18,862775.66
+Hyundai Venue,E (Base),Good,Tier 2 (Medium),2015,23852.74,Diesel,Automatic,Fourth & Above Owner,18.0,998,118,5,1342512.06,423351.07
+Hyundai Verna,SX (Top),Good,Metro (High Demand),2021,135154.23,Petrol,Manual,Second Owner,19.0,1497,113,5,1437104.39,696440.79
+Tata Tiago,XZ (Top),Fair,Metro (High Demand),2022,9206.16,Diesel,Manual,First Owner,20.0,1199,84,5,806489.08,542301.92
+Maruti Suzuki Dzire,ZXI (Top),Good,Tier 2 (Medium),2023,98966.29,Petrol,Manual,First Owner,23.0,1197,88,5,870304.46,648658.61
+Hyundai Grand i10,SX (Top),Good,Metro (High Demand),2014,50644.49,Diesel,Manual,First Owner,20.0,1197,82,5,958913.99,331493.46
+Hyundai Venue,E (Base),Good,Tier 2 (Medium),2012,98661.22,Petrol,Manual,First Owner,18.0,998,118,5,1018420.47,333227.03
+Volkswagen Virtus,Comfortline (Mid),Excellent,Tier 2 (Medium),2014,122906.12,CNG,Manual,Second Owner,18.0,1498,148,5,1604177.2,501289.73
+Maruti Suzuki Alto,LXI (Base),Excellent,Metro (High Demand),2025,19131.15,CNG,Automatic,Third Owner,22.0,796,47,5,597363.69,516574.68
+Hyundai i20,E (Base),Good,Tier 2 (Medium),2022,142483.96,Diesel,Manual,Second Owner,20.0,1197,82,5,994493.5,417839.75
+Maruti Suzuki Brezza,LXI (Base),Poor,Metro (High Demand),2025,95857.63,Diesel,Manual,Third Owner,19.0,1462,103,5,1096393.46,511986.56
+Hyundai Verna,S (Mid),Fair,Rural (Low),2023,42792.63,CNG,Manual,Third Owner,19.0,1497,113,5,1361132.92,686599.97
+Maruti Suzuki Baleno,ZXI (Top),Poor,Tier 2 (Medium),2022,35718.85,Diesel,Automatic,Third Owner,22.0,1197,88,5,1075623.29,436688.53
+Kia Sonet,GTX (Top),Fair,Rural (Low),2011,106737.09,CNG,Manual,Second Owner,18.0,998,118,5,1160393.98,361388.05
+Mahindra Thar,Top,Poor,Tier 2 (Medium),2017,25211.05,CNG,Manual,First Owner,15.0,1997,150,4,1728868.76,574160.93
+Tata Altroz,XM (Mid),Good,Tier 2 (Medium),2020,87659.38,Diesel,Automatic,First Owner,19.0,1199,84,5,1067750.87,599771.73
+Honda Elevate,E (Base),Good,Tier 2 (Medium),2023,85650.33,CNG,Automatic,First Owner,15.0,1498,119,5,1538243.53,1139802.53
+Maruti Suzuki Alto,VXI (Mid),Excellent,Tier 2 (Medium),2018,67163.04,Diesel,Manual,First Owner,22.0,796,47,5,558241.2,301437.63
+Hyundai Grand i10,E (Base),Poor,Metro (High Demand),2024,89929.88,CNG,Automatic,Fourth & Above Owner,20.0,1197,82,5,842599.28,267218.33
+Mahindra Bolero,Mid,Good,Metro (High Demand),2019,86404.62,CNG,Manual,First Owner,16.0,1493,75,7,1107926.34,604735.74
+Maruti Suzuki Ertiga,VXI (Mid),Fair,Rural (Low),2025,71315.06,CNG,Manual,First Owner,20.0,1462,103,7,1170011.58,927016.2
+Volkswagen Virtus,Comfortline (Mid),Good,Metro (High Demand),2016,146406.0,Petrol,Automatic,Third Owner,18.0,1498,148,5,1708741.62,527528.69
+Tata Safari,XM (Mid),Good,Metro (High Demand),2019,58871.64,CNG,Automatic,Second Owner,14.0,1956,167,7,2255683.88,1001742.46
+Honda Elevate,E (Base),Fair,Tier 2 (Medium),2019,82678.97,Diesel,Automatic,Second Owner,15.0,1498,119,5,1634180.34,575518.08
+Kia Carens,HTK (Mid),Excellent,Rural (Low),2016,63916.54,CNG,Manual,Second Owner,16.0,1497,113,7,1257417.7,402304.21
+Maruti Suzuki Brezza,LXI (Base),Excellent,Tier 2 (Medium),2021,143242.39,Petrol,Manual,First Owner,19.0,1462,103,5,983439.92,527896.87
+Tata Harrier,XM (Mid),Good,Tier 2 (Medium),2014,78190.15,Diesel,Automatic,Second Owner,16.0,1956,167,5,2149748.94,672311.99
+Tata Tiago,XM (Mid),Good,Metro (High Demand),2013,69710.53,Petrol,Manual,First Owner,20.0,1199,84,5,732610.19,242065.9
+Volkswagen Virtus,Highline (Top),Excellent,Tier 2 (Medium),2024,138874.84,Diesel,Manual,First Owner,18.0,1498,148,5,1712674.98,1422369.26
+Tata Safari,XZ (Top),Good,Tier 2 (Medium),2020,113931.59,CNG,Automatic,First Owner,14.0,1956,167,7,2263488.93,1130729.13
+Kia Seltos,HTE (Base),Good,Metro (High Demand),2024,86940.74,Petrol,Manual,First Owner,16.0,1497,113,5,1615356.91,1361661.45
+Toyota Glanza,V (Top),Good,Rural (Low),2020,26418.61,CNG,Manual,First Owner,22.0,1197,88,5,993750.31,616107.74
+Volkswagen Polo,Comfortline (Mid),Excellent,Metro (High Demand),2018,37398.67,Petrol,Manual,First Owner,18.0,999,108,5,883848.95,771905.45
+Mahindra Bolero,Mid,Poor,Metro (High Demand),2014,49575.22,CNG,Manual,Second Owner,16.0,1493,75,7,1087538.42,348968.95
+Maruti Suzuki Baleno,VXI (Mid),Good,Metro (High Demand),2018,21210.01,Diesel,Manual,First Owner,22.0,1197,88,5,980518.17,487426.77
+Hyundai Verna,S (Mid),Excellent,Rural (Low),2022,78678.27,CNG,Manual,First Owner,19.0,1497,113,5,1243799.13,906973.71
+Tata Safari,XE (Base),Fair,Tier 2 (Medium),2012,48696.34,CNG,Manual,Second Owner,14.0,1956,167,7,2126115.68,664813.95
+Volkswagen Virtus,Highline (Top),Fair,Tier 2 (Medium),2011,69224.7,Diesel,Automatic,First Owner,18.0,1498,148,5,1895488.62,590814.3
+Volkswagen Virtus,Comfortline (Mid),Poor,Rural (Low),2019,70671.32,Diesel,Manual,Second Owner,18.0,1498,148,5,1710305.72,1517098.46
+Hyundai Grand i10,S (Mid),Fair,Rural (Low),2014,6109.32,Petrol,Automatic,First Owner,20.0,1197,82,5,851037.64,691403.99
+Toyota Innova,G (Base),Poor,Metro (High Demand),2012,95472.87,Petrol,Manual,Second Owner,11.0,2393,148,7,2528343.04,786954.45
+Toyota Fortuner,V (Top),Fair,Tier 2 (Medium),2020,139496.75,CNG,Manual,First Owner,10.0,2755,201,7,3616090.22,1774956.04
+Toyota Fortuner,V (Top),Good,Metro (High Demand),2025,124886.19,Petrol,Automatic,First Owner,10.0,2755,201,7,3816278.91,3424596.39
+Honda Elevate,E (Base),Good,Metro (High Demand),2022,12550.35,CNG,Manual,First Owner,15.0,1498,119,5,1305712.88,1004011.69
+Maruti Suzuki Alto,ZXI (Top),Good,Tier 2 (Medium),2015,112801.05,Diesel,Automatic,First Owner,22.0,796,47,5,677508.23,229150.54
+Mahindra Scorpio,Mid,Fair,Metro (High Demand),2015,83521.83,Diesel,Manual,First Owner,15.0,2184,130,7,1887104.3,646225.12
+Toyota Fortuner,G (Base),Good,Metro (High Demand),2015,12758.95,Diesel,Automatic,Second Owner,10.0,2755,201,7,3746110.57,1282260.67
+Honda Amaze,S (Mid),Good,Metro (High Demand),2011,35675.81,CNG,Manual,Second Owner,18.0,1199,88,5,916701.35,297990.13
+Honda Elevate,S (Mid),Excellent,Rural (Low),2016,114001.29,Petrol,Manual,First Owner,15.0,1498,119,5,1450573.83,485948.32
+Honda City,S (Mid),Good,Rural (Low),2014,85173.18,Petrol,Manual,Second Owner,17.0,1498,119,5,1522433.76,467782.13
+Hyundai Verna,S (Mid),Good,Rural (Low),2016,32058.78,Petrol,Automatic,Third Owner,19.0,1497,113,5,1470055.7,467233.11
+Mahindra Thar,Mid,Fair,Tier 2 (Medium),2025,123464.73,CNG,Automatic,Third Owner,15.0,1997,150,4,1797170.37,899757.01
+Toyota Fortuner,V (Top),Good,Rural (Low),2018,57058.1,Petrol,Manual,Second Owner,10.0,2755,201,7,3605521.48,1549133.49
+Kia Sonet,GTX (Top),Good,Tier 2 (Medium),2015,147080.3,Petrol,Automatic,First Owner,18.0,998,118,5,1248550.05,387931.01
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2015,127235.73,Petrol,Automatic,Second Owner,20.0,1199,84,5,815316.84,266182.96
+Mahindra Thar,Mid,Fair,Metro (High Demand),2018,14208.03,Diesel,Manual,First Owner,15.0,1997,150,4,1674620.05,732948.48
+Mahindra Bolero,Top,Good,Tier 2 (Medium),2020,68879.17,Diesel,Automatic,Second Owner,16.0,1493,75,7,1374773.2,672321.03
+Mahindra XUV700,Mid,Good,Rural (Low),2025,122469.54,CNG,Automatic,First Owner,13.0,2198,182,7,2176437.48,1893452.12
+Kia Carens,GTX (Top),Excellent,Tier 2 (Medium),2011,33140.69,Diesel,Manual,Second Owner,16.0,1497,113,7,1450247.59,449809.6
+Honda City,E (Base),Good,Tier 2 (Medium),2020,50217.64,CNG,Manual,First Owner,17.0,1498,119,5,1426031.66,710682.18
+Volkswagen Vento,Comfortline (Mid),Good,Tier 2 (Medium),2022,95537.05,CNG,Automatic,First Owner,17.0,999,108,5,1292982.09,893309.41
+Kia Seltos,HTE (Base),Good,Metro (High Demand),2014,47523.89,Petrol,Automatic,First Owner,16.0,1497,113,5,1767612.74,611168.01
+Volkswagen Polo,Comfortline (Mid),Fair,Metro (High Demand),2017,54035.87,Diesel,Automatic,Fourth & Above Owner,18.0,999,108,5,1135267.08,357368.47
+Mahindra XUV300,Base,Excellent,Tier 2 (Medium),2022,69552.69,Petrol,Manual,Second Owner,17.0,1197,108,5,1185979.82,721570.08
+Tata Safari,XE (Base),Excellent,Metro (High Demand),2015,111094.7,CNG,Automatic,Second Owner,14.0,1956,167,7,2124086.28,664433.86
+Mahindra XUV300,Top,Good,Rural (Low),2017,102988.65,Petrol,Manual,First Owner,17.0,1197,108,5,1204441.98,401113.1
+Hyundai Creta,S (Mid),Good,Rural (Low),2014,124557.28,Petrol,Manual,Second Owner,16.0,1497,113,5,1591277.28,504816.2
+Maruti Suzuki Dzire,VXI (Mid),Good,Tier 2 (Medium),2022,100129.54,CNG,Manual,Second Owner,23.0,1197,88,5,797829.93,363623.97
+Toyota Glanza,G (Base),Fair,Tier 2 (Medium),2018,25224.42,Petrol,Manual,Second Owner,22.0,1197,88,5,845604.04,293026.83
+Toyota Urban Cruiser,V (Top),Fair,Tier 2 (Medium),2012,99549.97,CNG,Manual,First Owner,18.0,1462,103,5,1191952.32,383867.58
+Toyota Glanza,V (Top),Excellent,Rural (Low),2021,60485.43,Diesel,Manual,First Owner,22.0,1197,88,5,1113272.18,700157.81
+Kia Sonet,HTK (Mid),Good,Metro (High Demand),2023,54185.58,CNG,Manual,Third Owner,18.0,998,118,5,1122000.46,665085.71
+Hyundai Creta,SX (Top),Excellent,Rural (Low),2022,89652.69,CNG,Automatic,First Owner,16.0,1497,113,5,1775593.85,1583639.39
+Mahindra Scorpio,Base,Good,Metro (High Demand),2023,17983.63,CNG,Manual,First Owner,15.0,2184,130,7,1638766.47,1462218.22
+Volkswagen Vento,Comfortline (Mid),Good,Metro (High Demand),2023,33266.74,Diesel,Automatic,Fourth & Above Owner,17.0,999,108,5,1497888.94,788671.32
+Hyundai Grand i10,E (Base),Fair,Tier 2 (Medium),2020,120089.21,Diesel,Manual,Second Owner,20.0,1197,82,5,888528.7,296164.87
+Mahindra Bolero,Mid,Fair,Metro (High Demand),2021,7856.05,Diesel,Automatic,First Owner,16.0,1493,75,7,1288156.93,790348.31
+Honda Elevate,E (Base),Good,Metro (High Demand),2021,25197.71,Petrol,Automatic,Third Owner,15.0,1498,119,5,1475277.57,701426.49
+Kia Carens,GTX (Top),Good,Rural (Low),2020,136076.11,Petrol,Automatic,Third Owner,16.0,1497,113,7,1515629.36,513581.12
+Maruti Suzuki Brezza,VXI (Mid),Good,Rural (Low),2023,69862.75,Petrol,Automatic,First Owner,19.0,1462,103,5,1178105.05,849606.0
+Toyota Urban Cruiser,V (Top),Good,Metro (High Demand),2021,93557.67,Diesel,Manual,Fourth & Above Owner,18.0,1462,103,5,1243559.04,472589.87
+Maruti Suzuki Baleno,LXI (Base),Poor,Metro (High Demand),2013,98022.36,Petrol,Manual,Second Owner,22.0,1197,88,5,751729.69,249182.49
+Mahindra Scorpio,Top,Fair,Rural (Low),2020,23802.62,CNG,Automatic,Third Owner,15.0,2184,130,7,1843973.69,822488.5
+Tata Tiago,XM (Mid),Good,Metro (High Demand),2015,101054.94,Petrol,Automatic,Second Owner,20.0,1199,84,5,879463.94,278257.17
+Kia Sonet,HTE (Base),Excellent,Rural (Low),2018,55749.6,CNG,Automatic,First Owner,18.0,998,118,5,1260678.46,537989.75
+Mahindra XUV700,Top,Excellent,Tier 2 (Medium),2024,95035.98,CNG,Manual,Second Owner,13.0,2198,182,7,2101833.82,1870399.65
+Mahindra Bolero,Base,Excellent,Tier 2 (Medium),2012,55568.1,Diesel,Manual,Second Owner,16.0,1493,75,7,1181741.75,374381.77
+Volkswagen Taigun,Highline (Top),Poor,Tier 2 (Medium),2013,107594.86,Petrol,Automatic,Second Owner,16.0,1498,148,5,1626043.11,512386.2
+Honda Amaze,E (Base),Fair,Tier 2 (Medium),2016,19008.86,Petrol,Manual,First Owner,18.0,1199,88,5,804038.86,262369.1
+Toyota Glanza,V (Top),Excellent,Tier 2 (Medium),2015,141063.99,Diesel,Manual,First Owner,22.0,1197,88,5,1030255.35,312367.79
+Tata Harrier,XE (Base),Excellent,Metro (High Demand),2014,101156.75,CNG,Manual,Third Owner,16.0,1956,167,5,1946192.28,611220.11
+Tata Harrier,XE (Base),Excellent,Tier 2 (Medium),2025,50275.54,Petrol,Automatic,First Owner,16.0,1956,167,5,1984053.8,1769342.89
+Hyundai Grand i10,SX (Top),Good,Metro (High Demand),2016,82987.8,Petrol,Automatic,First Owner,20.0,1197,82,5,1010377.71,433984.92
+Tata Safari,XM (Mid),Fair,Tier 2 (Medium),2016,8083.02,Diesel,Manual,Third Owner,14.0,1956,167,7,2180516.08,665220.88
+Honda City,S (Mid),Excellent,Tier 2 (Medium),2023,17477.04,Petrol,Automatic,First Owner,17.0,1498,119,5,1708230.28,1512071.76
+Mahindra XUV700,Top,Poor,Tier 2 (Medium),2024,91119.48,Diesel,Manual,First Owner,13.0,2198,182,7,2333563.96,1630631.16
+Toyota Urban Cruiser,V (Top),Good,Rural (Low),2019,65259.86,Petrol,Automatic,First Owner,18.0,1462,103,5,1230400.04,656939.53
+Hyundai Venue,S (Mid),Poor,Rural (Low),2012,18924.14,CNG,Manual,Second Owner,18.0,998,118,5,1152668.23,369723.93
+Kia Seltos,GTX (Top),Excellent,Tier 2 (Medium),2018,73925.11,Petrol,Manual,First Owner,16.0,1497,113,5,1703920.97,936708.32
+Mahindra Bolero,Mid,Good,Metro (High Demand),2020,111466.13,CNG,Manual,First Owner,16.0,1493,75,7,1080243.98,565457.15
+Volkswagen Taigun,Highline (Top),Good,Tier 2 (Medium),2019,115640.32,CNG,Automatic,First Owner,16.0,1498,148,5,1749699.32,841549.72
+Hyundai Grand i10,S (Mid),Fair,Metro (High Demand),2014,18587.27,Petrol,Automatic,First Owner,20.0,1197,82,5,820106.67,247809.86
+Hyundai Grand i10,E (Base),Excellent,Metro (High Demand),2021,10475.63,CNG,Automatic,First Owner,20.0,1197,82,5,902210.99,680979.39
+Mahindra Bolero,Mid,Excellent,Tier 2 (Medium),2016,98118.38,CNG,Automatic,First Owner,16.0,1493,75,7,1140527.03,469026.83
+Honda City,S (Mid),Poor,Tier 2 (Medium),2013,112897.41,CNG,Manual,First Owner,17.0,1498,119,5,1476742.77,970068.62
+Mahindra Scorpio,Top,Excellent,Metro (High Demand),2012,405249.2952097634,Diesel,Manual,Fourth & Above Owner,15.0,2184,130,7,1816539.37,565107.9
+Toyota Fortuner,V (Top),Good,Metro (High Demand),2020,84734.89,Petrol,Automatic,First Owner,10.0,2755,201,7,3763461.03,2611905.22
+Mahindra XUV700,Top,Good,Rural (Low),2019,36072.83,Petrol,Automatic,First Owner,13.0,2198,182,7,2257860.16,1482007.44
+Tata Tiago,XM (Mid),Good,Metro (High Demand),2017,383968.3447090721,Diesel,Automatic,First Owner,20.0,1199,84,5,986139.36,460360.6
+Maruti Suzuki Swift,LXI (Base),Good,Tier 2 (Medium),2015,87728.79,Diesel,Automatic,First Owner,21.0,1197,82,5,931749.04,367728.3
+Mahindra XUV300,Mid,Good,Metro (High Demand),2023,139839.52,CNG,Automatic,First Owner,17.0,1197,108,5,1305276.23,930700.72
+Mahindra Thar,Base,Good,Tier 2 (Medium),2012,99682.87,Petrol,Automatic,First Owner,15.0,1997,150,4,1688328.4,518108.34
+Hyundai Venue,S (Mid),Fair,Tier 2 (Medium),2023,113336.09,CNG,Manual,Third Owner,18.0,998,118,5,1135502.54,433760.04
+Volkswagen Vento,Comfortline (Mid),Good,Tier 2 (Medium),2022,142580.97,CNG,Automatic,Second Owner,17.0,999,108,5,1368901.04,1219761.15
+Maruti Suzuki Swift,VXI (Mid),Good,Metro (High Demand),2019,77328.55,CNG,Manual,Second Owner,21.0,1197,82,5,653035.16,346689.29
+Kia Sonet,HTE (Base),Good,Rural (Low),2021,20021.7,Petrol,Automatic,First Owner,18.0,998,118,5,1201218.58,755517.03
+Hyundai Grand i10,S (Mid),Excellent,Metro (High Demand),2018,139591.34,CNG,Automatic,Third Owner,20.0,1197,82,5,860797.8,281951.92
+Honda Amaze,S (Mid),Poor,Rural (Low),2011,107572.83,Diesel,Manual,First Owner,18.0,1199,88,5,1040014.88,328720.37
+Maruti Suzuki Brezza,VXI (Mid),Good,Tier 2 (Medium),2024,30203.09,Diesel,Manual,Third Owner,19.0,1462,103,5,1159346.34,822339.07
+Tata Nexon,XZ (Top),Good,Metro (High Demand),2025,21476.45,Petrol,Automatic,Second Owner,17.0,1199,118,5,1415566.61,1257650.46
+Toyota Glanza,V (Top),Poor,Metro (High Demand),2023,117906.61,CNG,Manual,Third Owner,22.0,1197,88,5,1015418.01,358250.59
+Toyota Urban Cruiser,G (Base),Poor,Metro (High Demand),2021,17951.57,Diesel,Automatic,First Owner,18.0,1462,103,5,1285116.69,664398.76
+Volkswagen Taigun,Highline (Top),Good,Tier 2 (Medium),2013,127119.66,CNG,Manual,Second Owner,16.0,1498,148,5,1580860.78,486785.06
+Honda Amaze,S (Mid),Poor,Rural (Low),2018,29584.31,Petrol,Automatic,First Owner,18.0,1199,88,5,998927.55,344910.92
+Volkswagen Taigun,Comfortline (Mid),Excellent,Tier 2 (Medium),2015,60502.63,Diesel,Manual,First Owner,16.0,1498,148,5,1666553.63,590648.26
+Maruti Suzuki Baleno,VXI (Mid),Fair,Metro (High Demand),2014,526509.422620223,Diesel,Automatic,Second Owner,22.0,1197,88,5,1151750.15,368778.94
+Honda Amaze,VX (Top),Good,Tier 2 (Medium),2025,77721.76,CNG,Automatic,Second Owner,18.0,1199,88,5,1095711.33,885715.57
+Mahindra Bolero,Base,Fair,Tier 2 (Medium),2023,113623.46,Petrol,Automatic,Second Owner,16.0,1493,75,7,1145824.7,490614.97
+Kia Seltos,GTX (Top),Excellent,Tier 2 (Medium),2019,8797.07,Petrol,Automatic,Second Owner,16.0,1497,113,5,1876853.96,1011136.32
+Hyundai Grand i10,SX (Top),Good,Metro (High Demand),2022,120873.69,CNG,Automatic,First Owner,20.0,1197,82,5,946807.15,657213.59
+Volkswagen Polo,Trendline (Base),Poor,Metro (High Demand),2023,73686.21,CNG,Automatic,First Owner,18.0,999,108,5,985255.56,510190.87
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2022,138421.97,CNG,Automatic,Second Owner,18.0,1462,103,5,1157090.25,535246.54
+Honda City,S (Mid),Good,Tier 2 (Medium),2024,46581.75,Petrol,Manual,Second Owner,17.0,1498,119,5,1497888.05,1176908.52
+Tata Nexon,XZ (Top),Good,Rural (Low),2022,15799.95,Diesel,Manual,First Owner,17.0,1199,118,5,1412730.94,1058765.81
+Toyota Innova,V (Top),Excellent,Metro (High Demand),2018,21808.98,Petrol,Automatic,First Owner,11.0,2393,148,7,2809171.08,1841169.31
+Toyota Glanza,G (Base),Good,Metro (High Demand),2013,60759.34,Diesel,Automatic,Fourth & Above Owner,22.0,1197,88,5,1089762.79,341940.68
+Mahindra XUV300,Mid,Good,Metro (High Demand),2022,119469.1,Petrol,Manual,First Owner,17.0,1197,108,5,1237460.51,794069.21
+Hyundai i20,SX (Top),Fair,Tier 2 (Medium),2023,123422.65,Petrol,Manual,First Owner,20.0,1197,82,5,1025529.77,590082.13
+Maruti Suzuki Brezza,VXI (Mid),Fair,Tier 2 (Medium),2012,16109.85,Petrol,Manual,Second Owner,19.0,1462,103,5,1009884.9,316780.22
+Kia Sonet,HTK (Mid),Excellent,Tier 2 (Medium),2021,118213.66,Diesel,Manual,First Owner,18.0,998,118,5,1221018.45,729602.24
+Volkswagen Virtus,Comfortline (Mid),Fair,Tier 2 (Medium),2024,78376.39,Petrol,Manual,Second Owner,18.0,1498,148,5,1568325.03,917617.39
+Toyota Innova,G (Base),Excellent,Tier 2 (Medium),2011,96143.7,CNG,Manual,First Owner,11.0,2393,148,7,2532674.35,772435.4
+Mahindra Thar,Top,Good,Metro (High Demand),2022,106363.84,CNG,Automatic,Third Owner,15.0,1997,150,4,1797077.75,827667.74
+Honda Amaze,VX (Top),Excellent,Metro (High Demand),2020,146824.54,Petrol,Manual,First Owner,18.0,1199,88,5,976266.24,550792.15
+Tata Harrier,XE (Base),Fair,Rural (Low),2025,115187.33,Petrol,Automatic,First Owner,16.0,1956,167,5,2002598.98,1240924.94
+Toyota Fortuner,G (Base),Fair,Rural (Low),2011,86496.41,Petrol,Automatic,First Owner,10.0,2755,201,7,3631454.24,2609162.74
+Tata Tiago,XM (Mid),Excellent,Metro (High Demand),2024,12078.58,CNG,Automatic,First Owner,20.0,1199,84,5,808697.01,698235.66
+Volkswagen Polo,Trendline (Base),Good,Rural (Low),2013,9579.52,Petrol,Automatic,First Owner,18.0,999,108,5,1002512.6,324223.79
+Tata Tiago,XZ (Top),Fair,Metro (High Demand),2014,147026.63,CNG,Manual,First Owner,20.0,1199,84,5,769565.59,249673.17
+Hyundai Grand i10,E (Base),Good,Tier 2 (Medium),2022,99980.07,Petrol,Manual,Third Owner,20.0,1197,82,5,768944.68,366025.91
+Toyota Glanza,V (Top),Excellent,Tier 2 (Medium),2011,124634.68,CNG,Manual,Second Owner,22.0,1197,88,5,969070.4,302767.06
+Volkswagen Taigun,Highline (Top),Fair,Metro (High Demand),2024,700169.9271568303,Diesel,Manual,First Owner,16.0,1498,148,5,1657765.53,1175246.9
+Mahindra Scorpio,Base,Good,Rural (Low),2021,146329.05,Diesel,Automatic,Fourth & Above Owner,15.0,2184,130,7,1900436.6,615580.44
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2011,25451.39,Petrol,Manual,First Owner,18.0,1199,88,5,942373.81,292941.47
+Hyundai Creta,SX (Top),Fair,Metro (High Demand),2018,8438.33,Petrol,Automatic,Second Owner,16.0,1497,113,5,1764834.54,744394.28
+Honda Elevate,S (Mid),Excellent,Rural (Low),2025,37742.15,Diesel,Automatic,First Owner,15.0,1498,119,5,1561337.74,1383610.67
+Toyota Innova,G (Base),Poor,Metro (High Demand),2023,90209.76,CNG,Automatic,First Owner,11.0,2393,148,7,2724290.74,1691665.64
+Hyundai Grand i10,S (Mid),Good,Metro (High Demand),2023,105019.83,Diesel,Manual,Third Owner,20.0,1197,82,5,927626.47,457254.42
+Honda Elevate,E (Base),Fair,Tier 2 (Medium),2012,101451.47,CNG,Automatic,Third Owner,15.0,1498,119,5,1458783.01,457546.04
+Toyota Innova,V (Top),Good,Metro (High Demand),2016,78587.05,Petrol,Automatic,Second Owner,11.0,2393,148,7,2731241.04,1069870.73
+Honda Elevate,VX (Top),Good,Rural (Low),2022,7660.07,Petrol,Manual,Third Owner,15.0,1498,119,5,1457484.37,827622.47
+Toyota Glanza,G (Base),Excellent,Tier 2 (Medium),2013,113930.06,CNG,Manual,First Owner,22.0,1197,88,5,884440.1,279644.4
+Tata Nexon,XZ (Top),Good,Rural (Low),2011,32951.1,Petrol,Automatic,First Owner,17.0,1199,118,5,1421871.37,450423.65
+Honda Elevate,VX (Top),Good,Tier 2 (Medium),2013,687626.364849844,Diesel,Manual,Second Owner,15.0,1498,119,5,1570849.38,1217527.23
+Volkswagen Virtus,Highline (Top),Good,Tier 2 (Medium),2022,139151.37,CNG,Automatic,Second Owner,18.0,1498,148,5,1814284.63,978558.22
+Hyundai Grand i10,S (Mid),Fair,Rural (Low),2016,138605.82,CNG,Automatic,First Owner,20.0,1197,82,5,936953.64,297552.06
+Tata Tiago,XM (Mid),Good,Metro (High Demand),2024,12230.48,Petrol,Automatic,Third Owner,20.0,1199,84,5,880196.39,615884.73
+Toyota Innova,G (Base),Good,Metro (High Demand),2014,25078.29,CNG,Manual,Second Owner,11.0,2393,148,7,2550267.79,787063.69
+Honda City,VX (Top),Good,Tier 2 (Medium),2012,83593.58,Petrol,Automatic,Fourth & Above Owner,17.0,1498,119,5,1689701.51,527535.43
+Hyundai i20,E (Base),Excellent,Tier 2 (Medium),2025,39469.25,Diesel,Automatic,First Owner,20.0,1197,82,5,1166602.13,1036438.84
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2023,137622.36,Petrol,Automatic,First Owner,16.0,1497,113,5,1746386.21,1098652.43
+Volkswagen Polo,Highline (Top),Good,Rural (Low),2018,136780.54,CNG,Automatic,First Owner,18.0,999,108,5,1076451.51,430458.86
+Hyundai i20,S (Mid),Fair,Metro (High Demand),2016,538703.4547784284,Petrol,Automatic,First Owner,20.0,1197,82,5,1062337.6,323708.61
+Volkswagen Virtus,Highline (Top),Poor,Metro (High Demand),2020,59954.68,Diesel,Automatic,First Owner,18.0,1498,148,5,1935498.36,844275.05
+Maruti Suzuki Brezza,ZXI (Top),Good,Metro (High Demand),2023,467233.9093593899,Diesel,Automatic,First Owner,19.0,1462,103,5,1241759.76,1025079.31
+Mahindra XUV300,Mid,Good,Metro (High Demand),2025,125098.49,Diesel,Manual,Second Owner,17.0,1197,108,5,1308610.78,891893.94
+Volkswagen Taigun,Comfortline (Mid),Good,Tier 2 (Medium),2013,27486.16,Petrol,Automatic,First Owner,16.0,1498,148,5,1564512.81,471531.53
+Volkswagen Virtus,Trendline (Base),Good,Metro (High Demand),2012,86142.79,CNG,Manual,Second Owner,18.0,1498,148,5,1607765.26,499770.86
+Tata Tiago,XE (Base),Excellent,Tier 2 (Medium),2016,100678.44,Diesel,Manual,Third Owner,20.0,1199,84,5,798022.65,254440.04
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2012,42116.86,Diesel,Automatic,Second Owner,18.0,1199,88,5,1196865.41,370401.14
+Honda City,S (Mid),Good,Tier 2 (Medium),2015,49151.78,CNG,Manual,Second Owner,17.0,1498,119,5,1536356.14,476306.55
+Tata Altroz,XM (Mid),Good,Tier 2 (Medium),2025,49028.33,Petrol,Manual,First Owner,19.0,1199,84,5,850769.93,748970.55
+Volkswagen Polo,Highline (Top),Good,Metro (High Demand),2025,70134.54,Petrol,Manual,First Owner,18.0,999,108,5,943722.53,839191.58
+Maruti Suzuki Alto,ZXI (Top),Excellent,Tier 2 (Medium),2024,96328.36,CNG,Manual,First Owner,22.0,796,47,5,581318.77,508499.14
+Hyundai Venue,E (Base),Good,Metro (High Demand),2018,99519.06,CNG,Manual,First Owner,18.0,998,118,5,1017704.55,462794.19
+Volkswagen Virtus,Trendline (Base),Fair,Tier 2 (Medium),2020,105785.63,Diesel,Manual,Second Owner,18.0,1498,148,5,1728151.88,533243.17
+Kia Sonet,GTX (Top),Poor,Tier 2 (Medium),2011,80271.49,Diesel,Automatic,First Owner,18.0,998,118,5,1355838.2,430340.97
+Volkswagen Virtus,Highline (Top),Fair,Metro (High Demand),2011,6753.61,Diesel,Manual,Third Owner,18.0,1498,148,5,1735706.35,539061.67
+Maruti Suzuki Alto,VXI (Mid),Good,Tier 2 (Medium),2014,27249.26,CNG,Automatic,First Owner,22.0,796,47,5,543647.3,174077.25
+Tata Altroz,XE (Base),Good,Metro (High Demand),2013,24211.84,Petrol,Manual,Second Owner,19.0,1199,84,5,814699.25,264505.27
+Toyota Innova,V (Top),Fair,Metro (High Demand),2014,9383.05,Diesel,Automatic,First Owner,11.0,2393,148,7,2835753.04,970271.06
+Maruti Suzuki Baleno,VXI (Mid),Good,Rural (Low),2011,14659.52,Diesel,Automatic,First Owner,22.0,1197,88,5,1052176.03,333408.26
+Volkswagen Polo,Trendline (Base),Good,Rural (Low),2018,95923.21,Petrol,Manual,First Owner,18.0,999,108,5,918835.5,351491.95
+Volkswagen Vento,Trendline (Base),Good,Tier 2 (Medium),2015,103033.03,Diesel,Automatic,Third Owner,17.0,999,108,5,1341417.67,412791.4
+Tata Tiago,XM (Mid),Fair,Tier 2 (Medium),2025,131688.9,Diesel,Manual,Third Owner,20.0,1199,84,5,789784.49,403326.41
+Maruti Suzuki Ertiga,ZXI (Top),Excellent,Tier 2 (Medium),2016,61218.05,CNG,Manual,First Owner,20.0,1462,103,7,1241610.78,596478.77
+Tata Nexon,XZ (Top),Good,Rural (Low),2025,130515.41,Petrol,Manual,First Owner,17.0,1199,118,5,1281406.23,1042982.88
+Maruti Suzuki Ertiga,LXI (Base),Fair,Metro (High Demand),2023,133720.7,Petrol,Manual,First Owner,20.0,1462,103,7,1136457.06,639609.42
+Maruti Suzuki Baleno,ZXI (Top),Good,Tier 2 (Medium),2013,117301.69,Petrol,Automatic,First Owner,22.0,1197,88,5,1000844.92,311724.09
+Maruti Suzuki Swift,LXI (Base),Good,Tier 2 (Medium),2013,70169.79,Diesel,Automatic,Third Owner,21.0,1197,82,5,863873.84,273486.86
+Tata Altroz,XE (Base),Excellent,Metro (High Demand),2018,66332.67,Diesel,Automatic,Second Owner,19.0,1199,84,5,1165611.57,474771.74
+Maruti Suzuki Baleno,LXI (Base),Fair,Tier 2 (Medium),2017,35212.99,Petrol,Automatic,Second Owner,22.0,1197,88,5,1012819.38,310439.43
+Mahindra Bolero,Base,Excellent,Tier 2 (Medium),2018,34169.84,Petrol,Automatic,First Owner,16.0,1493,75,7,1184355.22,672301.42
+Tata Nexon,XE (Base),Good,Tier 2 (Medium),2024,21884.0,Diesel,Manual,First Owner,17.0,1199,118,5,1247946.92,1098036.51
+Volkswagen Polo,Highline (Top),Good,Metro (High Demand),2022,114303.65,Petrol,Automatic,Third Owner,18.0,999,108,5,1168963.77,527217.99
+Kia Sonet,HTE (Base),Good,Metro (High Demand),2023,117506.39,Diesel,Automatic,First Owner,18.0,998,118,5,1320954.3,843042.92
+Toyota Innova,V (Top),Poor,Tier 2 (Medium),2011,57534.7,Diesel,Automatic,Second Owner,11.0,2393,148,7,2890735.64,888807.52
+Mahindra Bolero,Base,Fair,Tier 2 (Medium),2020,71736.04,Diesel,Manual,Second Owner,16.0,1493,75,7,1196428.95,472781.91
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2012,105173.89,Petrol,Automatic,First Owner,18.0,1462,103,5,1250882.92,393871.55
+Hyundai Venue,S (Mid),Excellent,Metro (High Demand),2011,131517.51,Diesel,Automatic,First Owner,18.0,998,118,5,1368100.16,431397.7
+Kia Seltos,HTE (Base),Good,Tier 2 (Medium),2017,117955.64,Diesel,Manual,Second Owner,16.0,1497,113,5,1847124.13,569926.14
+Hyundai Verna,S (Mid),Good,Tier 2 (Medium),2011,50286.29,Diesel,Manual,Fourth & Above Owner,19.0,1497,113,5,1345528.27,420655.93
+Tata Tiago,XZ (Top),Fair,Rural (Low),2025,35712.75,CNG,Automatic,Second Owner,20.0,1199,84,5,887818.98,647430.09
+Kia Sonet,GTX (Top),Fair,Rural (Low),2020,57749.14,CNG,Automatic,Second Owner,18.0,998,118,5,1307748.44,465730.4
+Kia Carens,HTK (Mid),Good,Metro (High Demand),2022,83853.56,CNG,Automatic,First Owner,16.0,1497,113,7,1397772.19,1002617.16
+Maruti Suzuki Ertiga,VXI (Mid),Excellent,Metro (High Demand),2014,44352.38,CNG,Automatic,First Owner,20.0,1462,103,7,1210329.37,441501.16
+Volkswagen Polo,Highline (Top),Excellent,Tier 2 (Medium),2012,50455.51,Petrol,Automatic,First Owner,18.0,999,108,5,1153154.26,374990.77
+Tata Harrier,XE (Base),Good,Metro (High Demand),2014,94285.59,Diesel,Automatic,Second Owner,16.0,1956,167,5,2036108.96,636368.95
+Kia Sonet,GTX (Top),Good,Tier 2 (Medium),2016,125511.78,CNG,Automatic,First Owner,18.0,998,118,5,1250514.98,406823.61
+Honda Elevate,E (Base),Good,Metro (High Demand),2017,43707.35,Diesel,Automatic,First Owner,15.0,1498,119,5,1591645.08,729939.65
+Kia Carens,GTX (Top),Excellent,Rural (Low),2024,66372.06,Diesel,Manual,First Owner,16.0,1497,113,7,1512624.04,1335807.39
+Tata Tiago,XM (Mid),Good,Rural (Low),2022,8719.77,CNG,Manual,Second Owner,20.0,1199,84,5,723124.75,432890.24
+Maruti Suzuki Brezza,LXI (Base),Good,Tier 2 (Medium),2016,39762.63,CNG,Manual,Second Owner,19.0,1462,103,5,989402.27,351630.59
+Toyota Fortuner,V (Top),Poor,Tier 2 (Medium),2017,61116.65,Petrol,Manual,First Owner,10.0,2755,201,7,3736937.41,1260677.33
+Toyota Urban Cruiser,V (Top),Excellent,Metro (High Demand),2016,146929.58,Petrol,Manual,Second Owner,18.0,1462,103,5,1115196.65,345958.04
+Toyota Glanza,G (Base),Good,Metro (High Demand),2012,89113.02,Petrol,Manual,First Owner,22.0,1197,88,5,877431.54,287970.16
+Mahindra Thar,Top,Fair,Metro (High Demand),2015,139750.98,CNG,Automatic,Second Owner,15.0,1997,150,4,1866350.38,581929.92
+Tata Altroz,XM (Mid),Excellent,Metro (High Demand),2016,42026.27,CNG,Manual,Fourth & Above Owner,19.0,1199,84,5,987134.11,324055.67
+Mahindra Bolero,Top,Good,Metro (High Demand),2014,66260.66,Petrol,Automatic,Third Owner,16.0,1493,75,7,1247226.07,388015.32
+Honda City,VX (Top),Good,Tier 2 (Medium),2012,34769.95,Diesel,Automatic,First Owner,17.0,1498,119,5,1821411.59,563174.03
+Mahindra XUV700,Base,Good,Metro (High Demand),2021,129692.83,Petrol,Automatic,Third Owner,13.0,2198,182,7,2255464.2,975011.36
+Maruti Suzuki Ertiga,ZXI (Top),Fair,Metro (High Demand),2012,6066.09,CNG,Manual,Second Owner,20.0,1462,103,7,1122084.51,360323.68
+Mahindra XUV700,Mid,Good,Tier 2 (Medium),2015,60357.13,Diesel,Automatic,Second Owner,13.0,2198,182,7,2295653.33,714709.78
+Kia Seltos,HTE (Base),Fair,Tier 2 (Medium),2025,145777.24,CNG,Automatic,Fourth & Above Owner,16.0,1497,113,5,1796690.67,703385.3
+Honda Elevate,S (Mid),Excellent,Metro (High Demand),2019,42471.42,Petrol,Manual,First Owner,15.0,1498,119,5,1405587.6,874198.99
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2022,111954.74,Diesel,Automatic,First Owner,18.0,1462,103,5,1403387.74,885821.21
+Toyota Glanza,V (Top),Poor,Metro (High Demand),2021,100850.33,Petrol,Automatic,Fourth & Above Owner,22.0,1197,88,5,1087298.35,336223.58
+Maruti Suzuki Dzire,LXI (Base),Good,Tier 2 (Medium),2020,39907.93,CNG,Automatic,Second Owner,23.0,1197,88,5,942043.66,834771.54
+Volkswagen Virtus,Comfortline (Mid),Good,Rural (Low),2025,434210.35884396505,Petrol,Manual,First Owner,18.0,1498,148,5,1686279.69,1483012.26
+Mahindra XUV700,Base,Excellent,Tier 2 (Medium),2011,130753.08,Diesel,Automatic,Third Owner,13.0,2198,182,7,2301797.05,715050.87
+Honda City,VX (Top),Good,Metro (High Demand),2019,77982.66,CNG,Manual,First Owner,17.0,1498,119,5,1586198.17,884721.74
+Kia Sonet,HTE (Base),Good,Rural (Low),2013,102657.42,Diesel,Automatic,Second Owner,18.0,998,118,5,1289418.98,404847.41
+Kia Carens,HTK (Mid),Fair,Tier 2 (Medium),2020,106070.12,CNG,Automatic,Third Owner,16.0,1497,113,7,1467460.55,451560.77
+Honda Elevate,E (Base),Poor,Tier 2 (Medium),2022,17284.31,Diesel,Automatic,First Owner,15.0,1498,119,5,1643634.67,851920.11
+Tata Nexon,XE (Base),Good,Tier 2 (Medium),2023,113081.56,CNG,Automatic,First Owner,17.0,1199,118,5,1267600.61,764249.57
+Hyundai Verna,S (Mid),Good,Tier 2 (Medium),2015,115664.92,Petrol,Automatic,Second Owner,19.0,1497,113,5,1482413.44,468510.65
+Honda Elevate,S (Mid),Good,Metro (High Demand),2014,126874.98,CNG,Manual,First Owner,15.0,1498,119,5,1469752.37,451078.5
+Mahindra XUV700,Base,Excellent,Tier 2 (Medium),2015,76452.04,CNG,Automatic,First Owner,13.0,2198,182,7,2154265.92,861123.64
+Tata Tiago,XE (Base),Fair,Rural (Low),2014,14540.83,Diesel,Automatic,Fourth & Above Owner,20.0,1199,84,5,862598.13,281946.97
+Tata Altroz,XZ (Top),Excellent,Metro (High Demand),2015,95313.97,CNG,Manual,First Owner,19.0,1199,84,5,941082.66,348024.44
+Honda Amaze,E (Base),Good,Tier 2 (Medium),2025,143394.84,Petrol,Manual,First Owner,18.0,1199,88,5,835895.97,639451.24
+Toyota Urban Cruiser,G (Base),Excellent,Rural (Low),2013,119538.59,CNG,Automatic,First Owner,18.0,1462,103,5,1158357.93,361814.35
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2011,6164.0,CNG,Automatic,First Owner,18.0,1462,103,5,1254611.02,400783.8
+Mahindra XUV300,Base,Good,Tier 2 (Medium),2013,60862.02,Petrol,Manual,Third Owner,17.0,1197,108,5,1213662.86,393398.84
+Mahindra Bolero,Base,Good,Metro (High Demand),2011,129421.81,CNG,Automatic,Second Owner,16.0,1493,75,7,1096006.53,348912.47
+Tata Nexon,XE (Base),Good,Tier 2 (Medium),2015,486984.8617600079,CNG,Automatic,Third Owner,17.0,1199,118,5,1309646.56,421396.83
+Kia Carens,HTK (Mid),Excellent,Rural (Low),2022,20213.46,Diesel,Manual,Second Owner,16.0,1497,113,7,1423445.78,866676.44
+Kia Seltos,HTK (Mid),Good,Rural (Low),2014,100341.96,Petrol,Automatic,First Owner,16.0,1497,113,5,1821571.67,570415.02
+Honda City,S (Mid),Fair,Metro (High Demand),2015,112193.92,CNG,Automatic,Second Owner,17.0,1498,119,5,1587289.82,502585.38
+Honda Amaze,VX (Top),Fair,Metro (High Demand),2025,74179.49,Petrol,Manual,First Owner,18.0,1199,88,5,919519.09,820723.9
+Kia Seltos,HTE (Base),Excellent,Rural (Low),2012,90482.02,Petrol,Automatic,Second Owner,16.0,1497,113,5,1721725.17,545729.72
+Mahindra XUV700,Mid,Good,Metro (High Demand),2022,114921.45,Petrol,Automatic,First Owner,13.0,2198,182,7,2164425.7,1483806.95
+Toyota Fortuner,V (Top),Excellent,Metro (High Demand),2023,111940.63,Petrol,Manual,First Owner,10.0,2755,201,7,3617562.24,3233077.28
+Toyota Fortuner,V (Top),Good,Metro (High Demand),2024,59808.66,Diesel,Automatic,Second Owner,10.0,2755,201,7,3879660.6,3381195.91
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2013,48854.57,CNG,Automatic,Third Owner,16.0,1497,113,7,1504922.56,477052.19
+Mahindra Scorpio,Mid,Good,Tier 2 (Medium),2023,74799.98,CNG,Automatic,Fourth & Above Owner,15.0,2184,130,7,1883948.18,982081.17
+Volkswagen Virtus,Comfortline (Mid),Good,Tier 2 (Medium),2023,50385.83,Diesel,Automatic,Second Owner,18.0,1498,148,5,1763539.12,1160103.43
+Honda City,VX (Top),Good,Tier 2 (Medium),2024,32045.26,CNG,Automatic,Second Owner,17.0,1498,119,5,1712235.19,1393636.43
+Hyundai Verna,E (Base),Fair,Tier 2 (Medium),2025,45697.56,Petrol,Automatic,Second Owner,19.0,1497,113,5,1384038.81,973936.71
+Maruti Suzuki Dzire,LXI (Base),Fair,Metro (High Demand),2019,136049.43,CNG,Manual,First Owner,23.0,1197,88,5,794431.51,281357.31
+Hyundai Creta,SX (Top),Good,Tier 2 (Medium),2024,49461.53,Petrol,Automatic,Second Owner,16.0,1497,113,5,1734268.97,1542569.44
+Kia Carens,HTE (Base),Excellent,Tier 2 (Medium),2016,638395.0655753373,Diesel,Automatic,First Owner,16.0,1497,113,7,1491415.38,453166.32
+Volkswagen Taigun,Highline (Top),Poor,Rural (Low),2025,34383.21,Petrol,Automatic,First Owner,16.0,1498,148,5,1650697.11,1217824.12
+Honda City,E (Base),Good,Tier 2 (Medium),2022,120701.15,Diesel,Manual,First Owner,17.0,1498,119,5,1589487.48,878339.48
+Tata Harrier,XZ (Top),Poor,Tier 2 (Medium),2020,51159.09,CNG,Manual,Second Owner,16.0,1956,167,5,2016200.67,702366.0
+Mahindra XUV700,Base,Good,Tier 2 (Medium),2012,126714.03,Diesel,Automatic,First Owner,13.0,2198,182,7,2327342.2,719167.42
+Hyundai Grand i10,E (Base),Good,Tier 2 (Medium),2021,124310.6,Diesel,Automatic,Second Owner,20.0,1197,82,5,917353.45,397899.54
+Tata Nexon,XE (Base),Excellent,Tier 2 (Medium),2015,73631.66,CNG,Manual,First Owner,17.0,1199,118,5,1201293.13,402751.34
+Maruti Suzuki Alto,VXI (Mid),Poor,Metro (High Demand),2023,133841.14,CNG,Automatic,Second Owner,22.0,796,47,5,647773.12,267926.08
+Toyota Fortuner,V (Top),Fair,Metro (High Demand),2011,110514.03,CNG,Automatic,Third Owner,10.0,2755,201,7,3787175.69,1153628.31
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2011,46766.39,Diesel,Automatic,First Owner,16.0,1497,113,7,1533983.11,481984.74
+Tata Altroz,XM (Mid),Excellent,Rural (Low),2013,57083.54,CNG,Manual,Second Owner,19.0,1199,84,5,915686.84,302863.19
+Hyundai Creta,S (Mid),Fair,Tier 2 (Medium),2013,35031.75,Petrol,Manual,Second Owner,16.0,1497,113,5,1592717.49,500222.85
+Volkswagen Vento,Highline (Top),Excellent,Tier 2 (Medium),2018,22357.76,CNG,Manual,First Owner,17.0,999,108,5,1328738.3,705897.54
+Tata Harrier,XZ (Top),Good,Tier 2 (Medium),2023,101624.03,Petrol,Automatic,Third Owner,16.0,1956,167,5,2026777.96,1037473.56
+Toyota Urban Cruiser,V (Top),Poor,Metro (High Demand),2022,147229.73,Petrol,Automatic,Third Owner,18.0,1462,103,5,1258901.51,455806.97
+Hyundai Grand i10,SX (Top),Poor,Tier 2 (Medium),2020,53552.88,Diesel,Manual,First Owner,20.0,1197,82,5,935001.92,368047.05
+Hyundai i20,SX (Top),Good,Tier 2 (Medium),2019,600141.6898220262,Petrol,Manual,First Owner,20.0,1197,82,5,911707.62,552373.51
+Kia Seltos,GTX (Top),Excellent,Rural (Low),2019,84460.29,Diesel,Automatic,First Owner,16.0,1497,113,5,2053815.34,1106311.82
+Toyota Innova,G (Base),Good,Metro (High Demand),2014,62537.19,Petrol,Manual,First Owner,11.0,2393,148,7,2530742.75,838096.45
+Hyundai Grand i10,SX (Top),Good,Rural (Low),2012,121906.88,CNG,Automatic,First Owner,20.0,1197,82,5,978510.58,319926.14
+Hyundai Verna,S (Mid),Good,Rural (Low),2021,148834.85,Diesel,Manual,Second Owner,19.0,1497,113,5,1445316.17,630135.98
+Toyota Innova,G (Base),Good,Rural (Low),2023,586193.7820495481,Diesel,Manual,First Owner,11.0,2393,148,7,2674062.37,2150091.76
+Toyota Innova,G (Base),Poor,Rural (Low),2013,91555.96,Petrol,Manual,First Owner,11.0,2393,148,7,2510300.44,2109153.92
+Kia Seltos,HTE (Base),Good,Metro (High Demand),2023,68314.11,Petrol,Manual,First Owner,16.0,1497,113,5,1615379.27,1227210.59
+Honda Amaze,S (Mid),Good,Tier 2 (Medium),2011,137949.14,Diesel,Automatic,First Owner,18.0,1199,88,5,1075911.88,336376.68
+Kia Carens,HTE (Base),Good,Metro (High Demand),2025,113866.94,CNG,Manual,First Owner,16.0,1497,113,7,1321231.96,1113385.33
+Kia Seltos,HTE (Base),Fair,Tier 2 (Medium),2020,31738.48,Diesel,Manual,First Owner,16.0,1497,113,5,1725148.14,869853.65
+Hyundai Creta,SX (Top),Excellent,Metro (High Demand),2012,75789.16,Diesel,Automatic,Second Owner,16.0,1497,113,5,1924519.34,601740.86
+Tata Altroz,XZ (Top),Good,Rural (Low),2016,78699.46,CNG,Automatic,Third Owner,19.0,1199,84,5,1021302.54,326857.23
+Maruti Suzuki Dzire,ZXI (Top),Excellent,Tier 2 (Medium),2014,32737.53,Petrol,Manual,Second Owner,23.0,1197,88,5,909985.38,301444.4
+Mahindra Bolero,Mid,Excellent,Tier 2 (Medium),2011,58447.15,Petrol,Manual,Second Owner,16.0,1493,75,7,1101718.42,353128.55
+Honda Amaze,VX (Top),Good,Tier 2 (Medium),2015,96624.96,Petrol,Manual,Second Owner,18.0,1199,88,5,928244.31,297739.63
+Volkswagen Taigun,Highline (Top),Good,Rural (Low),2017,9163.96,Petrol,Automatic,First Owner,16.0,1498,148,5,1703189.51,772888.79
+Kia Sonet,HTE (Base),Fair,Tier 2 (Medium),2025,123471.45,CNG,Manual,First Owner,18.0,998,118,5,1104823.19,694196.07
+Mahindra Scorpio,Base,Good,Tier 2 (Medium),2011,38722.99,Petrol,Automatic,First Owner,15.0,2184,130,7,1794905.85,557881.29
+Hyundai Grand i10,E (Base),Good,Rural (Low),2019,125289.38,Diesel,Manual,Second Owner,20.0,1197,82,5,756030.91,254603.11
+Toyota Glanza,G (Base),Poor,Tier 2 (Medium),2020,96369.63,Diesel,Manual,First Owner,22.0,1197,88,5,976388.45,366049.19
+Maruti Suzuki Dzire,LXI (Base),Good,Rural (Low),2017,62883.45,Petrol,Manual,Second Owner,23.0,1197,88,5,798478.26,266329.95
+Kia Carens,GTX (Top),Good,Tier 2 (Medium),2012,10394.42,Diesel,Automatic,First Owner,16.0,1497,113,7,1530614.36,485204.38
+Honda Elevate,VX (Top),Good,Rural (Low),2022,122974.87,Diesel,Automatic,First Owner,15.0,1498,119,5,1651688.73,953585.14
+Maruti Suzuki Ertiga,VXI (Mid),Good,Tier 2 (Medium),2015,89562.32,Petrol,Manual,Third Owner,20.0,1462,103,7,1146615.89,354313.89
+Mahindra XUV300,Top,Fair,Metro (High Demand),2018,8621.72,Petrol,Automatic,Second Owner,17.0,1197,108,5,1457500.32,538680.03
+Tata Altroz,XE (Base),Good,Metro (High Demand),2018,117245.06,Diesel,Automatic,First Owner,19.0,1199,84,5,1161458.95,460262.41
+Mahindra XUV300,Top,Poor,Tier 2 (Medium),2022,92670.05,Petrol,Manual,First Owner,17.0,1197,108,5,1247417.97,638249.37
+Tata Altroz,XM (Mid),Good,Metro (High Demand),2011,10247.26,Diesel,Manual,Second Owner,19.0,1199,84,5,946654.87,299839.43
+Tata Tiago,XM (Mid),Good,Tier 2 (Medium),2023,55481.74,CNG,Automatic,Second Owner,20.0,1199,84,5,762923.44,458626.87
+Maruti Suzuki Baleno,VXI (Mid),Good,Tier 2 (Medium),2023,28228.13,CNG,Manual,First Owner,22.0,1197,88,5,916354.43,820738.72
+Mahindra Bolero,Base,Excellent,Tier 2 (Medium),2014,66285.57,Petrol,Manual,First Owner,16.0,1493,75,7,1098652.51,351215.51
+Toyota Innova,G (Base),Good,Metro (High Demand),2017,72806.78,Petrol,Automatic,First Owner,11.0,2393,148,7,2635599.73,1282035.94
+Kia Seltos,GTX (Top),Good,Metro (High Demand),2019,88439.22,Diesel,Manual,Second Owner,16.0,1497,113,5,1936001.2,905174.08
+Hyundai Grand i10,SX (Top),Excellent,Metro (High Demand),2025,121944.94,Petrol,Automatic,First Owner,20.0,1197,82,5,871533.76,766622.26
+Maruti Suzuki Alto,VXI (Mid),Poor,Rural (Low),2013,79276.18,CNG,Manual,Second Owner,22.0,796,47,5,474578.42,157078.68
+Maruti Suzuki Alto,ZXI (Top),Good,Rural (Low),2021,139395.89,Diesel,Automatic,Second Owner,22.0,796,47,5,747794.52,344863.26
+Hyundai Venue,SX (Top),Good,Metro (High Demand),2020,123191.05,Petrol,Manual,Third Owner,18.0,998,118,5,1154729.36,453104.91
+Toyota Innova,V (Top),Excellent,Tier 2 (Medium),2017,16746.53,Diesel,Automatic,First Owner,11.0,2393,148,7,2894616.57,1735745.73
+Tata Harrier,XZ (Top),Excellent,Tier 2 (Medium),2013,10842.74,Diesel,Manual,Third Owner,16.0,1956,167,5,2145965.95,657181.37
+Hyundai Venue,S (Mid),Fair,Metro (High Demand),2011,19187.54,CNG,Manual,Second Owner,18.0,998,118,5,1147746.94,360023.95
+Tata Nexon,XZ (Top),Fair,Rural (Low),2018,120879.42,Petrol,Manual,First Owner,17.0,1199,118,5,1221604.86,1074912.31
+Volkswagen Virtus,Highline (Top),Good,Tier 2 (Medium),2016,11749.52,Petrol,Automatic,First Owner,18.0,1498,148,5,1867811.26,809393.4
+Kia Carens,HTE (Base),Good,Tier 2 (Medium),2014,125658.07,Petrol,Manual,Second Owner,16.0,1497,113,7,1336601.32,422473.63
+Volkswagen Vento,Comfortline (Mid),Good,Tier 2 (Medium),2013,93744.76,Diesel,Manual,Third Owner,17.0,999,108,5,1306436.59,416876.31
+Kia Carens,HTK (Mid),Good,Tier 2 (Medium),2018,476996.4396141945,Diesel,Automatic,First Owner,16.0,1497,113,7,1472842.31,757853.64
+Hyundai Verna,SX (Top),Excellent,Tier 2 (Medium),2019,84236.88,CNG,Manual,Second Owner,19.0,1497,113,5,1449534.0,660431.64
+Mahindra Scorpio,Top,Good,Tier 2 (Medium),2017,6771.28,Petrol,Manual,First Owner,15.0,2184,130,7,1728243.7,954991.3
+Maruti Suzuki Baleno,LXI (Base),Fair,Metro (High Demand),2018,143976.22,Petrol,Automatic,First Owner,22.0,1197,88,5,915594.65,276004.19
+Volkswagen Taigun,Comfortline (Mid),Good,Tier 2 (Medium),2021,121776.36,CNG,Manual,Second Owner,16.0,1498,148,5,1516852.77,645586.79
+Maruti Suzuki Ertiga,ZXI (Top),Good,Tier 2 (Medium),2011,100513.58,Diesel,Manual,First Owner,20.0,1462,103,7,1279032.44,404521.08
+Honda Amaze,VX (Top),Poor,Metro (High Demand),2021,23840.53,Petrol,Manual,Third Owner,18.0,1199,88,5,1014547.18,375920.67
+Mahindra XUV700,Top,Good,Metro (High Demand),2014,12095.48,Petrol,Automatic,Second Owner,13.0,2198,182,7,2236985.78,789041.99
+Maruti Suzuki Swift,VXI (Mid),Good,Tier 2 (Medium),2025,146272.64,Diesel,Manual,Second Owner,21.0,1197,82,5,854064.82,673367.16
+Maruti Suzuki Dzire,ZXI (Top),Good,Tier 2 (Medium),2012,98294.14,Petrol,Automatic,Fourth & Above Owner,23.0,1197,88,5,1062525.2,345898.48
+Kia Sonet,GTX (Top),Fair,Tier 2 (Medium),2020,113908.85,CNG,Manual,First Owner,18.0,998,118,5,1179476.58,512436.68
+Toyota Innova,G (Base),Poor,Metro (High Demand),2024,106602.1,Petrol,Automatic,First Owner,11.0,2393,148,7,2648191.04,1583332.32
+Maruti Suzuki Swift,VXI (Mid),Excellent,Tier 2 (Medium),2021,23299.0,Diesel,Automatic,First Owner,21.0,1197,82,5,916458.65,808691.96
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2025,91868.34,Diesel,Manual,First Owner,22.0,1197,88,5,950261.22,835736.58
+Toyota Innova,G (Base),Good,Metro (High Demand),2011,24793.72,Petrol,Automatic,Second Owner,11.0,2393,148,7,2747654.75,852358.86
+Toyota Fortuner,V (Top),Good,Tier 2 (Medium),2023,91125.43,CNG,Automatic,First Owner,10.0,2755,201,7,3763161.44,3368965.71
+Honda City,S (Mid),Excellent,Rural (Low),2020,119393.15,Petrol,Manual,First Owner,17.0,1498,119,5,1509255.17,757823.78
+Maruti Suzuki Swift,LXI (Base),Good,Metro (High Demand),2018,142823.21,CNG,Automatic,Third Owner,21.0,1197,82,5,809639.93,288496.12
+Toyota Urban Cruiser,G (Base),Good,Tier 2 (Medium),2016,123581.76,Petrol,Manual,Third Owner,18.0,1462,103,5,1037538.02,322327.91
+Maruti Suzuki Swift,ZXI (Top),Good,Metro (High Demand),2012,140511.0,CNG,Manual,Third Owner,21.0,1197,82,5,754520.41,237032.93
+Mahindra XUV300,Base,Good,Metro (High Demand),2023,61986.06,Diesel,Manual,Fourth & Above Owner,17.0,1197,108,5,1340091.38,606745.06
+Toyota Glanza,G (Base),Good,Tier 2 (Medium),2023,117054.93,Diesel,Manual,Second Owner,22.0,1197,88,5,954494.38,451736.38
+Toyota Glanza,G (Base),Good,Rural (Low),2020,34063.23,Petrol,Automatic,Second Owner,22.0,1197,88,5,966311.85,459962.15
+Kia Seltos,HTE (Base),Fair,Tier 2 (Medium),2016,35136.45,CNG,Manual,Second Owner,16.0,1497,113,5,1728072.98,537704.95
+Toyota Urban Cruiser,G (Base),Excellent,Tier 2 (Medium),2015,142894.93,CNG,Manual,Second Owner,18.0,1462,103,5,1016891.9,332778.17
+Toyota Innova,V (Top),Good,Tier 2 (Medium),2020,446067.4355243276,Diesel,Manual,Second Owner,11.0,2393,148,7,2777066.56,1291839.07
+Honda Amaze,S (Mid),Good,Metro (High Demand),2019,80769.85,Diesel,Automatic,First Owner,18.0,1199,88,5,1135855.28,600190.61
+Maruti Suzuki Ertiga,LXI (Base),Excellent,Metro (High Demand),2015,49944.05,Petrol,Manual,First Owner,20.0,1462,103,7,1094962.84,489886.0
+Tata Altroz,XZ (Top),Poor,Tier 2 (Medium),2025,115111.62,CNG,Automatic,First Owner,19.0,1199,84,5,1131998.83,677896.51
+Hyundai Grand i10,E (Base),Good,Rural (Low),2021,79627.69,CNG,Automatic,Second Owner,20.0,1197,82,5,879306.26,401572.78
+Honda City,S (Mid),Excellent,Tier 2 (Medium),2022,18783.75,CNG,Automatic,First Owner,17.0,1498,119,5,1578604.71,1379108.58
+Honda City,E (Base),Good,Tier 2 (Medium),2016,15632.24,CNG,Automatic,First Owner,17.0,1498,119,5,1643362.04,606328.77
+Volkswagen Taigun,Highline (Top),Good,Tier 2 (Medium),2012,38230.02,CNG,Automatic,First Owner,16.0,1498,148,5,1765007.28,548112.78
+Maruti Suzuki Dzire,VXI (Mid),Fair,Rural (Low),2025,21749.93,Petrol,Manual,Third Owner,23.0,1197,88,5,763125.66,483093.77
+Hyundai i20,S (Mid),Poor,Metro (High Demand),2019,113788.68,CNG,Manual,First Owner,20.0,1197,82,5,850329.26,283114.88
+Volkswagen Virtus,Trendline (Base),Excellent,Tier 2 (Medium),2023,44868.02,Petrol,Automatic,First Owner,18.0,1498,148,5,1689250.57,1463985.16
+Toyota Urban Cruiser,V (Top),Good,Tier 2 (Medium),2020,11873.95,Diesel,Manual,First Owner,18.0,1462,103,5,1278274.35,826365.28
+Honda Amaze,S (Mid),Good,Metro (High Demand),2011,101113.28,Petrol,Manual,Third Owner,18.0,1199,88,5,930484.5,297552.98

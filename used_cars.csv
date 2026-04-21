@@ -1,0 +1,1501 @@
+Brand,Model,Mileage,Engine_Type,Age_of_Vehicle,Original_Price,Num_Owners,Has_Dents,Has_Scratches,Price
+Mahindra,XUV300,96838.62,Diesel,4,1229911.42,2,Yes,No,536899.59
+Kia,Sonet,117999.67,CNG,6,1032078.85,1,No,Yes,217068.78
+Maruti Suzuki,Ertiga,89506.73,Electric,10,1284978.87,1,Yes,No,50000.0
+Mahindra,Scorpio,118645.51,CNG,13,1721181.0,1,Yes,Yes,50000.0
+Toyota,Innova,119474.04,CNG,14,2601983.87,1,No,Yes,102173.63
+Toyota,Innova,85817.0,CNG,8,2620978.67,2,No,Yes,663617.09
+Maruti Suzuki,Baleno,141876.93,Petrol,10,856413.35,1,No,Yes,50000.0
+Tata,Safari,148261.02,Electric,5,2388643.63,1,Yes,Yes,1076979.29
+Hyundai,Venue,65697.51,Electric,8,1386100.58,1,No,Yes,310689.78
+Hyundai,Venue,144082.89,Petrol,1,1012558.22,3,No,Yes,420410.0
+Hyundai,i20,80127.88,CNG,6,847675.73,3,Yes,No,208127.32
+Maruti Suzuki,Dzire,64412.37,Petrol,6,837977.49,2,No,Yes,198531.95
+Hyundai,i20,31871.89,CNG,1,816767.45,2,No,Yes,594319.33
+Maruti Suzuki,Alto,28552.67,Petrol,1,362393.84,2,No,Yes,211283.81
+Hyundai,Grand i10,69911.23,CNG,11,653194.32,2,No,Yes,50000.0
+Mahindra,Thar,46547.78,Petrol,1,1511944.22,2,Yes,No,1105306.62
+Maruti Suzuki,Brezza,102516.99,Electric,11,1283962.79,1,Yes,Yes,50000.0
+Toyota,Glanza,36108.55,Diesel,14,1007013.46,2,No,Yes,50000.0
+Toyota,Glanza,122963.89,Electric,9,1174574.56,1,Yes,Yes,50000.0
+Kia,Seltos,32840.85,CNG,4,1686109.32,2,Yes,Yes,971924.64
+Kia,Sonet,120062.19,Diesel,7,1187737.82,1,Yes,Yes,176254.68
+Honda,Elevate,77478.16,CNG,2,1361413.86,1,Yes,No,899316.16
+Mahindra,Bolero,64343.57,Diesel,10,1132371.85,1,No,Yes,50000.0
+Maruti Suzuki,Brezza,76268.24,Petrol,12,998330.79,1,No,No,50000.0
+Toyota,Glanza,74378.11,CNG,8,858008.42,2,No,Yes,139882.6
+Mahindra,XUV300,115734.34,Diesel,8,1314172.2,1,Yes,No,165616.71
+Hyundai,Creta,42231.73,Diesel,1,1707798.27,1,Yes,Yes,1430883.35
+Volkswagen,Virtus,25948.59,CNG,8,1513280.97,1,No,Yes,459738.67
+Honda,Amaze,129487.96,CNG,10,919717.2,3,No,Yes,50000.0
+Volkswagen,Polo,102748.27,Diesel,14,1043946.34,1,No,Yes,50000.0
+Maruti Suzuki,Dzire,136663.94,Electric,8,969658.34,2,No,No,50000.0
+Hyundai,Verna,20232.64,Diesel,12,1414756.86,1,No,Yes,156170.29
+Mahindra,Thar,55027.04,Petrol,3,1604349.47,2,Yes,No,924348.59
+Honda,Elevate,62681.03,CNG,10,1331754.36,1,Yes,Yes,95369.35
+Mahindra,Thar,131820.64,Petrol,3,1513783.06,3,No,Yes,601454.52
+Volkswagen,Virtus,46843.86,Petrol,10,1643204.92,1,Yes,Yes,214242.52
+Mahindra,XUV700,60831.59,Petrol,13,2093755.01,1,No,Yes,172245.71
+Toyota,Innova,51283.52,Petrol,13,2538791.21,3,Yes,Yes,181818.66
+Mahindra,Scorpio,10089.57,Petrol,14,1678354.91,4,No,Yes,138179.39
+Maruti Suzuki,Swift,36598.1,Electric,2,870935.73,2,No,No,553959.67
+Honda,Elevate,130738.0,Diesel,6,1501511.44,4,Yes,No,259463.65
+Mahindra,XUV300,82908.29,Diesel,3,1309410.13,1,No,No,791867.04
+Honda,Elevate,19179.8,Diesel,4,1498955.91,4,Yes,Yes,643824.19
+Hyundai,Verna,115622.03,Petrol,1,1340004.85,4,Yes,Yes,651086.4
+Tata,Altroz,98877.66,Electric,9,1152613.86,1,Yes,No,89698.73
+Toyota,Glanza,148716.8,Petrol,9,805431.91,2,No,No,50000.0
+Maruti Suzuki,Brezza,101914.59,Diesel,2,1052174.76,2,No,No,575783.71
+Hyundai,Venue,137645.7,Diesel,2,1196480.25,1,Yes,Yes,588624.75
+Mahindra,Bolero,100265.37,Diesel,10,1169479.09,1,No,Yes,50000.0
+Kia,Seltos,140413.84,Electric,13,1936095.38,1,Yes,Yes,50000.0
+Mahindra,XUV300,23282.34,Diesel,1,1252075.03,1,Yes,Yes,1085332.64
+Tata,Altroz,144677.87,Diesel,11,944606.98,1,No,No,50000.0
+Tata,Tiago,95300.51,CNG,2,732435.65,2,No,Yes,307072.68
+Mahindra,Thar,143310.7,Petrol,2,1535727.2,1,Yes,Yes,862938.65
+Hyundai,Grand i10,49405.03,Electric,10,908694.27,3,Yes,No,58942.04
+Maruti Suzuki,Baleno,33526.79,CNG,12,818176.58,1,No,Yes,61902.47
+Honda,City,62726.27,Diesel,10,1522896.7,1,No,Yes,98978.1
+Toyota,Urban Cruiser,74626.65,CNG,7,1039951.62,1,Yes,No,239282.06
+Mahindra,Bolero,11631.7,Petrol,9,978957.01,3,Yes,No,203750.11
+Volkswagen,Taigun,83227.66,Electric,6,1660654.4,2,No,No,562081.97
+Mahindra,Bolero,28161.88,Petrol,15,1038172.43,1,No,Yes,74527.7
+Hyundai,Grand i10,55374.09,CNG,12,771599.61,2,Yes,Yes,50000.0
+Mahindra,Bolero,37208.29,CNG,6,1022262.6,2,No,Yes,420985.43
+Honda,Amaze,126927.62,Diesel,4,978317.3,1,No,No,395919.82
+Mahindra,XUV300,124722.78,CNG,10,1223873.54,1,Yes,Yes,50000.0
+Tata,Safari,26690.45,Electric,6,2339134.66,1,Yes,Yes,1110258.98
+Honda,Elevate,128289.19,CNG,7,1376766.96,2,Yes,Yes,208424.21
+Volkswagen,Taigun,113421.71,CNG,14,1493828.76,3,No,No,50000.0
+Kia,Seltos,137051.86,CNG,8,1612893.9,1,Yes,Yes,158928.02
+Maruti Suzuki,Dzire,46029.26,Petrol,3,775856.11,2,No,Yes,373646.22
+Honda,Amaze,99033.73,Petrol,13,878571.9,2,No,Yes,50000.0
+Kia,Sonet,16626.33,Diesel,12,1103955.01,1,Yes,No,74194.91
+Volkswagen,Vento,63398.96,Electric,5,1396528.69,2,No,Yes,588695.04
+Tata,Altroz,79954.52,Diesel,8,906398.04,2,No,Yes,94734.06
+Volkswagen,Taigun,48299.66,Petrol,9,1527877.7,2,No,Yes,243102.05
+Hyundai,Grand i10,42244.82,Diesel,15,832809.55,1,No,No,50000.0
+Volkswagen,Virtus,52396.74,Electric,11,1792781.82,3,No,No,60689.83
+Tata,Harrier,57525.75,Electric,7,2086183.41,1,No,Yes,793296.83
+Honda,Amaze,24100.9,Diesel,13,923752.36,4,Yes,Yes,50000.0
+Tata,Safari,149289.51,Diesel,14,2166081.83,3,Yes,Yes,50000.0
+Volkswagen,Vento,123590.12,CNG,14,1220174.6,3,Yes,Yes,50000.0
+Tata,Altroz,76622.27,CNG,5,833784.84,1,No,No,274217.42
+Maruti Suzuki,Alto,15520.33,Electric,11,608161.46,1,Yes,Yes,50000.0
+Maruti Suzuki,Dzire,144147.29,Petrol,9,773199.32,1,No,No,50000.0
+Hyundai,Verna,63986.4,Electric,9,1533852.4,2,No,Yes,281257.04
+Maruti Suzuki,Brezza,91257.61,Diesel,2,1138634.36,2,Yes,Yes,614292.43
+Hyundai,Grand i10,23212.56,CNG,9,739952.85,1,Yes,No,152464.92
+Tata,Harrier,106400.17,Diesel,2,2034648.33,3,No,Yes,1135244.37
+Volkswagen,Polo,109699.09,CNG,15,812753.28,2,Yes,Yes,50000.0
+Hyundai,Grand i10,113281.96,Petrol,1,740755.32,2,No,No,399456.27
+Kia,Carens,77940.07,CNG,4,1289918.24,2,Yes,Yes,534407.81
+Honda,Amaze,46064.71,CNG,12,948728.16,2,No,Yes,50000.0
+Mahindra,Thar,16292.6,Electric,4,1755630.79,4,No,No,787190.47
+Kia,Sonet,87187.0,CNG,2,1124699.33,1,No,Yes,706179.82
+Kia,Seltos,44389.27,Electric,1,1895718.14,1,Yes,No,1582026.39
+Mahindra,Bolero,36871.75,Diesel,11,1068792.61,2,No,Yes,50000.0
+Tata,Altroz,113639.31,Petrol,9,913533.72,3,No,Yes,50000.0
+Toyota,Fortuner,31171.26,CNG,13,3597916.52,1,No,Yes,425245.45
+Mahindra,XUV300,17620.57,Diesel,15,1241486.58,1,Yes,Yes,105458.34
+Tata,Altroz,52322.61,Diesel,1,901336.14,1,No,No,712861.7
+Honda,Elevate,116591.89,CNG,4,1326480.16,1,Yes,Yes,590728.55
+Honda,Elevate,148935.17,Electric,5,1566799.75,1,No,Yes,587389.59
+Toyota,Glanza,95007.31,Electric,4,1095050.15,1,No,Yes,476979.32
+Maruti Suzuki,Alto,129559.76,Diesel,10,532382.63,1,Yes,Yes,50000.0
+Maruti Suzuki,Dzire,91688.42,Diesel,14,883086.06,1,No,Yes,50000.0
+Honda,Elevate,50510.57,Diesel,5,1450594.14,2,Yes,Yes,625805.38
+Hyundai,Venue,54746.73,Electric,9,1308922.13,2,Yes,Yes,124108.42
+Maruti Suzuki,Swift,86110.78,CNG,4,616065.46,2,Yes,Yes,174879.87
+Volkswagen,Virtus,113280.84,Petrol,3,1596859.78,1,No,Yes,891455.85
+Hyundai,i20,72158.2,CNG,4,870440.62,3,No,Yes,328900.53
+Mahindra,Scorpio,61119.08,Petrol,12,1655615.14,1,Yes,No,109371.87
+Honda,Elevate,36098.81,Petrol,8,1314632.05,1,No,Yes,323290.71
+Mahindra,Thar,102165.87,CNG,10,1581764.05,2,No,No,75068.96
+Toyota,Glanza,83070.58,Diesel,4,992676.64,3,No,Yes,333605.41
+Maruti Suzuki,Ertiga,65427.78,Petrol,1,1068335.69,1,No,Yes,821406.13
+Mahindra,XUV300,130596.03,Diesel,5,1201634.11,4,No,Yes,309023.47
+Honda,City,32095.83,CNG,13,1511771.4,2,Yes,Yes,137360.41
+Maruti Suzuki,Ertiga,109792.56,Electric,7,1258648.55,1,Yes,No,287607.67
+Mahindra,XUV300,90511.94,Electric,14,1413275.86,3,Yes,Yes,50000.0
+Volkswagen,Taigun,45667.7,Petrol,9,1454257.88,3,Yes,Yes,209811.61
+Tata,Safari,147230.64,Electric,4,2355716.48,2,No,Yes,1079449.24
+Kia,Carens,53191.56,CNG,9,1346046.36,1,No,Yes,241305.68
+Toyota,Fortuner,148853.92,Petrol,11,3600662.16,2,Yes,Yes,122839.08
+Volkswagen,Virtus,17323.14,Petrol,13,1509534.65,1,No,Yes,185505.6
+Honda,Elevate,63958.32,Petrol,13,1359957.61,2,No,Yes,50000.0
+Volkswagen,Polo,99578.52,Diesel,15,933102.54,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,103354.58,Electric,15,1257595.6,1,No,Yes,50000.0
+Toyota,Innova,14007.05,Electric,9,2893852.95,1,Yes,Yes,776396.39
+Kia,Carens,60562.18,Diesel,3,1398366.52,2,No,No,801970.29
+Mahindra,XUV700,45538.11,Petrol,3,2067778.47,1,No,Yes,1422435.9
+Volkswagen,Vento,146482.11,CNG,10,1148234.01,1,Yes,Yes,50000.0
+Mahindra,XUV700,106178.55,Petrol,10,2115438.93,2,No,Yes,116550.02
+Maruti Suzuki,Alto,66457.83,Electric,12,726281.52,1,No,No,50000.0
+Toyota,Urban Cruiser,95877.49,Diesel,15,1208149.34,2,No,Yes,50000.0
+Mahindra,XUV300,136380.41,Diesel,12,1210382.03,3,Yes,No,50000.0
+Tata,Altroz,53239.13,Diesel,10,956678.29,1,No,No,50000.0
+Toyota,Glanza,96662.97,Electric,10,1086359.95,3,Yes,Yes,50000.0
+Toyota,Urban Cruiser,121526.67,CNG,12,1016666.65,1,Yes,No,50000.0
+Honda,City,118838.8,CNG,10,1469385.52,1,No,Yes,50000.0
+Tata,Safari,67138.96,CNG,3,2060028.71,2,No,Yes,1218574.48
+Mahindra,Bolero,149580.17,CNG,14,1055665.65,3,Yes,No,50000.0
+Mahindra,Bolero,96262.86,Petrol,13,966435.22,3,Yes,No,50000.0
+Toyota,Urban Cruiser,25872.04,CNG,9,1103664.99,1,Yes,No,250926.03
+Mahindra,XUV700,64880.8,CNG,3,2036803.98,2,Yes,Yes,1191363.3
+Maruti Suzuki,Swift,84007.13,Petrol,9,609527.28,1,No,Yes,50000.0
+Volkswagen,Taigun,37875.29,Electric,12,1660303.54,1,No,Yes,153067.07
+Honda,Amaze,26211.06,CNG,1,903746.66,2,No,Yes,634678.01
+Volkswagen,Vento,20662.29,Electric,13,1475176.12,1,No,Yes,180383.5
+Hyundai,i20,146934.1,CNG,3,850735.92,2,No,No,239872.29
+Hyundai,Creta,144843.55,Petrol,15,1593703.74,1,Yes,Yes,50000.0
+Maruti Suzuki,Ertiga,149090.99,CNG,12,1065406.15,1,No,Yes,50000.0
+Toyota,Fortuner,20407.15,Petrol,13,3602139.99,2,No,No,465255.5
+Tata,Tiago,13588.83,CNG,14,702315.06,1,Yes,No,50000.0
+Toyota,Innova,100565.21,Diesel,10,2746557.71,1,No,Yes,284035.65
+Tata,Nexon,138253.1,CNG,1,1230675.61,1,No,Yes,794941.4
+Volkswagen,Polo,13201.19,Electric,5,1144805.21,2,No,Yes,610155.92
+Volkswagen,Vento,35642.68,Petrol,10,1152901.49,2,No,No,155090.53
+Kia,Sonet,121518.84,CNG,15,1055708.52,1,No,No,50000.0
+Maruti Suzuki,Swift,73760.43,CNG,4,702579.79,1,Yes,Yes,293032.06
+Honda,Amaze,83747.86,CNG,5,907479.3,2,No,Yes,280460.73
+Mahindra,Scorpio,54220.02,Diesel,6,1703113.67,1,Yes,Yes,688977.18
+Volkswagen,Taigun,57097.69,CNG,11,1418447.72,1,Yes,No,65977.2
+Hyundai,Verna,112164.06,Diesel,3,1333830.72,1,No,Yes,748036.97
+Volkswagen,Vento,36824.19,Diesel,2,1216970.75,2,No,Yes,846961.35
+Maruti Suzuki,Ertiga,40451.96,Petrol,14,1078861.13,3,Yes,Yes,53025.05
+Mahindra,Bolero,39910.78,Diesel,2,1133441.12,1,No,No,834939.06
+Kia,Seltos,112399.39,Electric,4,1896732.43,2,Yes,Yes,880442.39
+Mahindra,Thar,128549.94,CNG,1,1601999.62,1,Yes,Yes,1129885.35
+Maruti Suzuki,Baleno,82369.17,Diesel,4,991793.65,2,Yes,Yes,368909.39
+Honda,City,107361.04,Petrol,14,1522141.57,1,No,Yes,50000.0
+Tata,Tiago,131186.47,Petrol,9,691788.91,1,No,Yes,50000.0
+Hyundai,i20,87837.7,CNG,2,908584.67,1,Yes,Yes,523352.58
+Toyota,Innova,84192.23,CNG,14,2567582.31,1,No,No,180518.43
+Honda,Elevate,15490.6,Electric,2,1605235.81,4,No,Yes,866341.24
+Mahindra,XUV300,100515.62,Diesel,7,1204495.73,1,No,No,249873.71
+Mahindra,Bolero,48113.54,CNG,12,950432.78,1,No,No,50000.0
+Hyundai,Verna,82002.83,Petrol,12,1258792.17,1,Yes,Yes,50000.0
+Tata,Nexon,65180.83,CNG,8,1208658.23,1,No,Yes,270871.25
+Honda,Elevate,37017.45,Petrol,5,1376348.34,1,No,Yes,706973.88
+Hyundai,Grand i10,131231.7,Electric,13,911783.51,3,No,No,50000.0
+Honda,Amaze,140658.95,CNG,1,911703.62,2,Yes,Yes,366049.89
+Maruti Suzuki,Ertiga,149005.95,Electric,1,1277973.82,4,No,Yes,567100.49
+Toyota,Fortuner,31713.41,Diesel,15,3666897.85,1,Yes,Yes,480000.82
+Toyota,Urban Cruiser,92379.22,CNG,11,1001887.32,1,Yes,No,50000.0
+Honda,Elevate,44562.21,CNG,2,1362542.67,3,Yes,Yes,784338.34
+Hyundai,Creta,33772.64,Diesel,14,1684840.77,2,Yes,Yes,103174.52
+Maruti Suzuki,Alto,69760.03,Diesel,13,595988.34,3,Yes,Yes,50000.0
+Honda,City,122816.39,Electric,7,1693941.48,1,Yes,No,449925.53
+Kia,Sonet,94777.61,Electric,15,1389449.44,1,No,Yes,50000.0
+Hyundai,Venue,140554.19,Petrol,10,1038952.26,2,No,Yes,50000.0
+Tata,Harrier,72121.47,Petrol,10,1889084.96,2,No,Yes,217588.38
+Mahindra,XUV700,61500.23,CNG,7,2081217.31,1,Yes,Yes,745841.5
+Maruti Suzuki,Baleno,142851.29,Electric,4,1143663.4,3,No,No,371560.03
+Maruti Suzuki,Swift,60077.16,Diesel,6,832937.35,1,Yes,Yes,288075.57
+Maruti Suzuki,Swift,46666.37,Diesel,13,801788.76,1,Yes,No,50000.0
+Volkswagen,Virtus,31311.63,Petrol,11,1623477.63,1,No,Yes,149894.43
+Hyundai,Venue,12781.94,CNG,12,1111753.7,2,Yes,Yes,129653.0
+Mahindra,Thar,87250.26,Electric,6,1815912.51,1,No,Yes,748878.12
+Maruti Suzuki,Brezza,52130.87,Electric,1,1281332.88,3,No,Yes,844559.3
+Volkswagen,Virtus,119639.37,Electric,3,1885892.99,2,No,Yes,974297.07
+Tata,Harrier,133800.96,Electric,5,2067453.5,3,No,Yes,755822.81
+Toyota,Glanza,105145.05,CNG,7,857887.95,2,No,Yes,126335.52
+Kia,Sonet,102376.64,CNG,3,1011211.76,3,No,Yes,417707.51
+Mahindra,XUV300,29657.49,Diesel,9,1236377.85,2,No,Yes,267123.88
+Kia,Sonet,91679.66,Petrol,15,1113234.13,2,No,Yes,50000.0
+Honda,Elevate,11705.63,Petrol,10,1424698.66,1,Yes,No,203233.81
+Toyota,Urban Cruiser,147594.86,Petrol,15,1125137.68,3,No,Yes,50000.0
+Kia,Seltos,128402.68,CNG,1,1688762.3,1,Yes,No,1192209.93
+Toyota,Urban Cruiser,53095.69,Petrol,12,1082946.83,3,No,No,50000.0
+Hyundai,Verna,63694.17,Petrol,2,1280799.48,2,Yes,Yes,795936.87
+Honda,City,73442.95,Diesel,15,1515501.66,2,Yes,Yes,50000.0
+Maruti Suzuki,Dzire,79325.49,Electric,3,961822.91,3,No,Yes,460444.98
+Tata,Altroz,131471.71,Diesel,4,1039027.66,2,No,Yes,316884.04
+Kia,Carens,55270.92,CNG,5,1312265.13,1,Yes,Yes,637107.36
+Maruti Suzuki,Alto,148241.59,CNG,8,409883.54,1,No,Yes,50000.0
+Mahindra,XUV700,19944.01,Petrol,6,2094800.2,2,No,No,945690.05
+Toyota,Glanza,20729.44,CNG,4,826359.67,2,Yes,Yes,445186.33
+Toyota,Glanza,43350.99,CNG,11,920722.59,2,No,No,50000.0
+Volkswagen,Virtus,45448.02,Petrol,4,1567159.12,1,Yes,Yes,911361.1
+Toyota,Glanza,39975.39,Petrol,13,843870.01,2,Yes,No,50000.0
+Mahindra,XUV300,96546.66,CNG,14,1106802.94,3,No,Yes,50000.0
+Kia,Sonet,31997.05,Petrol,6,1004310.18,1,No,No,490904.7
+Mahindra,Thar,23629.91,Petrol,7,1595895.23,1,Yes,No,598270.02
+Kia,Sonet,103706.18,Diesel,7,1142370.93,1,No,No,239663.12
+Kia,Sonet,35517.65,Electric,9,1385063.68,1,No,Yes,251212.38
+Honda,Elevate,98542.33,Diesel,7,1506441.85,2,No,Yes,382426.22
+Toyota,Fortuner,105181.23,Petrol,6,3565538.26,1,Yes,No,1547330.23
+Toyota,Innova,56919.87,CNG,3,2543892.83,1,No,No,1805202.84
+Mahindra,XUV300,21852.34,Petrol,9,1116609.74,1,No,Yes,211939.78
+Hyundai,Creta,86170.49,Petrol,8,1604032.43,2,No,No,360230.56
+Volkswagen,Virtus,86745.26,CNG,3,1596273.72,1,Yes,Yes,1008506.77
+Kia,Seltos,27057.66,Electric,3,1908122.77,1,No,Yes,1388898.74
+Honda,Amaze,98869.43,CNG,11,833518.97,3,No,Yes,50000.0
+Tata,Altroz,61792.13,Electric,7,1128752.45,2,Yes,Yes,306521.75
+Hyundai,Grand i10,107028.53,Electric,3,945956.26,3,No,Yes,316564.36
+Hyundai,Creta,40204.6,Diesel,2,1726921.15,2,Yes,Yes,1168642.9
+Maruti Suzuki,Swift,62841.18,Petrol,4,640576.43,2,Yes,Yes,185884.45
+Volkswagen,Vento,145221.13,Diesel,5,1245650.67,1,Yes,No,322315.49
+Volkswagen,Polo,66875.9,Electric,3,1139986.61,1,Yes,Yes,656114.97
+Hyundai,Creta,109155.25,CNG,6,1642148.75,1,No,No,565675.59
+Volkswagen,Taigun,25585.42,CNG,1,1471697.77,2,Yes,No,1164167.37
+Mahindra,XUV300,108716.68,CNG,13,1112424.59,1,No,No,50000.0
+Kia,Carens,110371.12,Electric,11,1574273.5,1,Yes,Yes,50000.0
+Honda,Elevate,71232.04,Petrol,4,1302300.31,4,Yes,No,424195.29
+Tata,Safari,73628.92,Diesel,13,2139214.13,1,Yes,Yes,95782.79
+Volkswagen,Vento,79911.64,Electric,10,1369549.92,2,No,Yes,90869.15
+Hyundai,i20,79368.79,CNG,11,907567.1,3,Yes,Yes,50000.0
+Hyundai,Venue,135876.56,Petrol,7,1087968.22,3,No,Yes,145062.19
+Toyota,Glanza,97675.85,CNG,2,887720.18,2,No,Yes,415447.73
+Maruti Suzuki,Ertiga,91263.43,CNG,15,1107759.79,1,Yes,Yes,50000.0
+Toyota,Innova,40427.63,Petrol,14,2624915.72,2,No,Yes,286823.36
+Honda,City,100979.57,Electric,5,1677743.86,3,Yes,Yes,579652.32
+Kia,Sonet,143607.57,Diesel,2,1148706.98,3,Yes,Yes,462792.4
+Kia,Sonet,66801.08,Diesel,13,1196176.82,2,No,Yes,50000.0
+Tata,Nexon,34534.09,Diesel,6,1231716.62,2,No,Yes,490430.64
+Mahindra,Thar,84528.41,Petrol,15,1508372.13,4,Yes,Yes,50000.0
+Honda,City,32339.76,Petrol,1,1489389.13,3,Yes,Yes,1028703.88
+Mahindra,XUV300,118209.24,Petrol,9,1179353.7,3,Yes,Yes,50000.0
+Kia,Sonet,77068.87,CNG,11,1068172.46,4,Yes,Yes,50000.0
+Volkswagen,Vento,141197.25,Petrol,12,1181706.39,1,Yes,Yes,50000.0
+Maruti Suzuki,Swift,146657.47,CNG,10,677682.25,2,No,No,50000.0
+Hyundai,Venue,104258.91,Diesel,6,1245335.43,3,No,No,317533.26
+Maruti Suzuki,Dzire,108414.61,Electric,4,1017228.59,1,No,No,425555.07
+Tata,Nexon,101785.22,Diesel,1,1243178.25,1,Yes,No,879682.53
+Maruti Suzuki,Brezza,15956.07,Diesel,10,1027383.88,4,No,No,130953.02
+Toyota,Innova,28261.18,CNG,12,2629454.96,3,No,Yes,200468.13
+Volkswagen,Vento,19083.79,CNG,9,1152841.93,3,No,Yes,215348.27
+Maruti Suzuki,Baleno,85114.97,Diesel,6,970069.93,1,Yes,Yes,260874.82
+Maruti Suzuki,Dzire,47652.61,Electric,10,960591.72,1,Yes,Yes,60516.96
+Tata,Nexon,52895.76,CNG,7,1238404.5,1,No,Yes,386154.1
+Tata,Safari,100689.87,Electric,4,2251798.04,2,Yes,No,1153859.96
+Maruti Suzuki,Swift,127878.63,Electric,10,892546.67,3,No,Yes,50000.0
+Maruti Suzuki,Ertiga,115229.1,Petrol,15,1065439.68,1,No,Yes,50000.0
+Honda,Elevate,54995.81,Petrol,2,1384463.48,4,Yes,No,654475.43
+Toyota,Urban Cruiser,34828.99,Diesel,4,1167661.32,1,Yes,No,656789.72
+Kia,Sonet,128137.67,Petrol,1,1074084.81,1,No,Yes,704449.98
+Toyota,Fortuner,33744.48,CNG,2,3569953.08,2,No,Yes,2644633.45
+Hyundai,Creta,63993.68,Electric,15,1892688.43,2,No,Yes,67664.9
+Volkswagen,Polo,26108.19,Diesel,10,1034675.24,1,No,No,139095.42
+Hyundai,Creta,30548.58,Electric,12,1882468.0,1,Yes,Yes,178454.59
+Tata,Altroz,52526.08,Petrol,3,807484.67,1,Yes,No,488457.39
+Tata,Harrier,124687.46,Electric,1,2176717.62,1,No,Yes,1632459.62
+Mahindra,Thar,120208.52,Electric,4,1839249.51,1,No,No,961396.54
+Hyundai,Venue,120883.34,Petrol,11,1057629.46,3,No,No,50000.0
+Volkswagen,Polo,52594.78,CNG,3,865420.99,1,No,No,553935.72
+Volkswagen,Virtus,91791.16,Diesel,13,1654076.73,1,Yes,No,50000.0
+Hyundai,Venue,55572.17,Diesel,4,1112839.79,1,Yes,Yes,583039.53
+Toyota,Glanza,41960.25,CNG,13,802729.72,1,No,Yes,50000.0
+Mahindra,Bolero,70899.91,Diesel,2,1150619.89,2,No,No,732846.0
+Honda,Elevate,115638.27,Diesel,6,1539206.06,1,Yes,No,443879.43
+Tata,Harrier,89809.86,CNG,13,1910589.69,1,No,Yes,51700.52
+Mahindra,Bolero,137019.03,Petrol,1,1046876.04,2,No,Yes,535687.09
+Tata,Tiago,22691.92,Diesel,15,808423.59,1,Yes,No,59629.98
+Honda,Amaze,108307.9,Petrol,2,827815.84,1,No,Yes,426282.0
+Kia,Carens,88974.44,Petrol,15,1292287.59,3,No,Yes,50000.0
+Volkswagen,Polo,52966.86,Diesel,7,929426.34,1,No,Yes,278835.36
+Maruti Suzuki,Brezza,95023.24,CNG,8,1046529.85,2,No,Yes,128755.64
+Toyota,Urban Cruiser,102532.86,Petrol,15,1015484.98,3,No,Yes,50000.0
+Honda,Elevate,13716.67,CNG,10,1439414.42,1,Yes,Yes,186936.62
+Volkswagen,Taigun,23618.13,Electric,5,1751197.79,2,Yes,Yes,829659.83
+Toyota,Fortuner,89512.94,Electric,15,3895117.58,3,Yes,No,255213.5
+Honda,City,109102.53,Petrol,1,1456955.17,1,No,Yes,1062126.27
+Hyundai,Venue,143032.6,Diesel,7,1151576.2,1,No,Yes,178709.99
+Volkswagen,Polo,80782.09,Diesel,14,909478.59,4,Yes,Yes,50000.0
+Mahindra,Bolero,140070.71,Diesel,12,1129904.82,3,Yes,Yes,50000.0
+Maruti Suzuki,Brezza,19192.1,Diesel,12,1039510.78,3,Yes,Yes,50000.0
+Hyundai,Venue,71127.16,Petrol,5,1124616.91,1,No,No,454848.66
+Volkswagen,Vento,79903.93,Electric,9,1367743.58,1,Yes,Yes,131906.61
+Tata,Safari,48303.03,Petrol,3,2039173.99,1,Yes,No,1386824.05
+Kia,Seltos,42695.81,Petrol,14,1658609.22,3,No,Yes,108319.96
+Maruti Suzuki,Swift,24509.96,Petrol,12,626237.01,2,Yes,Yes,50000.0
+Honda,Elevate,20460.47,Petrol,11,1414950.5,2,No,Yes,130562.74
+Hyundai,Verna,127383.33,Petrol,15,1211047.37,1,No,No,50000.0
+Mahindra,Bolero,38348.92,CNG,15,1027354.46,1,No,Yes,50000.0
+Maruti Suzuki,Swift,36983.58,Petrol,5,621517.88,2,No,No,273803.3
+Volkswagen,Virtus,19364.53,Diesel,12,1654960.55,1,Yes,Yes,165035.21
+Mahindra,Bolero,36460.54,CNG,5,1006659.64,1,No,No,549530.04
+Maruti Suzuki,Brezza,35963.27,Petrol,3,1036297.6,1,Yes,Yes,652651.64
+Volkswagen,Vento,33247.59,Diesel,1,1254696.06,1,No,Yes,1054432.11
+Mahindra,XUV700,22917.22,Petrol,1,2087585.07,1,No,No,1901058.77
+Toyota,Fortuner,19698.31,Petrol,14,3563251.87,2,Yes,Yes,438548.93
+Maruti Suzuki,Dzire,99341.9,Diesel,9,931084.33,2,No,No,53206.03
+Maruti Suzuki,Alto,110518.39,Diesel,15,554026.9,3,No,Yes,50000.0
+Tata,Safari,48204.29,Diesel,5,2249168.46,1,No,Yes,1178522.09
+Volkswagen,Polo,108121.03,CNG,12,859665.99,3,No,Yes,50000.0
+Mahindra,Thar,65732.75,CNG,4,1592959.71,2,Yes,Yes,815327.48
+Maruti Suzuki,Baleno,52406.25,Petrol,15,752942.08,1,No,No,50000.0
+Honda,Elevate,26750.51,CNG,1,1447308.93,3,Yes,Yes,992200.08
+Toyota,Glanza,126200.88,Electric,6,1082350.88,1,No,Yes,199818.17
+Hyundai,Verna,12186.78,CNG,12,1221536.35,4,No,Yes,143574.3
+Volkswagen,Vento,34825.0,Petrol,5,1233525.05,2,Yes,Yes,547430.96
+Kia,Seltos,25617.01,Petrol,15,1695291.89,1,No,No,233768.8
+Volkswagen,Virtus,77935.07,Diesel,10,1692173.2,3,Yes,No,101537.06
+Volkswagen,Vento,141537.32,Diesel,11,1219293.34,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,82348.93,Diesel,14,1177545.27,1,No,Yes,50000.0
+Mahindra,Scorpio,84196.59,Petrol,2,1625716.18,1,No,Yes,1133125.88
+Tata,Tiago,46201.35,Electric,4,991157.64,1,Yes,Yes,489775.8
+Toyota,Fortuner,113853.53,Diesel,5,3735868.7,2,Yes,Yes,1684236.24
+Mahindra,XUV300,45494.66,CNG,11,1157437.62,1,No,Yes,50000.0
+Mahindra,XUV300,70260.95,CNG,3,1203380.74,2,No,No,662439.75
+Kia,Seltos,63560.96,Electric,10,1925015.83,1,Yes,Yes,230450.27
+Hyundai,Venue,91534.83,CNG,11,1084664.29,1,No,No,50000.0
+Honda,Elevate,115015.26,Electric,11,1579647.59,3,No,No,50000.0
+Honda,Amaze,114854.39,Petrol,12,873014.47,1,No,Yes,50000.0
+Hyundai,Grand i10,12666.13,CNG,2,770085.29,2,No,No,549437.48
+Tata,Altroz,119783.67,Petrol,1,868915.27,1,No,Yes,492550.96
+Maruti Suzuki,Brezza,11368.71,Electric,8,1154327.39,1,No,Yes,420145.63
+Honda,City,140685.24,Diesel,1,1592534.74,1,Yes,Yes,1059600.54
+Kia,Sonet,140402.58,CNG,11,1034466.61,4,No,No,50000.0
+Tata,Safari,90330.64,Petrol,4,2040730.83,1,No,No,1116819.07
+Mahindra,Bolero,78285.64,Electric,15,1264990.34,1,No,Yes,50000.0
+Honda,Elevate,128929.74,CNG,10,1313511.92,1,Yes,Yes,50000.0
+Tata,Nexon,118834.71,Petrol,11,1104436.54,1,Yes,No,50000.0
+Hyundai,Venue,106280.46,Petrol,10,1025583.13,1,No,Yes,50000.0
+Tata,Nexon,134404.17,Electric,4,1370765.09,3,No,Yes,453315.98
+Honda,Amaze,121761.32,Petrol,8,847763.31,2,No,No,50000.0
+Kia,Carens,112899.7,Petrol,9,1323403.1,1,No,Yes,50000.0
+Honda,City,144352.56,Petrol,12,1460236.18,1,No,Yes,50000.0
+Volkswagen,Virtus,30196.78,CNG,14,1531277.49,2,No,Yes,120242.39
+Hyundai,Creta,124907.66,Electric,15,1871721.19,3,No,No,50000.0
+Mahindra,Scorpio,56805.82,CNG,4,1677707.9,1,No,Yes,995753.75
+Maruti Suzuki,Brezza,86075.34,Electric,8,1275981.97,3,Yes,Yes,128777.02
+Maruti Suzuki,Baleno,124713.74,Diesel,12,972776.91,2,Yes,Yes,50000.0
+Hyundai,Grand i10,117921.55,CNG,15,661217.15,2,No,Yes,50000.0
+Kia,Seltos,88121.26,CNG,7,1604222.09,3,No,Yes,407534.39
+Toyota,Innova,129537.75,Diesel,5,2738984.58,1,No,Yes,1332575.77
+Volkswagen,Taigun,21729.93,Petrol,14,1467778.85,3,No,Yes,119360.02
+Honda,City,109564.43,Diesel,15,1589300.0,1,No,Yes,50000.0
+Hyundai,i20,43475.86,CNG,5,889814.14,1,No,Yes,451355.4
+Mahindra,Thar,63113.58,Petrol,2,1553678.91,1,Yes,Yes,1111976.68
+Hyundai,i20,14102.65,Diesel,4,1002453.61,4,Yes,No,451881.21
+Toyota,Glanza,29680.28,CNG,11,922137.31,2,Yes,No,50000.0
+Maruti Suzuki,Baleno,37088.01,Diesel,9,941728.6,3,No,No,124682.33
+Maruti Suzuki,Alto,51885.25,Diesel,3,499842.01,2,No,No,250056.59
+Mahindra,Scorpio,51379.42,CNG,5,1666605.64,1,No,No,904371.34
+Volkswagen,Vento,56009.91,Electric,4,1369888.88,2,No,Yes,725749.06
+Mahindra,Scorpio,52202.83,Petrol,14,1727292.64,1,Yes,Yes,85282.39
+Tata,Harrier,129104.13,CNG,10,1892035.23,2,No,No,50000.0
+Hyundai,Creta,25187.36,Diesel,4,1747628.81,1,Yes,Yes,1049156.69
+Tata,Harrier,112228.67,Petrol,2,1811745.75,1,Yes,Yes,1188322.31
+Mahindra,XUV300,46653.53,Electric,5,1376121.92,3,Yes,Yes,492427.69
+Tata,Harrier,90984.57,Electric,10,2065557.11,1,No,Yes,194412.34
+Maruti Suzuki,Swift,71387.51,CNG,9,635112.06,3,No,No,50000.0
+Honda,City,13379.49,Petrol,11,1542794.82,1,Yes,Yes,120155.39
+Kia,Sonet,102846.95,Petrol,2,1057987.65,2,No,Yes,531580.29
+Honda,City,114470.23,Electric,7,1742769.72,1,No,Yes,445032.46
+Kia,Carens,90860.6,CNG,7,1329788.06,1,Yes,Yes,304272.89
+Volkswagen,Vento,21720.69,Electric,15,1464220.73,1,No,No,136731.38
+Maruti Suzuki,Alto,101037.85,Electric,8,665028.34,2,No,No,50000.0
+Honda,City,104099.83,Petrol,13,1501686.83,1,No,No,50000.0
+Kia,Carens,21170.85,CNG,15,1252797.31,1,Yes,Yes,84714.38
+Tata,Altroz,82845.73,Electric,5,1132203.44,1,Yes,Yes,467168.85
+Honda,City,69787.46,CNG,13,1432981.04,4,Yes,Yes,50000.0
+Tata,Tiago,16418.56,Diesel,11,834846.78,2,No,No,104603.44
+Kia,Carens,129560.07,Diesel,12,1442524.88,1,Yes,Yes,50000.0
+Tata,Tiago,41254.25,Petrol,9,747676.16,4,No,No,74339.9
+Volkswagen,Taigun,54620.81,Electric,11,1777083.1,4,No,Yes,61469.95
+Hyundai,Venue,48140.94,Electric,14,1267411.85,3,No,Yes,84953.93
+Honda,Amaze,87994.61,Petrol,11,914003.36,3,Yes,Yes,50000.0
+Volkswagen,Virtus,54705.61,Electric,14,1761262.27,1,No,Yes,141387.66
+Maruti Suzuki,Brezza,46488.52,Electric,8,1289410.51,1,Yes,No,288123.3
+Tata,Safari,134536.52,Electric,12,2289496.51,2,No,Yes,50000.0
+Volkswagen,Polo,55018.51,Electric,8,1156781.62,2,No,Yes,231551.83
+Honda,City,29212.44,Petrol,10,1407423.78,1,No,Yes,218709.86
+Kia,Carens,67444.31,CNG,1,1290239.51,1,Yes,No,964023.8
+Toyota,Innova,138040.12,Electric,5,2873174.6,1,No,No,1330401.13
+Toyota,Fortuner,92386.28,Electric,9,3888849.13,2,Yes,Yes,720476.18
+Tata,Nexon,107170.01,CNG,4,1169506.16,3,No,Yes,392691.34
+Honda,City,139283.89,Petrol,1,1470312.5,3,No,Yes,827328.21
+Maruti Suzuki,Alto,99678.56,Electric,6,745707.3,2,Yes,Yes,126870.58
+Maruti Suzuki,Swift,116064.14,CNG,6,674377.46,1,No,Yes,82165.96
+Maruti Suzuki,Alto,118411.25,Petrol,3,381541.98,1,Yes,No,50000.0
+Maruti Suzuki,Dzire,43948.98,Diesel,4,858150.23,1,No,Yes,426840.09
+Volkswagen,Taigun,135037.48,CNG,6,1435826.33,3,No,Yes,300955.59
+Tata,Safari,134339.19,CNG,11,2006850.09,4,No,No,50000.0
+Tata,Altroz,33601.36,Diesel,14,937819.59,1,No,No,93118.24
+Toyota,Innova,74652.92,Diesel,2,2658028.25,1,No,Yes,2076135.84
+Volkswagen,Virtus,82254.64,Diesel,10,1709496.51,1,Yes,Yes,112046.95
+Volkswagen,Vento,39534.17,Diesel,13,1248676.49,1,No,No,116230.49
+Tata,Altroz,141801.39,Petrol,13,850903.23,2,No,Yes,50000.0
+Toyota,Innova,97757.65,Petrol,9,2594975.76,1,No,Yes,422828.32
+Toyota,Glanza,44600.55,Electric,10,1159738.23,3,Yes,Yes,70535.21
+Hyundai,Grand i10,95561.87,CNG,7,771925.89,1,No,No,112875.84
+Toyota,Glanza,95910.97,CNG,3,903412.26,2,No,No,399768.83
+Maruti Suzuki,Baleno,89284.43,Diesel,3,947590.8,3,No,No,439868.05
+Honda,City,57508.63,Electric,13,1667647.89,2,No,Yes,114636.96
+Kia,Seltos,132902.48,Electric,7,1970292.23,3,Yes,Yes,396806.42
+Maruti Suzuki,Dzire,141619.64,Diesel,8,896172.84,2,No,Yes,50000.0
+Tata,Nexon,62900.55,Petrol,13,1202361.18,1,No,No,50000.0
+Toyota,Fortuner,86193.27,CNG,9,3516147.95,3,Yes,Yes,578763.74
+Honda,Elevate,61415.44,CNG,11,1324202.2,2,Yes,No,50000.0
+Kia,Seltos,117537.8,Diesel,5,1708841.66,3,Yes,Yes,510859.62
+Hyundai,Venue,76980.32,Electric,7,1257626.24,1,No,No,365824.89
+Honda,Amaze,105653.8,Diesel,7,940909.29,1,No,Yes,180935.0
+Mahindra,XUV700,95889.82,Petrol,13,2099335.76,2,No,Yes,50000.0
+Mahindra,Bolero,54441.02,Petrol,13,1022013.55,1,Yes,No,50000.0
+Mahindra,Scorpio,137906.64,Electric,6,1899945.48,2,No,No,615937.82
+Kia,Sonet,58659.75,Petrol,7,1077884.6,1,Yes,Yes,286497.67
+Maruti Suzuki,Dzire,35963.36,Petrol,13,763338.41,1,No,No,50000.0
+Toyota,Innova,27732.13,Electric,12,2873466.54,1,Yes,Yes,282175.91
+Maruti Suzuki,Swift,83648.64,Diesel,11,789170.6,2,Yes,Yes,50000.0
+Kia,Carens,105549.28,Diesel,14,1439848.24,3,No,No,50000.0
+Maruti Suzuki,Swift,40968.54,Petrol,13,610142.28,1,Yes,Yes,50000.0
+Tata,Nexon,147575.54,Petrol,2,1103257.38,2,Yes,Yes,462723.39
+Mahindra,XUV700,31239.97,Electric,12,2322951.03,2,Yes,Yes,170876.92
+Maruti Suzuki,Swift,79282.78,Electric,15,917773.8,1,No,Yes,50000.0
+Toyota,Fortuner,144013.9,CNG,1,3513041.19,1,No,No,2889834.35
+Toyota,Urban Cruiser,14196.36,CNG,11,1110641.6,2,No,Yes,101363.49
+Maruti Suzuki,Ertiga,125337.86,Petrol,2,1056691.34,1,No,Yes,590401.35
+Kia,Sonet,77680.78,Petrol,12,1013950.9,2,Yes,No,50000.0
+Hyundai,Verna,13122.83,CNG,6,1216702.76,1,No,Yes,543014.26
+Tata,Tiago,11355.44,Petrol,1,635390.77,2,Yes,Yes,429422.27
+Tata,Tiago,24834.41,Electric,2,983172.02,1,No,Yes,711657.38
+Volkswagen,Vento,120691.62,Petrol,12,1193803.29,2,No,No,50000.0
+Volkswagen,Virtus,46897.24,CNG,12,1548770.6,1,No,No,69010.57
+Hyundai,Grand i10,18910.84,Electric,9,1000879.85,1,No,Yes,245811.78
+Toyota,Innova,61680.26,Electric,2,2765038.57,3,Yes,Yes,1675354.8
+Hyundai,Verna,143627.48,Petrol,12,1323618.54,2,Yes,No,50000.0
+Maruti Suzuki,Ertiga,47576.47,Diesel,5,1109626.39,3,Yes,Yes,435944.44
+Hyundai,i20,78210.72,Petrol,5,917538.79,1,Yes,Yes,324355.61
+Tata,Nexon,76464.3,Petrol,9,1216946.52,3,No,Yes,111141.76
+Volkswagen,Polo,54502.6,Electric,8,1117770.87,1,No,No,226226.17
+Maruti Suzuki,Swift,89720.37,Petrol,6,744016.99,1,No,No,135613.56
+Volkswagen,Polo,34511.84,CNG,3,887426.55,1,No,Yes,581427.76
+Honda,Amaze,99231.94,Petrol,2,927981.2,1,Yes,No,491179.52
+Honda,Amaze,144991.58,Diesel,2,914292.84,2,Yes,No,366746.42
+Mahindra,Thar,17239.0,Electric,11,1893666.33,1,No,Yes,264136.24
+Hyundai,Venue,21036.63,Petrol,13,1134493.77,1,No,Yes,103420.06
+Mahindra,Thar,51505.33,Diesel,5,1686560.47,1,No,Yes,916812.14
+Tata,Harrier,128502.17,Diesel,12,1929908.75,3,No,Yes,50000.0
+Tata,Safari,45451.73,Petrol,8,2044031.74,1,No,Yes,604445.22
+Kia,Sonet,126812.88,CNG,7,1122397.47,2,Yes,No,134972.61
+Volkswagen,Virtus,107116.53,Diesel,8,1713422.71,2,No,Yes,296671.19
+Maruti Suzuki,Baleno,35491.2,Diesel,15,911640.93,3,No,Yes,68977.05
+Volkswagen,Virtus,38672.75,Petrol,13,1573006.03,2,No,No,172422.86
+Hyundai,i20,120309.63,Electric,8,1055816.62,2,No,No,50000.0
+Maruti Suzuki,Swift,58765.73,Electric,5,882611.31,1,Yes,No,359530.04
+Maruti Suzuki,Brezza,130653.87,CNG,7,981964.06,2,No,Yes,50000.0
+Volkswagen,Taigun,103428.64,Diesel,8,1572212.49,1,No,No,336723.0
+Hyundai,Venue,30340.06,Petrol,1,1101305.65,2,No,Yes,825963.46
+Toyota,Innova,109404.74,CNG,8,2636006.14,2,No,Yes,619982.79
+Toyota,Fortuner,29804.93,Electric,12,3832342.25,1,No,No,545905.69
+Tata,Altroz,116998.46,CNG,14,836599.84,1,No,Yes,50000.0
+Volkswagen,Virtus,76512.09,Petrol,12,1514612.99,1,No,Yes,50000.0
+Hyundai,Verna,14247.69,Electric,12,1483533.82,1,No,Yes,186696.74
+Mahindra,Thar,140396.7,Electric,5,1840122.89,1,Yes,Yes,746083.21
+Kia,Sonet,148534.57,Diesel,6,1215482.39,2,No,No,269714.72
+Hyundai,Grand i10,17715.17,CNG,7,727716.63,2,Yes,Yes,182823.17
+Honda,City,61173.29,Petrol,11,1454426.95,4,Yes,No,50000.0
+Volkswagen,Polo,83804.87,Petrol,3,947733.16,2,No,Yes,407250.54
+Maruti Suzuki,Brezza,113431.5,Diesel,10,1067689.48,1,Yes,Yes,50000.0
+Hyundai,Verna,121052.07,Diesel,15,1372163.29,3,Yes,Yes,50000.0
+Volkswagen,Polo,144552.26,CNG,5,832119.22,1,No,Yes,135089.56
+Toyota,Fortuner,51722.29,Petrol,8,3626933.21,1,No,Yes,1130830.1
+Hyundai,Verna,62702.12,CNG,2,1338904.51,1,Yes,Yes,955654.36
+Maruti Suzuki,Swift,95490.52,Electric,5,934511.86,4,No,Yes,235504.17
+Maruti Suzuki,Alto,68025.05,Petrol,8,409772.1,2,No,Yes,50000.0
+Kia,Carens,81533.16,Electric,3,1581244.08,1,Yes,No,932321.9
+Maruti Suzuki,Swift,44852.3,Electric,3,977367.87,1,No,Yes,651915.69
+Volkswagen,Virtus,25937.07,Diesel,13,1707079.9,1,Yes,Yes,205976.5
+Hyundai,i20,45377.62,Petrol,11,840841.28,2,No,Yes,50000.0
+Honda,Amaze,41668.59,Diesel,4,952751.34,1,No,Yes,574450.51
+Volkswagen,Vento,38505.49,Electric,5,1402305.17,2,No,Yes,691210.74
+Mahindra,Scorpio,30154.9,Petrol,15,1662362.7,2,No,No,189220.12
+Kia,Sonet,91291.06,Electric,5,1262331.22,1,No,Yes,547025.44
+Hyundai,Creta,140163.21,Electric,8,1815721.31,2,Yes,Yes,246912.28
+Kia,Seltos,66035.75,Electric,9,1947575.59,2,No,Yes,381443.0
+Tata,Harrier,84136.28,Diesel,8,1966487.84,2,Yes,No,420763.01
+Volkswagen,Vento,113414.96,CNG,14,1147009.08,4,No,No,50000.0
+Mahindra,XUV700,44222.19,Electric,7,2319685.23,1,Yes,Yes,898833.73
+Tata,Harrier,12414.76,Diesel,13,1940079.04,2,No,Yes,192485.11
+Honda,Elevate,129874.98,Electric,13,1615681.54,3,Yes,Yes,50000.0
+Hyundai,Grand i10,138652.92,Diesel,4,831325.57,2,No,Yes,209108.43
+Toyota,Fortuner,75797.97,Petrol,6,3534619.0,3,Yes,Yes,1260421.81
+Volkswagen,Vento,93997.72,Diesel,5,1321026.77,1,No,Yes,525985.22
+Honda,City,52493.63,Diesel,14,1636238.7,2,No,Yes,121170.23
+Kia,Carens,142375.61,Electric,12,1596123.1,2,Yes,Yes,50000.0
+Tata,Harrier,74590.96,Petrol,6,1918810.61,1,Yes,Yes,774452.67
+Honda,City,70390.75,Petrol,3,1535698.5,2,Yes,Yes,865585.07
+Hyundai,Verna,93542.27,Electric,3,1582604.56,2,No,Yes,825270.68
+Volkswagen,Vento,71407.17,Petrol,7,1243327.29,3,No,Yes,280026.87
+Toyota,Urban Cruiser,80591.62,Petrol,4,1107371.09,3,Yes,No,387907.58
+Tata,Harrier,48991.03,Petrol,11,1890962.21,2,Yes,Yes,130782.49
+Tata,Tiago,119685.0,Diesel,6,764840.24,2,No,Yes,104668.28
+Maruti Suzuki,Swift,125850.78,Electric,5,874752.78,1,No,Yes,213350.85
+Hyundai,Verna,65548.95,Petrol,8,1326599.51,2,No,Yes,291882.36
+Maruti Suzuki,Ertiga,31899.65,CNG,7,1110489.35,4,No,Yes,251211.88
+Hyundai,i20,141733.49,Electric,5,1152698.47,2,No,Yes,273492.34
+Maruti Suzuki,Dzire,142366.18,Diesel,10,938603.24,1,No,Yes,50000.0
+Tata,Nexon,128824.1,Diesel,9,1249356.34,2,No,Yes,50000.0
+Hyundai,Verna,135897.51,Petrol,14,1260340.76,2,Yes,Yes,50000.0
+Mahindra,Thar,95260.47,CNG,7,1620161.83,1,No,No,426304.01
+Hyundai,Venue,41713.34,Diesel,10,1221112.42,4,No,Yes,80531.0
+Tata,Harrier,40009.79,Petrol,6,1824652.13,2,Yes,Yes,729309.47
+Tata,Tiago,142023.52,Petrol,6,629457.39,1,No,Yes,50000.0
+Maruti Suzuki,Swift,82564.71,Diesel,1,821276.82,1,No,Yes,518272.21
+Honda,Amaze,23012.11,CNG,6,898353.89,1,No,Yes,363457.94
+Maruti Suzuki,Baleno,70280.82,Petrol,1,815750.86,2,No,Yes,527958.49
+Volkswagen,Taigun,57031.69,Diesel,6,1532048.09,1,No,Yes,658659.42
+Maruti Suzuki,Brezza,64136.25,Petrol,13,970637.55,1,Yes,Yes,50000.0
+Kia,Seltos,26790.79,Electric,4,1854133.8,1,No,No,1149245.52
+Mahindra,XUV700,115194.4,Diesel,1,2134960.02,1,No,Yes,1714841.99
+Hyundai,i20,144634.97,CNG,9,858122.96,2,No,No,50000.0
+Volkswagen,Taigun,146753.76,Diesel,8,1635321.87,1,Yes,Yes,219621.2
+Toyota,Innova,106508.19,Electric,15,2759912.48,2,No,Yes,151410.31
+Honda,Elevate,60936.83,CNG,11,1407311.4,2,No,Yes,50000.0
+Kia,Sonet,87143.79,Diesel,1,1197003.89,2,No,Yes,758011.53
+Volkswagen,Virtus,86508.77,Petrol,8,1563308.88,2,No,Yes,272317.1
+Hyundai,Verna,54337.27,CNG,12,1325679.88,3,No,Yes,50000.0
+Maruti Suzuki,Ertiga,13105.34,CNG,6,1059732.23,2,Yes,No,395925.05
+Tata,Altroz,125916.5,CNG,10,909011.56,2,No,Yes,50000.0
+Toyota,Innova,66691.09,Diesel,7,2636515.82,1,No,Yes,1010048.13
+Volkswagen,Virtus,54399.06,Diesel,10,1708915.78,3,No,Yes,124278.36
+Maruti Suzuki,Swift,99866.86,CNG,11,608298.35,3,Yes,Yes,50000.0
+Toyota,Fortuner,27128.8,Petrol,14,3572784.97,3,No,Yes,319098.26
+Honda,Elevate,28490.02,Diesel,1,1529834.15,1,No,No,1316641.3
+Mahindra,Scorpio,107166.36,Diesel,15,1728852.42,2,Yes,Yes,50000.0
+Tata,Nexon,136055.09,CNG,9,1241179.32,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,12610.03,Electric,13,1322395.28,3,No,No,105603.14
+Mahindra,XUV300,73125.18,CNG,3,1113309.84,1,No,Yes,623947.01
+Kia,Seltos,43670.71,CNG,13,1707380.31,1,No,No,146978.02
+Tata,Safari,140967.81,CNG,11,2031400.31,3,Yes,Yes,50000.0
+Maruti Suzuki,Dzire,16941.17,Petrol,15,840068.1,1,No,Yes,107529.3
+Hyundai,Creta,54901.18,Diesel,1,1606959.77,1,No,Yes,1320663.13
+Tata,Harrier,46389.65,Petrol,7,1824381.15,2,Yes,Yes,575549.43
+Toyota,Urban Cruiser,122074.73,Electric,7,1259039.6,2,No,Yes,174568.21
+Honda,Elevate,29054.48,Petrol,11,1357611.17,4,Yes,Yes,101922.59
+Maruti Suzuki,Swift,138506.3,Electric,4,944602.13,2,No,Yes,206707.97
+Mahindra,XUV700,136889.51,Petrol,7,2095794.58,2,Yes,No,542872.7
+Tata,Nexon,25500.36,Electric,12,1360661.7,4,No,Yes,125656.83
+Toyota,Urban Cruiser,56687.81,Petrol,11,1094173.76,2,No,No,70075.67
+Mahindra,Bolero,115921.25,CNG,12,1019199.81,2,Yes,Yes,50000.0
+Tata,Safari,41342.58,CNG,9,2010338.99,3,No,Yes,364866.64
+Honda,Amaze,41481.18,Electric,14,1193636.09,1,No,Yes,50000.0
+Toyota,Fortuner,79747.19,CNG,15,3502670.9,2,Yes,Yes,270566.18
+Volkswagen,Taigun,119382.26,Petrol,1,1544358.79,1,No,Yes,1112574.74
+Mahindra,XUV300,126697.07,Electric,3,1394316.65,1,Yes,Yes,755997.19
+Maruti Suzuki,Brezza,44752.53,Diesel,3,1091723.65,1,Yes,No,713623.34
+Mahindra,Scorpio,66176.76,Electric,1,1879913.85,1,No,No,1601032.32
+Hyundai,Grand i10,75743.52,Petrol,3,679259.25,1,Yes,No,296285.9
+Honda,Elevate,47045.04,Petrol,14,1414560.62,1,No,No,142719.17
+Hyundai,Verna,30356.27,Petrol,6,1203330.31,1,Yes,Yes,544652.51
+Volkswagen,Virtus,45743.96,Petrol,15,1631166.44,4,Yes,Yes,101584.39
+Tata,Nexon,78607.51,Electric,8,1491935.02,2,Yes,No,264143.26
+Kia,Seltos,70585.87,Petrol,5,1653824.26,1,No,Yes,786102.37
+Hyundai,Grand i10,38253.42,Diesel,13,837981.9,2,No,Yes,50000.0
+Honda,Amaze,65213.12,Electric,11,1188631.51,1,No,Yes,50000.0
+Volkswagen,Polo,43909.5,CNG,2,843880.17,3,No,No,434390.37
+Tata,Nexon,90572.12,Electric,10,1404345.27,2,Yes,No,60016.77
+Tata,Tiago,65963.9,CNG,4,620679.29,1,No,Yes,294952.37
+Kia,Carens,19138.89,Electric,5,1564899.85,1,No,No,939773.67
+Mahindra,XUV300,58650.68,CNG,15,1157137.99,1,Yes,No,50000.0
+Honda,City,27281.19,CNG,8,1453576.91,1,Yes,Yes,432136.94
+Maruti Suzuki,Baleno,69944.13,Diesel,14,953394.71,3,Yes,Yes,50000.0
+Volkswagen,Taigun,108302.19,CNG,10,1467323.92,2,No,Yes,50000.0
+Maruti Suzuki,Ertiga,76862.24,Diesel,2,1141915.8,1,No,No,750796.2
+Mahindra,Scorpio,142794.41,CNG,15,1717333.84,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,38114.63,Electric,5,1357678.81,3,Yes,Yes,512489.4
+Kia,Seltos,128100.75,CNG,7,1618196.23,1,Yes,No,369439.03
+Kia,Carens,40519.17,CNG,12,1280774.0,1,Yes,No,73880.0
+Kia,Seltos,102824.11,Diesel,5,1819366.67,2,Yes,No,704171.79
+Toyota,Innova,94813.34,CNG,1,2525446.94,1,No,Yes,2094764.38
+Hyundai,Creta,65480.51,Petrol,3,1617153.74,3,No,No,878734.5
+Toyota,Innova,53307.03,Electric,8,2831761.15,2,Yes,No,726463.47
+Honda,City,61479.25,Diesel,5,1606818.75,1,Yes,Yes,770509.43
+Mahindra,Scorpio,14602.57,Electric,4,1948582.94,4,Yes,No,833457.81
+Mahindra,XUV700,71660.86,Diesel,13,2123515.42,2,Yes,Yes,124249.5
+Hyundai,Grand i10,16368.04,CNG,2,734642.58,1,No,No,581539.95
+Kia,Seltos,93882.05,Electric,9,1969571.63,1,No,Yes,285808.57
+Tata,Altroz,49753.63,Diesel,7,980770.49,2,Yes,No,203881.23
+Kia,Carens,72976.1,Petrol,1,1291162.43,2,Yes,Yes,917907.67
+Mahindra,XUV700,130454.79,Diesel,8,2206221.53,1,No,Yes,422645.7
+Hyundai,Venue,78989.78,Electric,14,1279054.97,1,No,No,50000.0
+Honda,Amaze,133393.21,Petrol,10,903954.41,1,No,No,50000.0
+Mahindra,Scorpio,83476.08,CNG,7,1691560.45,2,Yes,Yes,479147.19
+Volkswagen,Polo,106647.93,CNG,6,889931.26,2,Yes,Yes,135480.49
+Mahindra,XUV300,134753.17,CNG,9,1218446.0,2,No,Yes,50000.0
+Honda,Amaze,83680.7,Electric,4,1178297.18,2,Yes,Yes,458241.28
+Kia,Carens,143061.06,Electric,6,1511233.93,1,No,Yes,407004.18
+Hyundai,Verna,91821.52,Petrol,5,1248577.53,1,No,Yes,493252.96
+Honda,City,128325.17,Petrol,5,1444297.86,2,Yes,Yes,440358.76
+Hyundai,Grand i10,18899.34,Diesel,1,782583.57,1,No,Yes,647350.61
+Mahindra,XUV700,57335.6,CNG,13,2135898.16,4,No,No,161601.86
+Hyundai,Verna,115398.99,Petrol,3,1201361.8,1,Yes,Yes,589612.64
+Volkswagen,Vento,72037.56,Electric,11,1370308.89,3,Yes,No,50000.0
+Maruti Suzuki,Baleno,32847.69,CNG,4,866922.33,1,Yes,Yes,511719.15
+Toyota,Urban Cruiser,52201.96,Petrol,7,1011019.41,3,Yes,Yes,241763.73
+Volkswagen,Virtus,139729.44,Diesel,9,1613374.98,3,No,No,77630.16
+Hyundai,Creta,120236.32,Electric,4,1790903.54,2,No,Yes,815818.55
+Hyundai,Grand i10,111090.98,Electric,1,937949.32,2,Yes,No,475627.63
+Hyundai,Grand i10,17379.31,Electric,6,1022050.29,1,Yes,Yes,450327.97
+Honda,Amaze,120808.98,Petrol,5,861967.12,1,Yes,Yes,221759.97
+Volkswagen,Vento,25613.65,Diesel,14,1206980.5,2,No,Yes,127581.46
+Maruti Suzuki,Dzire,113904.48,Petrol,5,804303.2,2,No,No,158694.41
+Volkswagen,Polo,123052.9,CNG,8,817580.97,3,No,Yes,50000.0
+Honda,Amaze,17936.34,Electric,2,1157401.17,1,No,Yes,898468.04
+Volkswagen,Polo,118809.69,Electric,4,1181613.28,1,No,Yes,518465.03
+Honda,City,47809.25,CNG,8,1466965.25,1,No,Yes,440527.54
+Maruti Suzuki,Swift,64985.0,CNG,4,724808.27,1,No,No,366027.54
+Hyundai,Venue,123038.96,CNG,2,1149522.34,3,No,Yes,548952.77
+Kia,Carens,139294.99,Electric,1,1572740.25,2,No,No,1004823.85
+Tata,Safari,106926.14,Electric,9,2326810.14,1,No,Yes,394755.33
+Volkswagen,Vento,128831.39,Petrol,14,1199091.86,1,Yes,Yes,50000.0
+Honda,Amaze,134843.92,Petrol,8,867634.2,1,No,No,50000.0
+Hyundai,Verna,138155.26,CNG,11,1202679.41,1,No,Yes,50000.0
+Volkswagen,Vento,128057.45,Diesel,11,1218363.43,2,No,Yes,50000.0
+Volkswagen,Virtus,100839.75,CNG,5,1536985.2,3,No,Yes,478904.44
+Honda,Amaze,21454.58,CNG,9,882876.44,4,Yes,Yes,146170.85
+Kia,Seltos,100947.93,Petrol,1,1725302.11,1,Yes,Yes,1257913.75
+Volkswagen,Polo,74047.45,Petrol,13,903937.03,3,Yes,Yes,50000.0
+Hyundai,Verna,139286.67,Electric,12,1520532.47,2,Yes,No,50000.0
+Honda,Elevate,35563.26,Petrol,6,1388349.37,1,No,Yes,597383.29
+Honda,Elevate,125868.48,Diesel,11,1544135.28,2,No,No,50000.0
+Kia,Seltos,122313.66,Petrol,6,1697672.32,1,No,Yes,578274.31
+Maruti Suzuki,Dzire,95541.77,Petrol,3,771799.45,1,Yes,Yes,279849.73
+Toyota,Urban Cruiser,96341.03,Diesel,11,1111112.06,1,Yes,Yes,50000.0
+Volkswagen,Vento,106625.52,CNG,6,1238671.55,2,No,No,360480.04
+Maruti Suzuki,Baleno,81097.64,Diesel,2,987015.33,1,Yes,Yes,583113.75
+Toyota,Innova,133823.11,Petrol,6,2519299.48,4,No,Yes,678834.09
+Maruti Suzuki,Brezza,23274.0,Diesel,5,1121876.82,4,No,Yes,453808.09
+Maruti Suzuki,Baleno,19423.6,Diesel,12,871631.0,3,No,Yes,52975.61
+Hyundai,Verna,105039.08,Diesel,8,1433135.1,1,No,Yes,289205.02
+Mahindra,XUV700,83229.81,Diesel,9,2113804.12,1,No,Yes,422542.01
+Toyota,Innova,79589.72,Electric,3,2855092.88,1,No,Yes,1993131.02
+Hyundai,Creta,88450.84,Diesel,7,1715869.39,1,No,Yes,572989.79
+Toyota,Innova,130717.0,Diesel,1,2634657.85,2,Yes,Yes,1880838.43
+Honda,City,61762.63,Diesel,7,1525543.21,2,Yes,No,445266.89
+Maruti Suzuki,Dzire,41701.19,Diesel,11,807835.05,3,Yes,Yes,50000.0
+Volkswagen,Polo,75479.0,Diesel,6,1042563.82,1,No,Yes,351281.56
+Hyundai,Verna,48074.4,Diesel,10,1330592.34,1,No,No,97694.71
+Honda,Elevate,15382.19,Electric,2,1683667.83,3,Yes,Yes,1068757.51
+Hyundai,Grand i10,36450.17,Petrol,7,775529.8,3,No,Yes,238856.55
+Mahindra,Bolero,37380.65,Petrol,10,1082613.36,1,Yes,No,95167.14
+Tata,Altroz,55599.76,Petrol,6,893134.97,1,No,No,314715.16
+Mahindra,Bolero,137835.64,Diesel,7,1063933.25,1,No,Yes,127325.44
+Mahindra,XUV700,106631.14,Diesel,7,2198441.81,1,Yes,No,659835.34
+Mahindra,Thar,142299.22,Petrol,15,1635933.36,2,No,Yes,50000.0
+Hyundai,Creta,86120.26,Diesel,5,1730606.35,1,No,Yes,769729.49
+Honda,Amaze,147438.22,Electric,15,1051729.46,3,No,No,50000.0
+Toyota,Innova,44081.4,CNG,2,2505659.76,1,No,Yes,2014836.63
+Tata,Nexon,57331.95,CNG,10,1190373.96,2,No,No,51350.52
+Kia,Seltos,16855.45,Petrol,12,1713410.3,2,No,Yes,150711.95
+Toyota,Urban Cruiser,142694.99,Petrol,5,1131662.31,3,No,Yes,241671.12
+Hyundai,Verna,59215.26,Petrol,5,1274769.13,1,Yes,No,576264.9
+Maruti Suzuki,Alto,62427.45,Diesel,4,542707.07,2,No,Yes,189961.62
+Mahindra,Scorpio,41868.81,Electric,2,1908738.43,3,No,No,1213428.93
+Tata,Tiago,30257.47,Diesel,11,837302.84,3,Yes,Yes,50000.0
+Volkswagen,Taigun,57045.7,Diesel,11,1555164.24,2,No,Yes,104991.6
+Volkswagen,Polo,88804.22,Electric,1,1183927.05,3,No,Yes,639234.72
+Tata,Nexon,19309.34,CNG,14,1170757.53,2,No,Yes,128660.68
+Maruti Suzuki,Baleno,112115.24,Diesel,7,964881.78,1,Yes,Yes,72838.09
+Hyundai,Creta,14715.16,Electric,10,1836986.14,2,Yes,No,296325.77
+Tata,Safari,82990.83,CNG,11,2125930.16,1,No,Yes,117341.94
+Tata,Tiago,97366.69,Petrol,3,705958.35,1,No,Yes,278213.05
+Honda,City,109793.16,Petrol,6,1475509.14,1,No,Yes,515958.3
+Maruti Suzuki,Baleno,139319.97,Diesel,8,883441.41,3,No,Yes,50000.0
+Maruti Suzuki,Swift,115278.75,CNG,4,721722.36,1,No,No,163734.3
+Honda,Amaze,65105.99,Petrol,8,832785.75,1,No,No,125464.83
+Tata,Nexon,13393.27,Petrol,10,1164674.34,2,No,Yes,154197.62
+Maruti Suzuki,Alto,54988.17,Petrol,12,495874.12,3,Yes,Yes,50000.0
+Mahindra,Bolero,59255.09,Electric,7,1310778.24,1,No,Yes,465601.68
+Honda,Amaze,67792.5,CNG,4,866167.76,2,Yes,Yes,332485.19
+Hyundai,i20,142708.32,Electric,13,1137326.96,1,No,Yes,50000.0
+Honda,Elevate,148163.73,Petrol,9,1382460.77,1,No,Yes,50000.0
+Tata,Nexon,75971.17,Electric,11,1358836.32,1,Yes,Yes,50000.0
+Toyota,Innova,129973.25,Electric,6,2888644.6,1,Yes,Yes,1092394.91
+Volkswagen,Virtus,123422.24,Electric,9,1892528.11,1,Yes,No,216991.2
+Maruti Suzuki,Baleno,55753.37,CNG,13,838532.54,2,Yes,Yes,50000.0
+Hyundai,Grand i10,149604.29,Electric,3,981343.41,1,No,Yes,320673.75
+Maruti Suzuki,Baleno,139019.87,Diesel,2,971461.98,2,No,No,467999.75
+Volkswagen,Polo,74493.3,Electric,9,1097676.07,1,No,Yes,86253.71
+Tata,Altroz,85920.2,Diesel,15,1028656.3,2,Yes,Yes,50000.0
+Hyundai,Verna,144402.74,CNG,1,1347805.64,2,No,No,810591.08
+Maruti Suzuki,Swift,80157.7,Petrol,10,709905.65,1,No,Yes,50000.0
+Maruti Suzuki,Alto,90932.72,Petrol,9,417765.58,2,Yes,Yes,50000.0
+Hyundai,Venue,148578.98,Petrol,14,1057428.77,1,No,Yes,50000.0
+Mahindra,Bolero,69822.97,Petrol,14,1081355.23,1,No,Yes,50000.0
+Hyundai,i20,73900.99,Diesel,3,932789.7,3,No,Yes,382833.91
+Maruti Suzuki,Ertiga,115095.13,CNG,6,1062362.89,2,No,Yes,189920.04
+Toyota,Fortuner,45789.53,CNG,11,3537302.49,4,Yes,Yes,245654.49
+Toyota,Glanza,47211.24,Diesel,2,1013732.86,1,No,Yes,731621.17
+Tata,Tiago,25187.58,Electric,11,905285.44,3,No,Yes,69358.79
+Maruti Suzuki,Swift,101926.39,Electric,6,981133.26,1,No,Yes,273917.8
+Honda,Amaze,100847.46,Petrol,14,862052.46,2,Yes,No,50000.0
+Kia,Seltos,135990.44,Electric,5,1924751.56,1,No,Yes,772383.45
+Mahindra,Bolero,69551.12,Diesel,2,1065262.84,2,No,No,620512.32
+Mahindra,Thar,112894.96,Diesel,8,1704448.1,3,Yes,Yes,278753.42
+Hyundai,Grand i10,139111.93,CNG,1,688397.19,2,No,Yes,201679.03
+Honda,Elevate,107856.14,Diesel,10,1481789.49,3,Yes,Yes,50000.0
+Honda,Amaze,18373.73,Electric,9,1085220.86,2,No,Yes,177031.52
+Mahindra,Scorpio,64900.05,Diesel,5,1766336.25,2,Yes,Yes,799245.79
+Kia,Carens,88578.43,Petrol,1,1330744.58,3,No,No,788981.6
+Hyundai,Verna,30976.54,Electric,10,1573660.25,1,Yes,Yes,182820.05
+Volkswagen,Polo,53864.53,CNG,10,809637.26,1,Yes,Yes,50000.0
+Honda,Elevate,75334.35,Diesel,2,1539972.37,2,No,Yes,951370.07
+Volkswagen,Vento,42097.68,Electric,11,1433928.07,1,No,No,132567.61
+Kia,Carens,77976.12,CNG,10,1313437.62,1,No,Yes,71714.42
+Mahindra,Thar,25195.61,CNG,5,1559990.85,1,Yes,Yes,858073.72
+Maruti Suzuki,Dzire,130327.28,CNG,12,822785.22,4,No,Yes,50000.0
+Maruti Suzuki,Baleno,136640.26,Electric,3,1013518.45,2,No,Yes,358533.47
+Kia,Sonet,52463.27,Petrol,6,1088842.7,2,Yes,Yes,330741.18
+Toyota,Fortuner,98238.04,Petrol,5,3615317.44,1,No,Yes,1881845.14
+Volkswagen,Taigun,99399.13,CNG,12,1455633.64,1,No,Yes,50000.0
+Tata,Harrier,70604.6,CNG,12,1881615.6,4,Yes,Yes,50000.0
+Volkswagen,Taigun,109114.76,Diesel,8,1630380.07,2,Yes,Yes,215568.0
+Hyundai,Grand i10,142669.47,Diesel,1,764428.65,1,Yes,No,319990.6
+Tata,Safari,81171.12,CNG,13,2128120.1,2,No,Yes,63297.65
+Honda,Elevate,125973.45,Petrol,10,1301904.33,4,No,No,50000.0
+Hyundai,Grand i10,48650.91,CNG,4,702616.99,1,No,No,318995.22
+Mahindra,XUV700,89732.7,Petrol,11,2014177.21,1,Yes,No,88068.67
+Maruti Suzuki,Ertiga,72007.54,CNG,6,1051295.36,1,No,Yes,315506.6
+Toyota,Innova,76662.28,Petrol,3,2616184.7,2,No,Yes,1646025.3
+Hyundai,Verna,40381.59,Electric,11,1523388.55,4,No,Yes,106459.88
+Tata,Harrier,95682.56,CNG,2,1913900.2,4,Yes,Yes,967481.64
+Toyota,Glanza,86492.87,Electric,14,1133889.63,4,No,Yes,50000.0
+Mahindra,XUV300,137700.45,Diesel,10,1222103.59,2,No,Yes,50000.0
+Hyundai,Creta,66493.95,Electric,5,1896794.35,2,No,No,862812.78
+Hyundai,i20,14465.48,Petrol,7,812359.83,2,No,Yes,298762.48
+Volkswagen,Polo,21711.77,Diesel,2,1013187.63,3,Yes,No,566399.51
+Toyota,Glanza,89124.54,Electric,4,1123206.96,2,Yes,Yes,497258.26
+Volkswagen,Virtus,118681.24,Diesel,9,1697103.66,2,No,Yes,149691.88
+Tata,Altroz,123114.84,Diesel,13,1001984.43,2,Yes,Yes,50000.0
+Volkswagen,Polo,148198.3,Petrol,7,876828.43,1,Yes,No,50000.0
+Volkswagen,Taigun,61553.57,Electric,2,1694835.63,1,No,No,1271578.34
+Toyota,Glanza,99951.66,Petrol,8,884022.65,3,Yes,Yes,67373.79
+Tata,Tiago,133775.38,Petrol,2,625958.67,3,No,Yes,123711.72
+Kia,Sonet,85662.17,Electric,8,1316161.28,4,Yes,No,161882.74
+Hyundai,Verna,140122.36,Electric,1,1561608.48,1,No,No,1038583.5
+Honda,Amaze,53672.54,Diesel,12,961332.21,1,Yes,Yes,50000.0
+Hyundai,Verna,30921.23,Electric,5,1503464.55,1,No,Yes,774875.35
+Kia,Carens,36841.66,CNG,10,1295941.42,2,Yes,Yes,107137.52
+Kia,Sonet,52795.26,Petrol,15,1134061.35,2,No,Yes,50000.0
+Mahindra,XUV700,149077.97,Electric,3,2310513.06,1,Yes,No,1329645.44
+Honda,Elevate,36576.22,Petrol,5,1325428.86,1,No,Yes,740396.26
+Hyundai,Creta,80929.51,CNG,14,1603947.54,2,Yes,No,50000.0
+Honda,Amaze,108191.81,Petrol,11,921633.71,3,No,Yes,50000.0
+Hyundai,Creta,12903.92,Petrol,8,1567408.67,1,No,No,491903.19
+Maruti Suzuki,Dzire,65087.6,CNG,12,814176.68,1,No,Yes,50000.0
+Toyota,Glanza,79905.21,Petrol,7,896454.82,1,No,No,200914.7
+Kia,Seltos,73603.66,Electric,7,1912921.01,2,Yes,Yes,584512.8
+Honda,Elevate,107936.07,Diesel,14,1409365.89,1,No,Yes,50000.0
+Volkswagen,Virtus,139065.52,CNG,8,1530863.85,1,Yes,No,192426.5
+Maruti Suzuki,Swift,111044.66,Electric,10,900723.01,3,No,Yes,50000.0
+Hyundai,Grand i10,117359.73,CNG,8,691429.29,2,No,No,50000.0
+Hyundai,Grand i10,113356.49,Petrol,10,778789.75,1,No,Yes,50000.0
+Mahindra,Bolero,78705.63,Petrol,10,1049440.21,3,Yes,Yes,50000.0
+Hyundai,Grand i10,149352.9,Electric,13,970041.31,2,No,No,50000.0
+Mahindra,XUV700,94239.44,Petrol,13,2048508.53,2,No,No,69420.44
+Maruti Suzuki,Baleno,136243.7,CNG,8,877556.13,1,No,Yes,50000.0
+Volkswagen,Virtus,120226.33,Diesel,9,1685121.78,1,Yes,Yes,90109.83
+Maruti Suzuki,Brezza,95867.47,Electric,3,1194432.54,1,No,No,685213.08
+Hyundai,Creta,103237.31,Electric,8,1894862.66,1,No,Yes,433354.71
+Volkswagen,Vento,101323.16,CNG,2,1159033.93,2,Yes,No,636739.55
+Tata,Harrier,55663.49,Electric,1,2160612.61,1,Yes,No,1776893.02
+Kia,Sonet,134383.65,Diesel,14,1120704.36,3,No,No,50000.0
+Maruti Suzuki,Brezza,137165.15,Petrol,10,924079.0,2,No,Yes,50000.0
+Kia,Carens,137833.92,Petrol,10,1267016.56,3,No,No,50000.0
+Honda,City,39576.66,Electric,6,1776623.32,1,Yes,No,801654.77
+Volkswagen,Taigun,67564.14,Petrol,12,1503857.13,2,No,Yes,50000.0
+Toyota,Urban Cruiser,25506.49,Petrol,5,1002671.74,3,Yes,Yes,430089.03
+Hyundai,i20,95527.68,Diesel,8,1021290.11,1,Yes,No,104083.91
+Toyota,Fortuner,131972.19,Electric,8,3836559.73,3,No,Yes,815841.08
+Honda,Elevate,119234.32,Electric,5,1576276.64,2,No,No,580288.87
+Hyundai,Venue,27152.7,CNG,9,1013328.35,1,Yes,Yes,131412.22
+Hyundai,Verna,95931.14,Electric,5,1524007.98,2,Yes,Yes,604525.74
+Volkswagen,Polo,27412.58,Electric,6,1187669.9,2,Yes,Yes,441630.84
+Maruti Suzuki,Dzire,108664.15,Diesel,9,839737.27,2,Yes,Yes,50000.0
+Maruti Suzuki,Alto,110095.57,CNG,9,480580.05,2,Yes,Yes,50000.0
+Volkswagen,Polo,27089.81,Petrol,3,900356.76,1,Yes,No,631883.11
+Tata,Harrier,62010.38,Petrol,4,1933964.43,1,Yes,Yes,1165282.26
+Mahindra,XUV700,63029.71,CNG,4,2030971.68,1,No,No,1184971.53
+Volkswagen,Taigun,113828.87,Petrol,3,1475156.33,2,Yes,Yes,675159.73
+Honda,Elevate,130023.76,Electric,14,1614668.64,1,No,Yes,50000.0
+Kia,Sonet,102532.17,Diesel,6,1136254.54,3,Yes,Yes,216755.92
+Maruti Suzuki,Ertiga,101697.47,Electric,11,1386962.33,3,No,Yes,50000.0
+Mahindra,Scorpio,48153.58,Petrol,13,1694029.27,1,Yes,Yes,139416.98
+Tata,Altroz,118525.75,Petrol,6,829119.71,2,No,No,118220.21
+Honda,Elevate,67931.23,Diesel,8,1544861.53,1,Yes,Yes,343994.33
+Maruti Suzuki,Brezza,130644.79,Electric,5,1286944.79,1,Yes,No,457635.99
+Tata,Safari,23441.87,Electric,6,2285328.83,1,Yes,Yes,1109814.01
+Volkswagen,Taigun,45076.57,CNG,7,1462428.58,1,Yes,Yes,482578.18
+Honda,Elevate,57955.52,Electric,2,1642125.38,2,No,Yes,1109768.51
+Kia,Seltos,134257.78,Petrol,6,1673363.37,2,Yes,Yes,422137.41
+Maruti Suzuki,Brezza,92088.26,Electric,1,1167679.65,1,No,Yes,832808.45
+Toyota,Innova,89681.81,Electric,4,2888686.54,2,Yes,Yes,1505893.17
+Volkswagen,Taigun,61227.48,CNG,4,1439316.67,1,No,Yes,793855.75
+Mahindra,Thar,12467.32,Diesel,7,1710432.38,3,Yes,Yes,551593.53
+Hyundai,Verna,96453.43,Petrol,3,1297453.44,1,No,Yes,754989.29
+Toyota,Glanza,86557.46,Petrol,15,852572.47,3,No,No,50000.0
+Maruti Suzuki,Dzire,108822.26,CNG,11,750632.65,2,Yes,Yes,50000.0
+Mahindra,Thar,11081.54,CNG,14,1594631.16,2,No,Yes,224384.34
+Tata,Altroz,50602.25,Diesel,7,1026759.08,3,No,No,246638.12
+Tata,Safari,77813.02,Diesel,6,2193589.48,1,Yes,Yes,916477.51
+Hyundai,Verna,126777.95,CNG,13,1223193.22,2,Yes,No,50000.0
+Honda,Amaze,60007.5,Petrol,13,809249.24,4,No,No,50000.0
+Mahindra,Scorpio,106269.41,Petrol,2,1671834.44,2,No,No,1023229.42
+Mahindra,XUV700,62764.98,Petrol,9,2077824.04,4,No,Yes,286757.11
+Maruti Suzuki,Ertiga,111371.2,Petrol,12,1117050.75,1,Yes,Yes,50000.0
+Honda,Amaze,68130.27,CNG,6,812376.9,1,Yes,Yes,181406.38
+Volkswagen,Taigun,123300.51,Petrol,1,1429537.09,1,No,Yes,999578.32
+Tata,Harrier,85106.27,Electric,15,2142413.82,1,No,No,122378.89
+Kia,Sonet,88589.22,CNG,15,1023105.08,1,Yes,Yes,50000.0
+Honda,Amaze,37238.51,CNG,12,939398.02,1,Yes,Yes,50000.0
+Tata,Nexon,75308.9,Electric,13,1356166.63,1,No,Yes,50000.0
+Honda,Elevate,70310.6,CNG,11,1436271.3,3,No,Yes,69517.71
+Volkswagen,Virtus,48913.25,Petrol,8,1563441.08,1,No,Yes,451834.22
+Honda,Elevate,59542.98,Diesel,1,1465633.94,3,Yes,Yes,933139.45
+Kia,Seltos,121475.45,Petrol,6,1732472.95,2,Yes,No,513208.76
+Kia,Carens,122374.35,CNG,3,1257963.57,1,No,Yes,638807.81
+Honda,City,85910.9,Petrol,3,1458538.21,1,Yes,Yes,900284.84
+Kia,Seltos,97519.57,Diesel,10,1740200.44,2,Yes,Yes,50000.0
+Volkswagen,Polo,109438.01,Electric,12,1109858.51,2,No,Yes,50000.0
+Maruti Suzuki,Ertiga,126555.92,CNG,3,1145520.44,4,No,Yes,374326.1
+Toyota,Urban Cruiser,113525.29,Petrol,7,1062378.4,1,Yes,Yes,151466.63
+Volkswagen,Virtus,41925.87,Diesel,12,1690280.55,1,Yes,No,131421.08
+Honda,City,124935.5,Petrol,9,1502198.22,2,No,Yes,121899.02
+Hyundai,Verna,65993.78,Petrol,7,1328701.12,1,No,No,385924.13
+Tata,Tiago,75076.14,Diesel,7,782155.94,2,No,Yes,105540.72
+Volkswagen,Polo,92115.35,Electric,9,1142190.66,3,Yes,Yes,50000.0
+Toyota,Glanza,84214.89,Diesel,10,935767.29,3,No,No,50000.0
+Tata,Altroz,45092.4,CNG,14,836342.91,1,Yes,Yes,50000.0
+Honda,Elevate,149340.49,Electric,8,1650716.3,4,No,No,201238.7
+Tata,Harrier,142908.92,Electric,11,2137646.75,2,Yes,Yes,50000.0
+Volkswagen,Taigun,109489.71,Diesel,1,1526419.73,3,No,Yes,930397.53
+Maruti Suzuki,Swift,48880.51,Petrol,1,653320.61,1,No,Yes,492325.01
+Toyota,Urban Cruiser,55564.18,Electric,2,1359776.16,2,No,Yes,914441.93
+Volkswagen,Virtus,38752.85,Electric,7,1824984.6,2,Yes,Yes,639924.08
+Hyundai,Grand i10,134139.95,Petrol,14,712597.02,2,No,Yes,50000.0
+Toyota,Urban Cruiser,58966.71,Electric,6,1350751.28,2,No,No,455327.65
+Hyundai,i20,126886.31,Petrol,4,867519.27,1,Yes,No,285892.47
+Volkswagen,Virtus,126006.87,CNG,3,1639104.3,3,Yes,Yes,707287.98
+Toyota,Glanza,106865.89,Petrol,5,829128.13,3,No,Yes,177306.89
+Honda,Elevate,103013.8,CNG,2,1448131.39,2,No,No,825255.62
+Honda,Elevate,12973.32,Diesel,7,1521069.54,1,Yes,Yes,618664.75
+Mahindra,Scorpio,95832.52,Diesel,12,1730385.77,2,No,Yes,50000.0
+Honda,Amaze,135806.91,Diesel,10,953484.43,1,Yes,Yes,50000.0
+Tata,Safari,16008.19,Petrol,8,2127885.21,1,Yes,Yes,641035.96
+Maruti Suzuki,Brezza,82034.76,Electric,2,1211255.1,2,Yes,No,691053.88
+Mahindra,Thar,110021.4,Electric,14,1888183.68,1,No,No,50000.0
+Honda,Amaze,32451.25,Petrol,3,940819.09,3,No,No,529501.5
+Hyundai,Grand i10,53112.65,Petrol,6,733233.06,1,No,No,235117.12
+Honda,City,148497.7,Diesel,1,1580543.55,1,Yes,No,1052648.42
+Hyundai,Verna,121940.62,Electric,1,1512005.56,3,Yes,Yes,806373.68
+Honda,City,85615.74,Electric,6,1681359.52,2,Yes,Yes,521067.34
+Volkswagen,Polo,61983.2,CNG,10,909587.22,1,No,Yes,50000.0
+Maruti Suzuki,Brezza,24557.92,CNG,6,968570.06,2,Yes,Yes,365181.54
+Volkswagen,Vento,79969.02,Petrol,5,1187026.32,1,Yes,No,449647.31
+Volkswagen,Polo,142329.3,CNG,7,943485.86,1,No,No,92017.29
+Mahindra,XUV300,90615.21,Diesel,14,1314509.99,1,No,Yes,50000.0
+Tata,Nexon,148508.0,Electric,12,1417101.02,4,No,No,50000.0
+Tata,Tiago,134525.44,Electric,1,913174.1,1,Yes,No,447241.24
+Maruti Suzuki,Baleno,111694.7,Electric,4,1062194.45,2,Yes,No,363378.76
+Maruti Suzuki,Alto,108522.3,Petrol,8,433467.29,2,No,Yes,50000.0
+Kia,Sonet,118992.1,Diesel,2,1135202.49,2,No,Yes,587169.0
+Kia,Carens,54249.45,Electric,12,1564081.62,1,No,Yes,114896.85
+Toyota,Urban Cruiser,45659.5,Diesel,7,1152562.6,1,Yes,Yes,310711.08
+Hyundai,i20,11001.13,Electric,8,1181101.37,2,No,Yes,363018.35
+Mahindra,Scorpio,63882.8,Electric,13,1884550.22,3,No,Yes,111753.28
+Hyundai,i20,20444.52,CNG,2,887133.53,1,No,No,654391.33
+Hyundai,i20,58594.98,Petrol,4,820657.29,1,Yes,Yes,355815.84
+Maruti Suzuki,Ertiga,28704.49,Electric,5,1258493.9,1,No,Yes,661051.03
+Toyota,Fortuner,149033.71,Electric,1,3775105.55,1,No,No,3081836.46
+Kia,Seltos,27412.79,Petrol,10,1665562.53,4,No,No,181449.24
+Volkswagen,Polo,118354.99,CNG,5,832253.89,1,No,No,218024.34
+Hyundai,Verna,126208.82,Diesel,12,1368860.19,1,Yes,Yes,50000.0
+Hyundai,Venue,54790.66,Petrol,8,1139259.74,1,Yes,Yes,262199.29
+Volkswagen,Vento,35858.71,Diesel,11,1262496.46,1,Yes,No,111878.51
+Hyundai,Creta,45401.64,Petrol,9,1553076.06,1,No,Yes,338931.38
+Maruti Suzuki,Ertiga,28495.62,Electric,10,1267627.68,1,Yes,Yes,123961.92
+Mahindra,Bolero,133024.08,CNG,11,969513.6,1,Yes,Yes,50000.0
+Honda,Elevate,64167.85,Petrol,13,1363320.17,2,Yes,Yes,50000.0
+Mahindra,Scorpio,44957.76,Petrol,7,1629595.8,2,No,No,513402.68
+Honda,Elevate,91444.43,Petrol,4,1423849.14,3,Yes,No,554056.51
+Honda,City,71627.79,Petrol,11,1400639.0,1,No,No,50000.0
+Honda,Amaze,28441.74,Petrol,2,945835.8,1,No,Yes,750081.06
+Honda,Elevate,110954.02,Petrol,12,1356500.6,1,Yes,Yes,50000.0
+Mahindra,XUV700,88606.48,CNG,7,2091270.17,1,No,No,681946.9
+Kia,Carens,14999.48,Electric,10,1566604.73,1,Yes,Yes,217388.94
+Hyundai,Verna,25822.78,Diesel,15,1374432.26,2,Yes,Yes,54080.94
+Maruti Suzuki,Brezza,94328.26,Petrol,4,931997.55,1,No,Yes,402165.56
+Hyundai,Verna,37446.87,CNG,8,1312794.21,2,No,Yes,316611.76
+Toyota,Glanza,50416.25,CNG,10,870246.94,1,No,No,58655.3
+Hyundai,Grand i10,73086.9,Petrol,1,666452.97,2,No,No,431457.42
+Mahindra,Scorpio,42224.29,Electric,1,1909498.45,4,No,Yes,1180104.12
+Kia,Seltos,97648.29,Petrol,5,1711580.85,2,No,Yes,654628.63
+Toyota,Glanza,139707.03,Diesel,4,985489.37,1,No,No,342866.02
+Kia,Sonet,38907.35,Electric,4,1361371.18,4,No,No,569551.57
+Maruti Suzuki,Alto,39172.18,Electric,5,639731.52,3,Yes,No,190169.43
+Hyundai,i20,73531.16,Electric,12,1057342.37,2,No,Yes,50000.0
+Honda,City,98098.91,CNG,8,1499986.78,3,No,No,190623.17
+Kia,Carens,19011.49,Diesel,2,1328027.8,1,No,Yes,1074827.46
+Tata,Tiago,121627.67,Diesel,6,760977.4,1,No,No,63037.46
+Kia,Seltos,114304.08,Electric,15,1962004.34,1,No,Yes,50000.0
+Volkswagen,Polo,16910.14,Petrol,4,930467.16,3,Yes,Yes,456418.41
+Volkswagen,Taigun,103417.05,Petrol,9,1430174.89,3,Yes,Yes,103201.04
+Toyota,Fortuner,48518.25,Diesel,4,3623577.5,2,No,Yes,2054011.04
+Tata,Altroz,80100.32,Petrol,6,894275.44,2,No,Yes,223958.27
+Volkswagen,Vento,60677.05,Petrol,12,1226126.03,1,No,No,50000.0
+Mahindra,Thar,19226.56,Petrol,7,1570652.94,1,Yes,Yes,656372.64
+Volkswagen,Taigun,127303.08,CNG,10,1492826.45,3,No,Yes,50000.0
+Toyota,Urban Cruiser,48128.31,Diesel,2,1170991.03,2,No,Yes,739029.68
+Toyota,Glanza,63768.8,Electric,1,1168837.32,1,No,No,908155.43
+Kia,Carens,48801.71,Petrol,3,1266440.86,2,No,Yes,735676.49
+Volkswagen,Polo,46172.01,CNG,14,866116.73,2,No,Yes,50000.0
+Tata,Altroz,144488.78,Diesel,1,1006993.44,1,No,Yes,534345.71
+Maruti Suzuki,Dzire,89722.32,Petrol,10,844907.44,1,Yes,Yes,50000.0
+Hyundai,Verna,24454.35,Petrol,11,1252353.61,1,Yes,No,132610.81
+Toyota,Urban Cruiser,91059.09,CNG,11,1086854.79,3,Yes,Yes,50000.0
+Toyota,Innova,125185.13,Petrol,11,2539659.48,1,Yes,No,51868.0
+Honda,Amaze,115464.37,CNG,14,840619.15,1,No,No,50000.0
+Hyundai,Grand i10,27132.35,CNG,8,657979.18,1,No,No,147039.25
+Honda,Amaze,105313.24,Petrol,3,845051.27,2,Yes,Yes,312200.49
+Toyota,Fortuner,127496.69,Electric,13,3859504.84,2,No,No,244727.76
+Tata,Nexon,50987.05,CNG,15,1147874.72,3,No,Yes,63100.99
+Honda,City,37255.33,Petrol,5,1496857.92,1,No,Yes,746802.47
+Tata,Altroz,100450.58,Petrol,15,896001.5,1,No,No,50000.0
+Hyundai,i20,34232.12,CNG,10,891392.16,1,Yes,No,82641.39
+Kia,Carens,23371.86,Electric,15,1459077.28,2,Yes,Yes,89630.03
+Mahindra,Bolero,118795.26,CNG,11,1074189.36,3,Yes,Yes,50000.0
+Mahindra,Bolero,132050.05,Diesel,14,1112556.81,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,15999.9,Petrol,6,1043572.33,1,No,No,536032.16
+Hyundai,i20,110131.83,Petrol,2,841171.28,1,No,Yes,379355.76
+Hyundai,Creta,83898.8,Electric,6,1817048.81,1,Yes,Yes,686139.29
+Tata,Tiago,118623.0,CNG,8,646106.77,1,No,Yes,50000.0
+Kia,Carens,149758.67,Electric,12,1462450.27,1,Yes,Yes,50000.0
+Volkswagen,Virtus,58204.72,Diesel,5,1654533.43,1,No,No,849924.64
+Kia,Seltos,88753.23,Electric,13,1877118.13,1,No,No,93002.93
+Hyundai,Venue,108964.18,Diesel,9,1132109.44,2,No,Yes,50000.0
+Tata,Tiago,149675.55,CNG,13,626457.55,1,No,Yes,50000.0
+Volkswagen,Virtus,39736.38,Diesel,2,1735136.08,1,No,Yes,1376454.75
+Honda,Elevate,58920.49,CNG,7,1368727.14,1,No,Yes,493698.58
+Toyota,Innova,107506.04,Petrol,14,2615418.89,3,Yes,Yes,87420.73
+Kia,Sonet,20190.07,Diesel,13,1108807.52,2,No,Yes,66888.91
+Maruti Suzuki,Brezza,54563.97,Diesel,5,1035653.77,2,No,Yes,405302.22
+Toyota,Innova,72451.69,Petrol,14,2521810.06,2,No,No,162388.55
+Mahindra,XUV700,66251.25,CNG,11,2008180.14,2,Yes,Yes,77865.63
+Hyundai,Venue,148328.53,CNG,4,1013021.04,3,No,No,287791.33
+Honda,City,123141.44,Diesel,9,1574922.47,1,No,Yes,89075.31
+Tata,Tiago,70330.44,CNG,2,748590.54,1,No,No,500164.79
+Honda,City,123083.46,Electric,14,1661278.97,2,Yes,Yes,50000.0
+Mahindra,Bolero,130461.55,Electric,5,1271087.6,2,Yes,Yes,379111.78
+Volkswagen,Taigun,68535.87,Diesel,4,1586768.88,1,No,No,928990.51
+Kia,Carens,34822.2,Diesel,6,1385761.48,1,No,Yes,596714.42
+Maruti Suzuki,Baleno,140783.36,Petrol,12,765713.05,1,No,No,50000.0
+Honda,City,104596.36,Electric,3,1746283.47,1,No,Yes,1037173.15
+Tata,Nexon,36039.59,Electric,5,1377941.54,1,No,No,764150.12
+Maruti Suzuki,Brezza,146346.35,Diesel,13,1094566.31,3,Yes,No,50000.0
+Hyundai,Grand i10,38429.49,CNG,11,779795.87,2,No,Yes,50000.0
+Tata,Harrier,149395.63,Electric,8,2194657.44,2,Yes,No,355121.72
+Kia,Carens,147402.81,Diesel,9,1384243.29,3,No,No,50000.0
+Hyundai,Creta,128638.95,Petrol,1,1510725.14,3,No,Yes,893890.21
+Maruti Suzuki,Swift,144599.07,CNG,1,749839.4,1,Yes,Yes,319331.79
+Maruti Suzuki,Brezza,139312.59,Petrol,3,1021905.72,2,No,Yes,357314.45
+Tata,Nexon,104381.14,CNG,5,1186272.9,1,No,Yes,390997.33
+Kia,Seltos,14519.79,Diesel,4,1812730.14,2,Yes,Yes,1085687.65
+Mahindra,Scorpio,41484.57,Electric,1,1955336.72,1,No,Yes,1645537.71
+Maruti Suzuki,Alto,73437.92,CNG,10,361954.29,1,Yes,Yes,50000.0
+Maruti Suzuki,Brezza,54426.1,Electric,14,1178263.82,2,No,Yes,50000.0
+Maruti Suzuki,Brezza,104807.44,CNG,12,934974.5,1,No,No,50000.0
+Tata,Safari,39623.64,Diesel,4,2231962.71,3,No,Yes,1174395.92
+Mahindra,Bolero,28672.95,Diesel,8,1128026.88,1,Yes,No,341541.06
+Toyota,Innova,78317.68,Electric,6,2771209.9,2,Yes,Yes,1042958.35
+Mahindra,Thar,136094.02,CNG,6,1642853.13,1,No,Yes,476470.28
+Hyundai,Verna,99328.51,Diesel,3,1372768.63,1,No,No,761161.47
+Honda,City,76039.87,CNG,14,1544717.02,2,No,Yes,51002.77
+Tata,Nexon,33718.32,Diesel,10,1300128.19,1,No,Yes,213071.78
+Kia,Seltos,75197.75,Petrol,14,1671863.65,2,No,No,50000.0
+Hyundai,Verna,126131.07,Petrol,8,1267709.1,3,Yes,No,131596.32
+Toyota,Glanza,108828.75,CNG,12,900775.15,1,No,Yes,50000.0
+Maruti Suzuki,Baleno,85947.9,Petrol,9,850286.93,2,Yes,No,50000.0
+Maruti Suzuki,Dzire,78299.13,CNG,5,712742.94,1,No,Yes,207973.74
+Honda,City,118367.28,Diesel,10,1539545.89,3,No,Yes,50000.0
+Honda,City,33028.21,Diesel,1,1636966.87,1,Yes,No,1382690.06
+Volkswagen,Polo,106674.57,CNG,6,828274.86,2,Yes,No,138776.69
+Tata,Tiago,106624.61,Petrol,9,689100.7,2,No,No,50000.0
+Hyundai,Creta,121179.84,Electric,15,1844804.33,4,Yes,Yes,50000.0
+Toyota,Glanza,28888.31,Electric,1,1197572.84,2,No,Yes,929926.68
+Mahindra,XUV700,86000.87,Electric,7,2374238.35,4,No,No,578665.04
+Hyundai,Verna,121187.98,CNG,5,1261749.07,1,No,Yes,428879.01
+Volkswagen,Polo,98360.69,Petrol,7,905920.95,2,No,No,158555.94
+Honda,Elevate,57371.25,Petrol,4,1445028.52,4,No,Yes,600201.89
+Tata,Altroz,55992.94,Diesel,15,905196.69,4,No,Yes,50000.0
+Maruti Suzuki,Alto,18911.52,CNG,2,465811.38,1,No,Yes,329794.36
+Kia,Carens,103596.47,CNG,9,1315020.8,2,No,Yes,65569.35
+Volkswagen,Taigun,80753.46,CNG,4,1495606.26,1,No,Yes,817852.5
+Maruti Suzuki,Brezza,29400.0,Electric,4,1221363.29,2,No,Yes,697340.53
+Toyota,Glanza,32635.07,Petrol,11,934254.6,2,No,Yes,50000.0
+Tata,Tiago,24255.86,Electric,15,931667.38,1,Yes,Yes,50000.0
+Volkswagen,Taigun,131693.44,Diesel,12,1607914.54,2,Yes,Yes,50000.0
+Maruti Suzuki,Swift,96615.28,CNG,14,691413.45,2,No,Yes,50000.0
+Volkswagen,Vento,58508.66,Electric,9,1351998.21,3,No,No,232667.99
+Toyota,Fortuner,124869.31,Diesel,10,3685639.52,1,Yes,Yes,408804.61
+Honda,City,40318.71,Electric,15,1755030.7,1,No,Yes,117736.83
+Kia,Carens,103343.61,Electric,2,1496268.08,1,No,Yes,991313.84
+Tata,Nexon,136010.56,Petrol,8,1161319.18,3,Yes,No,50000.0
+Maruti Suzuki,Baleno,69444.81,Diesel,15,986573.98,1,No,No,50000.0
+Honda,City,117680.54,CNG,9,1477240.9,1,No,No,82222.03
+Toyota,Innova,106818.32,Diesel,12,2611837.73,1,Yes,Yes,116528.61
+Tata,Safari,25132.73,Electric,1,2357338.53,1,No,No,2072453.15
+Toyota,Glanza,133353.72,Diesel,7,980267.14,2,No,No,84841.62
+Tata,Safari,65674.69,Petrol,13,2145857.34,1,Yes,No,101671.04
+Volkswagen,Vento,70776.67,Petrol,11,1119529.09,1,Yes,Yes,50000.0
+Kia,Sonet,50010.3,CNG,15,1146597.09,1,No,No,61613.2
+Volkswagen,Polo,141713.63,CNG,6,831131.19,1,Yes,Yes,89740.87
+Maruti Suzuki,Alto,74739.32,Electric,3,606139.92,1,No,Yes,301689.37
+Kia,Seltos,54902.32,Petrol,1,1630978.1,2,Yes,Yes,1162418.57
+Hyundai,Grand i10,54104.52,Petrol,11,685979.29,1,Yes,No,50000.0
+Tata,Safari,18970.15,Petrol,15,2096642.63,1,No,Yes,216304.49
+Volkswagen,Taigun,141040.77,Electric,6,1721386.65,3,Yes,Yes,407764.36
+Honda,Amaze,117749.81,Electric,8,1084846.89,2,No,Yes,75622.61
+Maruti Suzuki,Ertiga,81810.06,Petrol,5,1097543.3,2,No,Yes,356560.66
+Honda,City,29526.07,Electric,5,1762142.73,2,Yes,No,881703.52
+Maruti Suzuki,Swift,50038.61,Diesel,11,701507.71,1,No,No,50000.0
+Honda,City,73012.63,Petrol,4,1516073.15,2,Yes,Yes,735503.28
+Maruti Suzuki,Alto,115663.07,Petrol,10,498438.79,1,Yes,Yes,50000.0
+Volkswagen,Polo,129008.27,Diesel,1,948858.98,1,No,Yes,530423.45
+Toyota,Glanza,59988.83,Electric,5,1156347.7,1,No,Yes,484968.83
+Tata,Harrier,21675.6,Diesel,9,2044884.99,2,Yes,Yes,417345.24
+Toyota,Innova,101872.43,Petrol,4,2585357.45,2,Yes,Yes,1307338.23
+Toyota,Glanza,34395.45,Petrol,2,814301.44,1,No,Yes,539346.84
+Kia,Sonet,40438.73,Electric,8,1370218.72,1,Yes,No,381242.15
+Volkswagen,Virtus,80931.59,CNG,6,1630810.32,1,Yes,Yes,565636.07
+Hyundai,Creta,59563.62,Diesel,11,1612500.91,1,Yes,Yes,50000.0
+Kia,Sonet,89668.54,Diesel,12,1184786.52,2,Yes,Yes,50000.0
+Volkswagen,Taigun,119675.86,Diesel,6,1629838.13,1,No,Yes,542740.21
+Hyundai,i20,134966.83,Electric,12,1118415.93,1,No,Yes,50000.0
+Tata,Nexon,129143.48,Petrol,8,1184026.13,3,Yes,No,81779.62
+Volkswagen,Vento,24268.72,Diesel,8,1207151.08,2,Yes,Yes,328029.39
+Kia,Seltos,31752.42,Petrol,12,1670494.81,1,Yes,Yes,114501.15
+Volkswagen,Vento,87696.07,Electric,8,1473241.4,4,No,Yes,215033.53
+Maruti Suzuki,Ertiga,69997.02,CNG,8,1051497.9,1,No,No,179769.66
+Honda,Elevate,77911.42,Petrol,3,1449662.14,1,No,Yes,935031.72
+Toyota,Glanza,23936.31,Electric,8,1114463.6,1,Yes,Yes,312640.67
+Mahindra,Thar,51143.66,Petrol,11,1592918.4,1,Yes,Yes,95010.35
+Toyota,Fortuner,28971.37,CNG,14,3537728.19,1,No,Yes,489961.46
+Toyota,Innova,91362.41,Diesel,15,2702647.66,1,Yes,Yes,144466.83
+Honda,City,119319.44,Electric,13,1763014.3,1,Yes,No,50000.0
+Tata,Harrier,111676.09,CNG,5,1874866.15,2,No,No,786307.9
+Mahindra,Bolero,93963.96,Diesel,14,1077422.25,1,No,Yes,50000.0
+Mahindra,Thar,132054.32,Diesel,6,1653693.65,2,Yes,Yes,424193.91
+Mahindra,XUV700,115406.23,Petrol,13,2112974.08,3,Yes,No,50000.0
+Honda,Elevate,129563.9,Electric,7,1644547.51,1,Yes,No,357285.84
+Kia,Carens,30131.16,CNG,15,1235234.39,3,Yes,Yes,50000.0
+Honda,Amaze,140577.27,Petrol,4,883319.17,3,No,No,159173.53
+Honda,Amaze,46336.33,Diesel,4,960180.17,3,No,Yes,386173.74
+Tata,Nexon,34096.49,CNG,7,1121239.73,1,No,Yes,368603.61
+Toyota,Urban Cruiser,42837.5,CNG,1,1070524.3,1,No,Yes,818379.54
+Kia,Sonet,32966.27,Petrol,14,1059502.57,1,Yes,Yes,50000.0
+Kia,Sonet,103905.67,Petrol,6,1030924.57,3,Yes,Yes,182396.24
+Tata,Harrier,108533.12,Diesel,9,1945222.7,2,No,No,293209.56
+Toyota,Glanza,81173.9,CNG,15,921298.82,1,No,Yes,50000.0
+Hyundai,Creta,97406.13,Diesel,14,1623740.66,3,Yes,No,50000.0
+Volkswagen,Taigun,53301.64,Petrol,14,1414104.12,4,Yes,Yes,51763.86
+Toyota,Fortuner,90072.47,Petrol,7,3519651.17,1,No,Yes,1265923.06
+Honda,Amaze,92607.78,Electric,14,1077355.85,2,Yes,Yes,50000.0
+Kia,Sonet,98094.2,Petrol,7,1145771.69,2,No,Yes,195291.26
+Hyundai,Grand i10,147167.43,CNG,14,765377.56,1,No,Yes,50000.0
+Kia,Seltos,39750.03,Petrol,7,1636827.96,1,No,Yes,640177.76
+Honda,City,55995.05,Petrol,2,1426191.97,2,No,Yes,977121.05
+Kia,Carens,107998.82,Diesel,5,1338137.43,2,No,No,439312.6
+Maruti Suzuki,Alto,40875.0,Electric,11,665040.86,1,No,Yes,50000.0
+Toyota,Fortuner,80319.72,CNG,11,3554696.02,2,No,Yes,282718.22
+Tata,Altroz,73495.43,Petrol,8,805834.73,1,No,No,88175.75
+Maruti Suzuki,Brezza,144809.69,Electric,7,1258950.3,1,Yes,No,159936.35
+Volkswagen,Virtus,69305.58,Electric,15,1777643.39,2,No,Yes,50000.0
+Toyota,Innova,32177.21,CNG,2,2645947.65,2,Yes,Yes,1927785.65
+Toyota,Fortuner,40012.45,Diesel,1,3682746.8,3,Yes,No,2604642.22
+Honda,Elevate,141765.18,Petrol,2,1377213.65,2,Yes,Yes,637387.01
+Toyota,Urban Cruiser,10654.52,Electric,15,1379285.9,1,Yes,Yes,162893.38
+Toyota,Urban Cruiser,55769.77,Electric,7,1341435.08,4,No,Yes,340370.1
+Maruti Suzuki,Baleno,32818.49,Electric,4,1120710.16,2,No,Yes,602109.16
+Honda,City,36734.28,Electric,10,1690005.22,2,Yes,Yes,174034.34
+Tata,Safari,59966.5,CNG,7,2054257.03,1,Yes,Yes,725573.14
+Toyota,Fortuner,18051.64,CNG,4,3611911.8,1,No,No,2363401.48
+Hyundai,Creta,27168.36,Petrol,3,1598237.23,1,No,Yes,1125266.74
+Maruti Suzuki,Swift,116583.79,Petrol,12,631143.87,1,No,Yes,50000.0
+Maruti Suzuki,Dzire,90899.25,CNG,14,739251.15,1,Yes,Yes,50000.0
+Honda,City,98426.33,Petrol,6,1530425.17,2,Yes,Yes,506062.51
+Tata,Safari,39881.86,Diesel,7,2118160.71,3,No,No,664818.91
+Mahindra,Thar,136409.4,Diesel,9,1679424.65,2,Yes,Yes,50000.0
+Hyundai,Venue,28315.08,Petrol,14,1024111.02,2,Yes,No,66222.82
+Mahindra,Scorpio,28944.67,Electric,11,1944576.95,3,Yes,Yes,151649.86
+Mahindra,XUV300,86434.77,CNG,10,1191274.44,1,Yes,No,50000.0
+Hyundai,i20,36470.81,CNG,2,870958.3,1,No,Yes,583437.06
+Honda,Elevate,112448.95,Diesel,7,1418965.66,2,No,Yes,334118.14
+Toyota,Innova,140804.99,CNG,3,2542917.83,3,Yes,Yes,1255565.04
+Maruti Suzuki,Baleno,48650.79,Electric,3,1132732.19,1,Yes,Yes,669495.78
+Maruti Suzuki,Baleno,79225.55,Electric,7,1149773.4,4,Yes,Yes,190590.1
+Toyota,Fortuner,28802.56,CNG,11,3605623.3,2,No,Yes,450104.3
+Volkswagen,Vento,135697.56,Electric,11,1433739.27,1,Yes,Yes,50000.0
+Maruti Suzuki,Baleno,40240.23,Electric,4,1106026.03,1,Yes,Yes,590571.92
+Maruti Suzuki,Swift,135232.29,Petrol,7,734855.54,3,No,Yes,50000.0
+Tata,Tiago,76194.62,CNG,8,719914.63,3,No,No,61641.18
+Kia,Seltos,28182.51,Petrol,14,1652201.0,1,No,Yes,195009.77
+Maruti Suzuki,Ertiga,129621.01,Petrol,9,1096745.41,3,No,No,50000.0
+Honda,Amaze,20841.4,Diesel,14,1038598.5,2,Yes,Yes,81814.71
+Hyundai,i20,11565.44,Electric,11,1159259.98,2,Yes,Yes,112530.38
+Mahindra,XUV300,62447.12,Diesel,7,1297624.26,1,No,No,391874.05
+Hyundai,i20,113548.37,Petrol,11,903625.42,1,Yes,Yes,50000.0
+Honda,Elevate,147099.12,Electric,10,1647609.13,1,No,Yes,50000.0
+Honda,Elevate,90099.59,Petrol,2,1304301.17,1,Yes,No,798331.96
+Maruti Suzuki,Ertiga,41078.6,Electric,15,1280025.36,1,No,Yes,106061.67
+Tata,Safari,67464.99,CNG,12,2046571.47,2,No,No,157098.05
+Kia,Carens,78935.38,CNG,8,1231066.32,2,Yes,Yes,143479.92
+Mahindra,Scorpio,40063.51,CNG,15,1729725.23,1,No,Yes,113477.47
+Mahindra,Thar,74878.95,Electric,8,1839567.23,3,Yes,Yes,347298.74
+Kia,Seltos,38851.08,Electric,10,1929447.98,1,Yes,Yes,303614.11
+Mahindra,Scorpio,130577.14,CNG,2,1625430.88,3,No,Yes,841289.63
+Honda,Amaze,88919.94,CNG,2,888751.75,1,No,Yes,534524.84
+Mahindra,XUV700,131611.63,CNG,8,2109839.53,1,No,Yes,393083.14
+Tata,Safari,82842.42,Diesel,1,2149711.76,1,No,Yes,1786779.99
+Tata,Safari,137983.66,CNG,15,2082913.73,1,Yes,Yes,50000.0
+Maruti Suzuki,Baleno,75459.31,Diesel,7,968302.24,1,No,Yes,273791.18
+Maruti Suzuki,Alto,130102.72,CNG,10,354313.55,1,Yes,No,50000.0
+Mahindra,XUV300,141549.14,Diesel,13,1210818.7,2,Yes,No,50000.0
+Maruti Suzuki,Dzire,78279.01,Electric,6,955508.73,2,No,Yes,295035.59
+Hyundai,Creta,116594.85,CNG,11,1643086.61,3,Yes,Yes,50000.0
+Kia,Sonet,61362.05,CNG,10,1047214.56,2,No,No,50000.0
+Hyundai,Grand i10,122015.8,CNG,4,673723.35,3,No,Yes,109097.37
+Honda,City,53906.2,CNG,3,1437205.88,1,Yes,Yes,876753.47
+Tata,Harrier,126042.14,Diesel,5,2010932.89,3,No,Yes,702864.23
+Tata,Altroz,106113.88,Petrol,15,885194.98,3,No,Yes,50000.0
+Kia,Carens,75870.18,CNG,1,1318028.08,3,Yes,No,777131.39
+Kia,Seltos,108798.41,Electric,6,1962205.34,1,Yes,Yes,668623.19
+Maruti Suzuki,Dzire,67342.03,Petrol,10,849192.21,1,No,No,50000.0
+Hyundai,Creta,45014.79,Petrol,11,1624002.33,2,Yes,Yes,104981.48
+Toyota,Urban Cruiser,124812.47,Petrol,14,1091875.16,2,No,Yes,50000.0
+Maruti Suzuki,Swift,45956.21,Electric,1,929961.74,3,Yes,No,542894.53
+Toyota,Innova,89337.97,Electric,15,2853297.2,1,Yes,Yes,120953.08
+Volkswagen,Vento,62295.15,Diesel,5,1202041.21,1,Yes,Yes,541175.03
+Toyota,Fortuner,112992.75,CNG,12,3565504.93,3,Yes,No,165554.21
+Volkswagen,Taigun,76478.96,Petrol,14,1547565.85,1,No,Yes,50000.0
+Tata,Tiago,16213.58,Electric,4,895378.81,2,No,Yes,523621.87
+Mahindra,XUV300,46491.99,Electric,9,1363177.07,2,No,Yes,253972.58
+Kia,Sonet,18579.05,Petrol,6,1046359.33,2,No,No,410022.85
+Volkswagen,Polo,55906.89,Electric,8,1144986.1,1,No,Yes,302076.77
+Kia,Seltos,115669.97,CNG,7,1704908.96,1,No,No,474801.4
+Maruti Suzuki,Baleno,113564.18,Petrol,10,755639.43,2,No,Yes,50000.0
+Toyota,Urban Cruiser,91160.25,Petrol,3,1094159.16,2,No,No,572226.8
+Volkswagen,Vento,63715.96,Diesel,11,1260143.35,1,No,Yes,50000.0
+Maruti Suzuki,Baleno,101123.81,Petrol,14,796483.84,1,No,No,50000.0
+Honda,Amaze,148776.21,Electric,10,1173477.44,1,No,Yes,50000.0
+Maruti Suzuki,Swift,116508.55,Electric,6,882781.11,1,No,No,136234.37
+Tata,Harrier,105743.18,CNG,5,1817556.51,1,Yes,Yes,784409.18
+Tata,Tiago,40462.53,CNG,3,679879.26,1,No,Yes,437561.48
+Honda,Amaze,77284.37,Petrol,9,905823.93,1,Yes,No,50000.0
+Mahindra,Scorpio,59704.23,CNG,13,1688492.86,1,Yes,Yes,112367.68
+Hyundai,Venue,44202.88,Petrol,6,1104978.14,1,No,No,491097.81
+Mahindra,XUV300,129179.99,CNG,14,1202077.5,1,No,Yes,50000.0
+Mahindra,XUV300,108203.23,Electric,10,1418718.67,2,Yes,No,50000.0
+Hyundai,i20,134989.91,Diesel,14,913371.4,2,Yes,Yes,50000.0
+Mahindra,Bolero,109050.29,Diesel,2,1169265.61,2,No,No,605110.42
+Honda,City,48140.0,Petrol,5,1547812.93,1,No,No,787254.5
+Mahindra,Bolero,31387.81,CNG,6,1007503.15,1,Yes,Yes,400193.63
+Kia,Sonet,69363.31,CNG,2,1032444.02,1,Yes,Yes,651817.58
+Volkswagen,Vento,136565.88,Diesel,13,1275852.89,1,No,Yes,50000.0
+Kia,Seltos,48770.12,CNG,13,1706104.74,1,Yes,Yes,51258.89
+Volkswagen,Polo,134262.61,Electric,15,1175802.24,1,No,No,50000.0
+Volkswagen,Virtus,25581.45,Diesel,6,1647555.25,4,No,Yes,547847.36
+Maruti Suzuki,Dzire,109170.46,Petrol,14,732486.22,1,Yes,Yes,50000.0
+Mahindra,Scorpio,126499.7,Diesel,14,1756793.09,4,No,No,50000.0
+Tata,Nexon,73708.42,Petrol,3,1189388.98,4,Yes,No,438632.3
+Toyota,Urban Cruiser,72842.85,Electric,5,1375261.75,3,No,Yes,474051.29
+Honda,Elevate,31237.78,Petrol,8,1409137.52,1,No,Yes,453062.42
+Mahindra,Scorpio,116966.85,Electric,13,1880338.46,1,No,Yes,50000.0
+Honda,City,23585.07,Petrol,8,1546242.27,2,Yes,Yes,420589.29
+Maruti Suzuki,Dzire,110257.15,CNG,14,746620.15,1,Yes,Yes,50000.0
+Maruti Suzuki,Swift,62217.88,Electric,13,956729.24,1,No,No,50000.0
+Maruti Suzuki,Brezza,46496.13,Diesel,5,1022793.05,1,No,No,503594.61
+Toyota,Urban Cruiser,148122.42,Electric,12,1292915.86,1,No,Yes,50000.0
+Hyundai,Venue,16508.86,CNG,9,1091327.87,2,No,Yes,221545.68
+Volkswagen,Vento,118601.03,CNG,13,1239895.84,1,No,Yes,50000.0
+Toyota,Innova,92165.59,Electric,15,2895384.24,1,No,No,238281.01
+Mahindra,XUV300,20685.22,Petrol,13,1214305.5,2,Yes,Yes,59237.03
+Honda,City,61447.86,Diesel,6,1614703.02,2,No,Yes,638861.92
+Honda,Elevate,78151.22,CNG,4,1366035.08,1,Yes,Yes,676153.65
+Maruti Suzuki,Alto,74383.41,Diesel,11,534960.24,1,Yes,Yes,50000.0
+Kia,Seltos,70168.01,Petrol,12,1670871.33,1,Yes,Yes,50000.0
+Kia,Carens,109386.01,Diesel,6,1331250.12,3,Yes,Yes,274596.38
+Volkswagen,Polo,87599.53,Diesel,15,911939.61,1,Yes,Yes,50000.0
+Kia,Carens,47431.93,Petrol,12,1280830.43,1,No,No,72054.92
+Mahindra,Scorpio,142163.32,CNG,1,1617661.46,1,Yes,Yes,1103576.0
+Hyundai,Creta,20339.76,Electric,5,1869293.5,3,No,Yes,854358.08
+Kia,Sonet,15552.7,Petrol,15,1056443.01,2,No,Yes,53708.09
+Volkswagen,Polo,39380.67,Electric,11,1081577.14,1,No,No,63613.34
+Honda,Elevate,60089.02,Petrol,15,1374886.57,3,Yes,Yes,50000.0
+Kia,Sonet,143678.72,Diesel,6,1239292.85,3,Yes,Yes,209152.18
+Honda,City,78915.24,CNG,9,1515289.15,1,No,Yes,262449.47
+Volkswagen,Polo,138127.93,CNG,12,819219.64,2,No,No,50000.0
+Kia,Seltos,69139.52,Electric,8,1905766.91,1,No,Yes,524591.79
+Volkswagen,Virtus,74178.13,CNG,13,1645230.51,1,No,No,55326.23
+Mahindra,Thar,137457.67,Petrol,13,1639309.26,1,No,Yes,50000.0
+Maruti Suzuki,Baleno,26958.55,Electric,12,1016154.11,1,No,Yes,111973.29
+Tata,Safari,64899.33,Petrol,13,2032804.6,2,No,Yes,91784.35
+Toyota,Urban Cruiser,147357.73,Diesel,8,1194456.58,2,No,Yes,50000.0
+Maruti Suzuki,Swift,70825.71,Petrol,11,716222.65,1,No,Yes,50000.0
+Tata,Safari,76857.46,CNG,9,2055029.98,1,No,Yes,416346.81
+Maruti Suzuki,Dzire,125461.56,Diesel,9,889976.92,2,No,Yes,50000.0
+Volkswagen,Polo,105018.52,Petrol,5,863661.52,2,No,Yes,215113.67
+Maruti Suzuki,Brezza,35269.9,CNG,14,914658.18,3,Yes,Yes,50000.0
+Maruti Suzuki,Ertiga,132231.76,Electric,10,1340264.23,1,No,No,50000.0
+Honda,Elevate,57931.3,Electric,2,1676264.21,1,No,Yes,1252178.19
+Honda,Elevate,104209.45,Petrol,11,1313200.78,1,No,Yes,50000.0
+Honda,Amaze,112113.17,CNG,4,927090.68,1,Yes,Yes,286443.86
+Hyundai,Venue,33376.46,Petrol,12,1062880.51,2,No,No,92474.65
+Mahindra,XUV700,104304.4,Electric,7,2326835.02,2,No,Yes,708324.72
+Toyota,Fortuner,109759.98,Diesel,10,3630764.0,2,Yes,Yes,418738.92
+Toyota,Urban Cruiser,48373.81,Electric,11,1365068.0,1,No,No,126135.18
+Maruti Suzuki,Dzire,78360.19,CNG,11,815753.58,1,Yes,No,50000.0
+Mahindra,XUV700,58469.17,Diesel,7,2136705.38,2,No,Yes,726903.87
+Mahindra,Bolero,106153.93,Petrol,8,984095.65,1,No,Yes,106495.72
+Toyota,Fortuner,73558.46,Diesel,14,3660506.35,1,Yes,No,377764.46
+Tata,Harrier,10101.49,Diesel,1,1970555.03,3,No,No,1461155.18
+Toyota,Fortuner,84667.84,Petrol,3,3644458.93,4,No,Yes,1751864.75
+Toyota,Fortuner,106546.88,Petrol,2,3606713.59,1,No,Yes,2717099.89
+Tata,Harrier,135493.96,Petrol,12,1913418.64,2,No,Yes,50000.0
+Maruti Suzuki,Swift,134849.42,Petrol,14,608024.31,4,Yes,No,50000.0
+Toyota,Innova,34520.25,Diesel,2,2722834.36,1,Yes,Yes,2210422.3
+Tata,Altroz,128108.64,CNG,13,866741.46,4,Yes,Yes,50000.0
+Tata,Harrier,73872.62,Diesel,12,1907260.14,1,Yes,Yes,91418.78
+Maruti Suzuki,Brezza,50129.58,Diesel,5,1008834.68,3,No,No,394759.63
+Mahindra,XUV700,78560.03,CNG,2,2138106.62,2,No,No,1440797.06
+Toyota,Innova,69071.47,CNG,7,2646365.29,4,No,Yes,648193.72
+Hyundai,Creta,86647.93,CNG,2,1614253.22,2,No,Yes,981345.7
+Mahindra,XUV300,132635.71,CNG,10,1178660.89,2,No,No,50000.0
+Hyundai,Venue,119215.65,CNG,8,1096701.85,1,Yes,Yes,50000.0
+Toyota,Glanza,113343.7,Petrol,7,888953.14,2,Yes,No,50000.0
+Mahindra,Thar,141223.37,CNG,1,1571164.99,1,No,Yes,1070561.36
+Kia,Carens,101121.1,Diesel,6,1353545.35,2,No,Yes,442921.37
+Tata,Harrier,48006.29,Diesel,11,2000956.7,1,Yes,No,190301.31
+Kia,Seltos,71563.2,Electric,5,1966741.89,3,Yes,No,729913.73
+Mahindra,Thar,118644.82,Diesel,6,1698021.78,2,No,Yes,514009.88
+Hyundai,Venue,111699.18,CNG,7,1015482.56,2,Yes,No,99123.0
+Tata,Safari,108247.41,CNG,9,2107115.28,1,No,No,289510.36
+Honda,Amaze,85444.42,CNG,9,926282.92,2,Yes,Yes,50000.0
+Volkswagen,Vento,59255.76,Diesel,1,1294772.37,1,Yes,No,1052591.26
+Honda,City,126037.49,Petrol,4,1503735.6,1,Yes,No,637223.79
+Volkswagen,Virtus,47636.91,Electric,10,1853389.64,1,Yes,Yes,259103.02
+Volkswagen,Polo,77507.24,Diesel,4,976965.41,1,Yes,Yes,449606.22
+Tata,Tiago,50696.25,Petrol,3,720532.59,2,No,Yes,337673.72
+Honda,City,32458.25,Electric,1,1694941.29,1,Yes,Yes,1420650.5
+Kia,Seltos,76021.59,CNG,8,1664180.28,4,Yes,Yes,255390.79
+Volkswagen,Taigun,111910.3,CNG,3,1452297.61,1,Yes,No,794908.71
+Tata,Nexon,46899.88,CNG,9,1165436.9,1,No,Yes,205859.93
+Toyota,Innova,12114.3,Petrol,15,2623577.13,1,No,Yes,346576.85
+Hyundai,Grand i10,58927.13,Petrol,5,741815.93,1,No,No,319377.79
+Kia,Carens,128906.95,Petrol,7,1249860.58,2,Yes,Yes,153406.33
+Maruti Suzuki,Ertiga,50767.74,CNG,1,1122488.14,3,No,Yes,760904.17
+Hyundai,Grand i10,47752.9,Petrol,2,701550.75,2,No,No,400070.13
+Volkswagen,Polo,39120.73,Petrol,4,812437.89,3,No,Yes,378368.24
+Volkswagen,Vento,149388.2,CNG,12,1126149.77,1,No,Yes,50000.0
+Toyota,Fortuner,42107.93,CNG,1,3642641.85,3,No,Yes,2549972.8
+Toyota,Innova,112991.74,Petrol,10,2586411.25,1,No,Yes,228015.93
+Kia,Carens,126674.42,Electric,8,1596536.91,2,No,Yes,173024.7
+Hyundai,Creta,105527.64,CNG,3,1577002.52,2,Yes,No,849308.92
+Toyota,Fortuner,17495.65,CNG,1,3529864.38,3,No,Yes,2523727.72
+Tata,Safari,77384.93,Diesel,8,2214530.45,2,Yes,Yes,462898.83
+Tata,Safari,52446.9,Diesel,12,2108877.94,1,No,Yes,196880.94
+Mahindra,XUV700,132465.12,Electric,5,2390264.38,2,Yes,No,992384.73
+Hyundai,Grand i10,26678.97,Electric,4,980489.2,1,Yes,Yes,519678.93
+Honda,City,15235.84,Electric,6,1747395.31,1,No,Yes,832968.73
+Mahindra,Scorpio,124461.65,Electric,9,1950250.86,3,No,Yes,180465.09
+Volkswagen,Virtus,31627.17,CNG,6,1550654.72,1,No,No,705421.33
+Toyota,Glanza,76512.4,CNG,5,871200.2,2,No,Yes,259167.91
+Hyundai,Grand i10,82596.0,Diesel,5,818513.31,1,No,No,290496.54
+Volkswagen,Vento,141825.53,Petrol,8,1113931.07,1,No,Yes,70925.87
+Toyota,Urban Cruiser,19588.83,Electric,9,1271446.55,1,No,Yes,297691.46
+Toyota,Innova,41278.49,Diesel,6,2729083.13,4,Yes,No,884706.95
+Tata,Altroz,73363.9,Petrol,8,868149.28,3,No,No,93454.99
+Mahindra,Scorpio,121171.56,Electric,14,1955782.52,3,Yes,No,50000.0
+Mahindra,Thar,108383.88,Diesel,6,1724077.25,1,No,No,590647.36
+Mahindra,Thar,143673.62,CNG,11,1508716.44,3,No,Yes,50000.0
+Hyundai,i20,118136.2,Electric,9,1177448.93,1,Yes,No,50000.0
+Mahindra,Bolero,21959.74,Electric,14,1277651.25,1,Yes,No,103252.93
+Volkswagen,Polo,44033.7,Diesel,12,926490.32,2,No,Yes,50000.0
+Honda,City,145435.32,CNG,7,1492484.83,1,No,Yes,274546.33
+Tata,Safari,27752.82,Diesel,8,2157640.3,2,No,Yes,664844.89
+Maruti Suzuki,Alto,83111.63,Petrol,10,409953.28,3,Yes,No,50000.0
+Maruti Suzuki,Dzire,68767.21,Petrol,7,714228.64,1,Yes,Yes,111102.68
+Honda,City,135010.68,Diesel,11,1544791.1,1,No,Yes,50000.0
+Volkswagen,Polo,147886.6,Electric,8,1121396.56,3,Yes,No,50000.0
+Toyota,Glanza,98064.25,CNG,5,822630.73,1,Yes,No,254598.44
+Volkswagen,Taigun,51271.85,Electric,10,1739468.66,1,No,Yes,183744.45
+Volkswagen,Polo,111142.68,Electric,1,1175084.19,1,No,No,813570.97
+Volkswagen,Polo,86871.68,CNG,15,922898.15,1,No,Yes,50000.0
+Tata,Tiago,101133.0,Petrol,14,604381.5,2,Yes,Yes,50000.0
+Mahindra,Thar,97742.93,Electric,10,1824280.24,3,No,No,126266.7
+Tata,Tiago,66255.19,Electric,10,983062.87,3,No,No,50000.0
+Hyundai,Venue,38173.73,CNG,11,1100869.05,3,No,Yes,50000.0
+Tata,Safari,54500.56,Diesel,6,2147648.53,1,No,Yes,981801.35
+Honda,Amaze,33474.21,Petrol,5,871398.69,1,Yes,No,432395.6
+Volkswagen,Virtus,100310.08,Electric,13,1841001.94,2,Yes,Yes,50000.0
+Maruti Suzuki,Dzire,72420.92,CNG,1,784381.04,1,Yes,Yes,483853.1
+Mahindra,Thar,79689.12,Petrol,9,1573963.47,3,Yes,Yes,141999.25
+Volkswagen,Polo,135788.7,Electric,11,1179358.35,2,No,No,50000.0
+Maruti Suzuki,Ertiga,103465.09,Diesel,8,1101406.11,1,No,Yes,106653.28
+Hyundai,Venue,106893.43,CNG,2,1073096.87,2,Yes,Yes,508673.5
+Honda,City,54788.33,Electric,6,1727732.0,4,No,Yes,490094.37
+Kia,Seltos,136545.86,Petrol,5,1746316.13,1,Yes,Yes,630272.32
+Mahindra,XUV300,49662.13,Petrol,8,1190790.87,3,No,Yes,245780.85
+Volkswagen,Taigun,87377.81,CNG,3,1450071.31,3,No,No,679747.4
+Tata,Safari,113056.16,CNG,1,2087669.86,1,No,Yes,1670848.99
+Kia,Sonet,31911.53,Petrol,14,1051290.92,1,No,Yes,92558.07
+Honda,City,110122.24,Petrol,5,1452162.29,1,Yes,Yes,522258.65
+Tata,Altroz,62452.87,Diesel,3,996911.09,1,No,Yes,562253.12
+Hyundai,Grand i10,84262.46,Electric,1,1031729.94,3,No,No,573011.76
+Tata,Altroz,67479.3,CNG,15,914175.87,2,No,No,50000.0
+Volkswagen,Virtus,46622.47,Petrol,7,1553087.56,1,No,Yes,541518.88
+Tata,Safari,73933.27,Petrol,3,2146724.91,1,Yes,Yes,1395611.04
+Volkswagen,Vento,105548.46,CNG,10,1246459.39,1,No,Yes,50000.0
+Volkswagen,Vento,66835.84,Petrol,12,1220632.22,1,No,No,50000.0
+Toyota,Fortuner,13276.66,Petrol,1,3519385.68,2,No,Yes,2886765.83
+Mahindra,Thar,23457.29,Electric,8,1849332.88,1,No,No,581079.97
+Kia,Carens,120172.54,Electric,12,1529440.82,2,No,Yes,50000.0
+Mahindra,Scorpio,137194.17,CNG,5,1728413.14,1,Yes,Yes,661656.85
+Honda,City,145780.99,Electric,8,1790122.58,1,Yes,Yes,245378.86
+Mahindra,XUV300,56447.12,Diesel,13,1307574.31,1,No,Yes,50000.0
+Tata,Safari,82534.2,Electric,1,2383469.28,1,Yes,Yes,1955652.92
+Hyundai,Grand i10,95369.74,CNG,3,714530.27,4,No,Yes,205524.56
+Volkswagen,Virtus,116564.93,Electric,1,1842204.42,3,No,Yes,1161371.11
+Honda,Amaze,14059.9,Electric,4,1120591.8,1,No,No,692587.48
+Volkswagen,Virtus,92257.4,Electric,3,1890151.75,1,Yes,Yes,1218937.75
+Maruti Suzuki,Dzire,139542.1,CNG,15,827215.43,3,No,No,50000.0
+Toyota,Fortuner,107528.13,Diesel,2,3694184.31,2,No,Yes,2511176.28
+Tata,Tiago,120488.11,CNG,4,716844.87,1,Yes,No,114754.11
+Tata,Tiago,59351.3,CNG,13,659194.38,1,No,No,50000.0
+Maruti Suzuki,Alto,62382.17,CNG,2,363059.87,2,No,No,134348.16
+Kia,Seltos,108788.72,CNG,14,1656177.61,1,No,Yes,50000.0
+Honda,City,90782.25,Electric,8,1650859.9,1,No,Yes,365188.06
+Maruti Suzuki,Alto,70945.64,Electric,12,735883.78,1,Yes,Yes,50000.0
+Kia,Seltos,126390.08,CNG,10,1630587.51,2,Yes,Yes,50000.0
+Hyundai,Venue,73442.41,Petrol,8,1082883.32,1,No,Yes,243797.03
+Maruti Suzuki,Alto,47463.69,Petrol,5,371268.57,1,No,No,94752.13
+Volkswagen,Polo,144242.14,CNG,2,845016.76,1,No,Yes,289994.22
+Honda,City,143848.35,Electric,1,1765617.54,1,No,Yes,1260548.54
+Mahindra,Scorpio,115317.09,CNG,14,1664332.5,1,No,Yes,50000.0
+Toyota,Glanza,22228.02,Electric,1,1120252.08,2,No,Yes,845376.28
+Volkswagen,Vento,149734.72,CNG,6,1110973.83,2,No,No,136145.93
+Tata,Nexon,77031.96,Petrol,3,1220700.09,2,Yes,Yes,641400.3
+Honda,City,51005.3,Petrol,5,1408513.69,3,Yes,Yes,514265.22
+Maruti Suzuki,Baleno,99297.02,Diesel,8,976626.1,2,No,Yes,131243.66
+Kia,Carens,16489.98,Electric,5,1552050.86,2,Yes,No,768899.27
+Kia,Sonet,42477.89,CNG,5,1049887.63,1,No,Yes,511810.43
+Kia,Seltos,36307.19,CNG,14,1637529.44,1,No,Yes,181030.12
+Kia,Seltos,106304.46,CNG,13,1691388.45,4,No,Yes,50000.0
+Toyota,Innova,52369.65,Petrol,2,2618502.46,1,No,Yes,2096482.58
+Hyundai,Creta,50249.4,Petrol,2,1550933.97,3,Yes,Yes,941186.63
+Hyundai,Venue,22727.48,Diesel,6,1174297.88,3,No,No,418972.31
+Maruti Suzuki,Baleno,18498.2,CNG,3,894290.17,2,No,Yes,588673.54
+Tata,Altroz,148140.06,Petrol,10,843233.21,2,Yes,Yes,50000.0
+Volkswagen,Taigun,54513.85,Petrol,8,1513140.94,1,No,Yes,432722.81
+Tata,Tiago,91748.5,CNG,10,719014.37,1,No,Yes,50000.0
+Mahindra,Thar,130530.88,Petrol,12,1550430.61,1,No,Yes,50000.0
+Volkswagen,Vento,95757.04,CNG,15,1247506.81,2,No,Yes,50000.0
+Tata,Nexon,17182.17,Electric,9,1478060.42,3,No,Yes,310842.18
+Mahindra,XUV700,126685.51,Diesel,8,2224087.82,3,No,No,437121.84
+Mahindra,Thar,66309.88,Petrol,3,1587929.59,1,No,Yes,1050371.14
+Mahindra,Bolero,57316.68,Electric,9,1273768.22,1,No,Yes,239071.71
+Kia,Sonet,18784.48,Electric,2,1382858.86,1,Yes,No,1072599.03
+Kia,Carens,99769.17,Diesel,12,1351352.76,1,Yes,No,50000.0
+Honda,Elevate,141848.95,Diesel,15,1489104.94,1,Yes,Yes,50000.0
+Toyota,Urban Cruiser,74818.65,CNG,14,1059983.8,2,Yes,No,50000.0
+Volkswagen,Virtus,102170.13,Diesel,11,1715689.73,2,Yes,No,50000.0
+Volkswagen,Polo,16110.18,Diesel,4,929742.48,1,Yes,Yes,545808.54
+Mahindra,XUV300,82003.02,Diesel,5,1323348.14,4,No,Yes,377557.06
+Kia,Sonet,106013.22,Electric,3,1279187.38,4,No,Yes,534503.61
+Volkswagen,Vento,115309.59,Electric,10,1376910.18,4,Yes,Yes,50000.0
+Honda,Elevate,104536.98,Petrol,5,1390885.59,1,No,No,544948.25
+Tata,Tiago,143057.91,CNG,6,724528.7,1,No,Yes,50000.0
+Toyota,Glanza,65990.67,Diesel,3,989923.22,2,Yes,Yes,494142.33
+Kia,Sonet,96397.81,Petrol,8,1042474.85,2,No,No,115135.95
+Volkswagen,Vento,103876.8,CNG,6,1208616.73,1,Yes,Yes,363930.48
+Hyundai,Verna,146992.53,Petrol,14,1326598.07,3,No,Yes,50000.0
+Toyota,Fortuner,19655.03,Electric,15,3889980.04,1,No,No,541804.35
+Toyota,Urban Cruiser,46582.9,Petrol,5,1022817.53,1,Yes,Yes,416991.15
+Tata,Altroz,32129.73,Petrol,5,847365.57,1,Yes,Yes,359686.54
+Kia,Sonet,129451.97,Petrol,11,1101752.73,4,No,Yes,50000.0
+Hyundai,Grand i10,28146.31,Petrol,7,763650.16,2,No,Yes,243109.32
+Kia,Sonet,95923.42,Petrol,11,1126676.72,1,No,Yes,50000.0
+Honda,Amaze,128187.27,Petrol,11,853032.2,4,No,No,50000.0
+Mahindra,XUV300,16213.97,Diesel,11,1237729.48,2,Yes,Yes,52537.9
+Kia,Sonet,111702.07,Electric,10,1265842.36,1,Yes,No,50000.0
+Maruti Suzuki,Ertiga,28778.91,CNG,8,1069612.14,2,Yes,No,275163.27
+Kia,Carens,47473.28,Electric,7,1542178.45,2,No,Yes,540208.86
+Volkswagen,Polo,70815.6,CNG,11,806047.01,1,Yes,Yes,50000.0
+Mahindra,Bolero,32300.63,CNG,5,1096874.94,3,No,No,443671.54
+Tata,Tiago,124570.48,CNG,3,749198.1,2,No,Yes,206242.6
+Maruti Suzuki,Brezza,32749.18,Electric,1,1173651.66,2,No,Yes,869711.97
+Tata,Tiago,21970.8,Petrol,11,656395.67,1,No,Yes,50000.0
+Honda,Amaze,113866.41,Electric,12,1187399.96,1,No,Yes,50000.0
+Hyundai,Creta,127451.79,CNG,6,1619536.88,3,Yes,No,359395.94
+Kia,Sonet,109080.92,Petrol,10,1032100.37,4,No,Yes,50000.0
+Maruti Suzuki,Ertiga,57459.84,CNG,2,1069713.69,2,No,Yes,644862.9
+Kia,Seltos,41853.38,CNG,6,1627177.55,3,No,Yes,564667.79
+Tata,Safari,138022.2,Diesel,6,2235859.64,1,No,Yes,762737.98
+Volkswagen,Polo,59857.64,Electric,11,1141553.72,1,Yes,Yes,50000.0
+Hyundai,Verna,29688.98,CNG,14,1301172.69,1,Yes,No,77994.43
+Hyundai,Grand i10,23632.51,Electric,1,936966.04,1,No,Yes,839159.97
+Maruti Suzuki,Swift,41407.37,CNG,15,716965.69,3,No,Yes,50000.0
+Mahindra,XUV700,18791.01,Petrol,13,2066165.64,1,No,Yes,284301.71
+Kia,Carens,28244.5,Petrol,4,1317328.13,3,No,Yes,638938.56
+Hyundai,Venue,34672.84,Diesel,4,1120316.21,1,No,Yes,663451.65
+Hyundai,i20,76156.27,Diesel,12,1043532.37,1,No,Yes,50000.0
+Volkswagen,Vento,33487.34,Diesel,3,1211859.52,1,Yes,Yes,769982.11
+Maruti Suzuki,Brezza,35848.03,Electric,7,1261048.82,4,No,Yes,284845.93
+Mahindra,Bolero,130323.28,CNG,4,958985.06,1,No,No,316922.53
+Hyundai,Grand i10,88928.12,Diesel,1,793183.4,2,No,Yes,455367.46
+Toyota,Urban Cruiser,49701.23,Petrol,6,1069592.58,1,No,Yes,434557.62
+Volkswagen,Virtus,65077.83,CNG,13,1547244.28,2,No,Yes,89375.81
+Tata,Safari,144573.89,Electric,1,2362736.06,3,Yes,Yes,1429923.61
+Volkswagen,Vento,116053.15,Petrol,1,1133313.41,1,Yes,Yes,676230.15
+Volkswagen,Taigun,52202.03,Petrol,5,1498549.92,4,No,No,507630.56
+Volkswagen,Taigun,58595.54,Electric,5,1671636.04,2,No,No,730621.82
+Mahindra,Bolero,58245.77,Diesel,15,1195836.93,1,No,Yes,50000.0
+Volkswagen,Taigun,88745.99,Petrol,5,1452595.67,2,No,Yes,526303.11
+Honda,City,96424.73,Electric,6,1694037.1,3,Yes,Yes,510699.17
+Honda,City,86996.38,Diesel,12,1638505.11,2,No,No,50000.0
+Tata,Tiago,85999.54,Diesel,7,760181.6,1,No,Yes,114670.69
+Volkswagen,Vento,108790.06,Diesel,14,1349319.37,1,No,No,50000.0
+Kia,Seltos,145599.82,CNG,12,1718864.63,1,No,Yes,50000.0
+Volkswagen,Taigun,86897.7,Electric,15,1752474.65,1,Yes,Yes,50000.0
+Hyundai,Creta,92821.21,Diesel,14,1651518.84,4,No,Yes,50000.0
+Maruti Suzuki,Baleno,146642.92,CNG,9,850810.59,3,No,No,50000.0
+Mahindra,Bolero,135860.43,CNG,13,1028462.89,2,Yes,No,50000.0
+Kia,Seltos,34737.75,Electric,2,1965231.1,4,No,No,1126631.92
+Kia,Carens,99538.28,Electric,9,1461875.84,1,Yes,Yes,124307.47
+Tata,Altroz,97261.62,Diesel,7,1040498.92,1,Yes,No,179486.98
+Tata,Altroz,47690.04,Electric,11,1115360.08,1,No,Yes,50000.0
+Volkswagen,Polo,112824.57,CNG,3,876303.45,2,No,No,309161.07
+Maruti Suzuki,Brezza,14179.17,Electric,3,1268355.99,1,No,Yes,961378.23
+Hyundai,i20,101798.74,Diesel,15,907348.33,2,Yes,No,50000.0
+Maruti Suzuki,Ertiga,73196.24,Petrol,3,1074333.02,2,Yes,Yes,504867.1
+Toyota,Glanza,78442.15,Electric,12,1066768.35,1,No,No,50000.0
+Hyundai,i20,147521.71,Diesel,15,962462.07,1,No,Yes,50000.0
+Mahindra,Scorpio,141374.08,Diesel,8,1724421.45,2,Yes,No,182402.1
+Tata,Safari,105480.48,CNG,11,2025026.82,1,Yes,Yes,50000.0
+Kia,Seltos,112120.71,CNG,10,1700019.18,2,No,Yes,92132.09
+Maruti Suzuki,Baleno,44306.94,Petrol,2,810854.92,1,Yes,Yes,559078.15
+Volkswagen,Taigun,65056.09,CNG,8,1482296.82,3,No,No,316987.43
+Maruti Suzuki,Swift,126604.51,Diesel,10,764392.96,1,No,Yes,50000.0
+Tata,Nexon,142206.26,Diesel,4,1264393.05,1,Yes,Yes,486518.5
+Hyundai,i20,128857.88,Electric,6,1074967.64,1,No,No,265438.31
+Hyundai,i20,61176.53,CNG,14,815898.01,4,No,Yes,50000.0
+Kia,Seltos,120576.86,Petrol,7,1732406.75,2,No,No,420435.11
+Tata,Nexon,103979.86,Diesel,7,1220931.15,1,No,Yes,262713.85
+Mahindra,XUV700,48373.39,Petrol,2,2078679.39,1,Yes,No,1636220.86
+Mahindra,Thar,104757.92,Diesel,11,1720783.5,1,Yes,Yes,50000.0
+Tata,Altroz,124390.72,CNG,7,943338.0,4,Yes,Yes,54860.28
+Honda,City,79040.6,Diesel,1,1640761.7,1,Yes,Yes,1287379.4
+Hyundai,Creta,49916.07,Diesel,11,1619322.2,1,Yes,Yes,113989.44
+Tata,Tiago,35507.13,Petrol,3,635029.61,2,Yes,Yes,288486.66
+Tata,Altroz,143877.3,CNG,4,899863.45,1,Yes,Yes,261281.1
+Mahindra,Bolero,147304.48,CNG,11,980484.36,2,Yes,Yes,50000.0
+Mahindra,XUV300,12964.91,Petrol,4,1131610.32,2,No,Yes,658565.25
+Volkswagen,Polo,66893.03,Diesel,11,975739.81,2,Yes,No,50000.0
+Mahindra,Thar,139932.94,Petrol,6,1514611.42,3,Yes,Yes,300690.86
+Toyota,Fortuner,62700.06,Electric,1,3850269.6,2,Yes,Yes,2995039.94
+Volkswagen,Virtus,62344.19,CNG,12,1617285.89,3,Yes,Yes,58919.56
+Mahindra,Bolero,104298.07,Petrol,15,1082366.18,1,Yes,No,50000.0
+Volkswagen,Vento,21039.42,Petrol,13,1186013.75,3,No,Yes,102306.65
