@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import os
 
 st.set_page_config(page_title="VisionaryX - Indian Used Car Predictor", page_icon="🏎️", layout="wide")
 
@@ -150,7 +151,8 @@ st.write("Fast, reliable, and strictly optimized market calculations to predict 
 @st.cache_resource
 def load_model():
     try:
-        with open('best_rf_model.pkl', 'rb') as f:
+        model_path = os.path.join(os.path.dirname(__file__), 'best_rf_model.pkl')
+        with open(model_path, 'rb') as f:
             return pickle.load(f)
     except FileNotFoundError:
         return None
